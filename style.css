@@ -60,6 +60,31 @@ body.page-body{padding-bottom:0;}
 .page-content ul{margin:0 0 14px 0;padding-left:20px;list-style:disc;}
 .page-content li{color:#6b7280;font-size:16px;margin-bottom:4px;}
 
+/* --- error pages (401/403/404/410/500/503) --- */
+.error-page{
+  max-width:640px;text-align:center;
+  padding-top:96px;padding-bottom:120px;
+}
+.error-code{
+  font-family:var(--head);font-weight:800;
+  font-size:clamp(52px,9vw,88px);
+  color:var(--blue);line-height:1;margin-bottom:20px;
+  letter-spacing:-1px;
+}
+.error-page[data-tone="warn"] .error-code{color:var(--amber);}
+.error-page[data-tone="danger"] .error-code{color:var(--red);}
+.error-page h1{text-align:center;}
+.error-page .lead-sub{margin:0 auto 40px;text-align:center;}
+.error-actions{
+  display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-bottom:28px;
+}
+.error-links{
+  display:flex;gap:22px;justify-content:center;flex-wrap:wrap;
+  font-size:14px;
+}
+.error-links a{color:#6b7280;text-decoration:underline;}
+.error-links a:hover{color:var(--blue);}
+
 /* --- blog: breadcrumb, category grid, article cards, article prose --- */
 .breadcrumb{
   display:flex;flex-wrap:wrap;align-items:center;gap:8px;

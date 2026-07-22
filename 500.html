@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Serverfehler (500) — function concept</title>
+<meta name="description" content="Es ist ein unerwarteter Serverfehler aufgetreten." />
+<meta name="robots" content="noindex" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body class="page-body">
+
+<header class="page-header">
+  <div class="page-header-inner">
+    <a href="index.html" class="page-logo">
+      <span class="logo-mark">⚙</span>
+      <span>function<br />concept</span>
+    </a>
+    <nav class="page-nav">
+      <a href="index.html#leistungen">Leistungen</a>
+      <a href="index.html#system">System</a>
+      <a href="index.html#system">Google Ads</a>
+      <a href="index.html#kontakt" class="btn-solid btn-nav">Kontakt</a>
+    </nav>
+  </div>
+</header>
+
+<main class="page-content error-page" data-tone="danger">
+  <div class="error-code">500</div>
+  <h1>Es ist ein Fehler aufgetreten</h1>
+  <p class="lead-sub">Auf unserem Server ist ein unerwarteter Fehler aufgetreten. Bitte versuche es in ein paar Minuten erneut.</p>
+
+  <div class="error-actions">
+    <a href="index.html" class="btn-solid btn-nav">Zur Startseite</a>
+  </div>
+
+  <nav class="error-links">
+    <a href="index.html#leistungen">Leistungen</a>
+    <a href="blog/index.html">Blog</a>
+    <a href="index.html#kontakt">Kontakt</a>
+  </nav>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo"><span class="logo-mark">⚙</span> function<br />concept</div>
+      <p>Performance Marketing &amp; Lead Generierung</p>
+    </div>
+    <nav class="footer-nav">
+      <a href="blog/index.html">Blog</a>
+      <a href="blog/kategorien.html">Blog-Kategorien</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="agb.html">AGB</a>
+    </nav>
+  </div>
+  <p class="footer-copy">© 2026 Function Concept. Alle Rechte vorbehalten.</p>
+</footer>
+
+<button class="cookie-pill" id="cookiePill">Cookie-Einstellungen</button>
+
+<div class="cookie-modal" id="cookieModal">
+  <div class="cookie-modal-inner">
+    <h3>Datenschutz &amp; Cookies</h3>
+    <p>Wir verwenden Cookies und ähnliche Technologien, um die Website sicher zu betreiben, Zugriffe zu analysieren und Marketingmaßnahmen zu verbessern. Du kannst selbst entscheiden, welche Cookies verwendet werden dürfen.</p>
+    <div class="cookie-actions">
+      <button class="btn-outline" id="cookieNecessary">Nur notwendige Cookies</button>
+      <button class="btn-solid" id="cookieAll">Alle akzeptieren</button>
+    </div>
+    <div class="cookie-links">
+      <a href="datenschutz.html">Datenschutzerklärung</a><span>·</span><a href="impressum.html">Impressum</a>
+    </div>
+  </div>
+</div>
+
+<script src="page.js"></script>
+</body>
+</html>
