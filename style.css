@@ -57,6 +57,62 @@ body.page-body{padding-bottom:0;}
 .page-content ul{margin:0 0 14px 0;padding-left:20px;list-style:disc;}
 .page-content li{color:#6b7280;font-size:16px;margin-bottom:4px;}
 
+/* --- blog: breadcrumb, category grid, article cards, article prose --- */
+.breadcrumb{
+  display:flex;flex-wrap:wrap;align-items:center;gap:8px;
+  font-size:13px;color:#9aa1ac;margin-bottom:28px;
+}
+.breadcrumb a{color:#6b7280;text-decoration:none;}
+.breadcrumb a:hover{color:var(--blue);}
+.breadcrumb .sep{color:#c7cbd3;}
+.breadcrumb .current{color:var(--ink);font-weight:600;}
+
+.page-content .lead-sub{font-size:17px;color:#6b7280;margin:-24px 0 40px;max-width:600px;}
+
+.blog-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));
+  gap:20px;margin-bottom:8px;
+}
+.blog-card{
+  display:block;background:#fff;border:1px solid var(--border);border-radius:12px;
+  padding:24px;transition:border-color .15s ease, transform .15s ease;
+}
+.blog-card:hover{border-color:var(--blue);transform:translateY(-2px);}
+.blog-card .blog-card-icon{font-size:22px;margin-bottom:14px;}
+.blog-card h3{font-family:var(--head);font-weight:700;font-size:17px;color:var(--ink);margin-bottom:8px;}
+.blog-card p{color:#6b7280;font-size:14px;margin:0;}
+.blog-card .count{
+  display:inline-block;margin-top:14px;font-size:12px;font-weight:600;
+  color:var(--blue);text-decoration:none;
+}
+
+.article-list{display:grid;gap:16px;margin-bottom:8px;}
+.article-card{
+  display:block;background:#fff;border:1px solid var(--border);border-radius:12px;
+  padding:22px 24px;transition:border-color .15s ease;
+}
+.article-card:hover{border-color:var(--blue);}
+.article-card .article-meta{
+  display:flex;gap:10px;align-items:center;font-size:12px;color:#9aa1ac;margin-bottom:8px;
+}
+.article-card .tag-chip{
+  background:rgba(59,130,246,.08);color:var(--blue);font-weight:600;
+  padding:3px 10px;border-radius:999px;font-size:11px;letter-spacing:.3px;
+}
+.article-card h3{font-family:var(--head);font-weight:700;font-size:18px;color:var(--ink);margin-bottom:6px;}
+.article-card p{color:#6b7280;font-size:14.5px;margin:0;}
+
+.article-header{margin-bottom:40px;}
+.article-header .article-meta{
+  display:flex;gap:10px;align-items:center;font-size:13px;color:#9aa1ac;margin-bottom:16px;
+}
+.article-header .tag-chip{
+  background:rgba(59,130,246,.08);color:var(--blue);font-weight:600;
+  padding:4px 12px;border-radius:999px;font-size:12px;letter-spacing:.3px;
+}
+.article-header h1{margin-bottom:12px;}
+.article-header .lead-sub{margin:0;}
+
 body{
   font-family:var(--sans);
   background:var(--bg);
