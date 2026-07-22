@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>function concept — Google Ads Spezialist</title>
+<meta name="description" content="Struktur. Tracking. Ergebnis. Kein Zufall. Google Ads Betreuung von Steven — Softwareentwickler & Performance-Marketer." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<canvas id="matrixRain" aria-hidden="true"></canvas>
+<div class="crt-overlay" aria-hidden="true"></div>
+
+<div class="timeline-line" aria-hidden="true"><div class="timeline-progress" id="timelineProgress"></div></div>
+
+<main>
+
+  <!-- INIT -->
+  <section class="block" data-marker="INIT" data-marker-color="blue">
+    <div class="card terminal-card reveal">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">terminal — ads.init()</span>
+      </div>
+      <div class="terminal-body type-lines">
+        <p><span class="prompt">$</span> npm run google-ads --mode=performance</p>
+        <p class="dim">&gt; Initializing campaign engine...</p>
+        <p class="dim">&gt; Loading keyword database... <span class="ok">✓</span></p>
+        <p class="dim">&gt; Connecting tracking pixels... <span class="ok">✓</span></p>
+        <p class="ok">✓ System ready.</p>
+      </div>
+    </div>
+
+    <div class="tag tag-blue reveal">&gt;_ GOOGLE ADS SPEZIALIST</div>
+
+    <div class="code-block reveal">
+      <p class="kw">CONST RESULT = {</p>
+      <h1 class="big glitch"><span class="blue">KUNDEN:</span> <span class="ink">MEHR,</span></h1>
+      <h1 class="big glitch"><span class="amber">ANRUFE:</span> <span class="amber">MEHR,</span></h1>
+      <p class="kw">}</p>
+      <p class="comment">// // Struktur. Tracking. Ergebnis. Kein Zufall.</p>
+    </div>
+
+    <div class="status-row reveal">
+      <span class="status-text">status: <span class="ok">online</span></span>
+    </div>
+
+    <a href="#kontakt" class="start-btn reveal">$ ./START --NOW <span class="arrow">→</span></a>
+  </section>
+
+  <!-- ERROR -->
+  <section class="block" data-marker="ERROR" data-marker-color="red">
+    <div class="progress-row reveal">
+      <span class="progress-label">[SCANNING ERRORS]</span>
+      <span class="progress-bar bar-red"></span>
+      <span class="ok">✓ done</span>
+    </div>
+
+    <p class="comment reveal">// // ERROR: Die meisten Kampagnen schlagen fehl</p>
+    <p class="warn reveal">⚠ STDERR: FEHLER ERKANNT</p>
+
+    <div class="code-block reveal">
+      <p class="kw">TRY {</p>
+      <h1 class="big ink glitch"><span>KAMPAGNE</span><br /><span>STARTEN</span></h1>
+      <p class="kw">} CATCH(ERR) {</p>
+      <h2 class="big-sm red glitch">BUDGET_LOST</h2>
+      <p class="kw">}</p>
+    </div>
+
+    <div class="card terminal-card reveal">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">error.log</span>
+      </div>
+      <div class="terminal-body error-list type-lines">
+        <p><span class="idx">[01]</span> <span class="ic">🎯</span> throw new Error('Kein Tracking → Kein Ergebnis messbar')</p>
+        <p><span class="idx">[02]</span> <span class="ic">📊</span> throw new Error('Falsche Keywords → Budget verbrannt')</p>
+        <p><span class="idx">[03]</span> <span class="ic">🛡</span> throw new Error('Keine Struktur → Chaos nicht optimierbar')</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section class="block" data-marker="PROCESS" data-marker-color="green" id="system">
+    <div class="progress-row reveal">
+      <span class="progress-label">[BUILDING PIPELINE]</span>
+      <span class="progress-bar bar-green"></span>
+      <span class="ok">✓ done</span>
+    </div>
+
+    <p class="comment reveal">// // Pipeline: Analyse → Optimierung → Repeat</p>
+    <p class="exec reveal">[→] ABLAUF.EXECUTE()</p>
+
+    <h2 class="fn-title reveal glitch"><span class="kw">FUNCTION</span> <span class="ink">SO_LÄUFT</span><br /><span class="green">ES_AB</span><span class="ink">() {</span></h2>
+
+    <div class="pipeline-grid reveal stagger">
+      <div class="pipe-step"><span class="step-idx blue">01</span><h4 class="blue">ANALYSE</h4><p>→ scan(markt, keywords, wettbewerb)</p></div>
+      <div class="pipe-step"><span class="step-idx ink">02</span><h4>EINRICHTUNG</h4><p>→ setup(tracking, struktur, kampagnen)</p></div>
+      <div class="pipe-step"><span class="step-idx amber">03</span><h4 class="amber">KAMPAGNENSTART</h4><p>→ deploy() // live in Tagen</p></div>
+      <div class="pipe-step"><span class="step-idx red">04</span><h4 class="red">OPTIMIEREN</h4><p>→ optimize(data) // datenbasiert</p></div>
+      <div class="pipe-step"><span class="step-idx ink">05</span><h4>LAUFEN LASSEN</h4><p>→ run(campaign, { stable: true })</p></div>
+      <div class="pipe-step"><span class="step-idx green">06</span><h4 class="green">CONVERSIONS</h4><p>→ yield { leads, anrufe, kunden }</p></div>
+      <div class="pipe-step"><span class="step-idx red">07</span><h4 class="red">OPTIMIEREN</h4><p>→ optimize(keywords, anzeigen, gebote)</p></div>
+      <div class="pipe-step"><span class="step-idx blue">08</span><h4 class="blue">LAUFEN LASSEN</h4><p>→ run(campaign, { scale: true })</p></div>
+      <div class="pipe-step"><span class="step-idx green">09</span><h4 class="green">CONVERSIONS</h4><p>→ yield { mehrUmsatz, wachstum }</p></div>
+      <div class="pipe-step faded"><span class="step-idx red">10</span><h4 class="red">OPTIMIEREN</h4><p>→ while(true) { optimize() } // repeat_</p></div>
+    </div>
+
+    <p class="kw reveal">} // end pipeline</p>
+  </section>
+
+  <!-- TRUST -->
+  <section class="block" data-marker="TRUST" data-marker-color="blue">
+    <div class="progress-row reveal">
+      <span class="progress-label">[VERIFYING RESULTS]</span>
+      <span class="progress-bar bar-blue"></span>
+      <span class="ok">✓ done</span>
+    </div>
+
+    <p class="comment reveal">// // Kein Glücksspiel. Ein System.</p>
+
+    <div class="code-block reveal">
+      <p class="kw">IF (RICHTIG_GEMACHT) {</p>
+      <h1 class="big ink glitch"><span>FUNKTIONIERT</span><br /><span>ES_</span></h1>
+      <p class="kw">}</p>
+    </div>
+
+    <div class="card terminal-card reveal">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">google-ads.config.ts</span>
+      </div>
+      <div class="terminal-body type-lines">
+        <p class="dim">// Google Ads ist kein Glücksspiel.</p>
+        <p class="dim">// Es ist ein kontrollierbares System.</p>
+        <p class="dim">//</p>
+        <p class="dim">// Google Ads ist eine Auktionsplattform –</p>
+        <p class="dim">// jeder Mitbewerber ist ein potenzieller Mitbieter.</p>
+        <p class="ok">→ Wer die Auktion versteht, gewinnt.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="block" data-marker="ABOUT" data-marker-color="amber" id="about">
+    <p class="comment reveal">// // whoami</p>
+    <p class="exec reveal">$ CAT /ABOUT/STEVEN.MD</p>
+
+    <h2 class="fn-title reveal glitch"><span class="kw">CLASS</span> <span class="ink">STEVEN</span><br /><span class="kw">EXTENDS</span> <span class="amber">MARKETER</span> <span class="ink">{</span></h2>
+
+    <div class="card terminal-card reveal">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">steven.config.json</span>
+      </div>
+      <div class="terminal-body json type-lines">
+        <p>{</p>
+        <p>&nbsp;&nbsp;"rolle": <span class="green">"Softwareentwickler &amp; Performance-Marketer"</span>,</p>
+        <p>&nbsp;&nbsp;"agentur": <span class="red">false</span>,</p>
+        <p>&nbsp;&nbsp;"typ": <span class="green">"One-Man-Show"</span>,</p>
+        <p>&nbsp;&nbsp;"werbebudget": <span class="amber">"1.000.000€+"</span>,</p>
+        <p>&nbsp;&nbsp;"erfahrung": <span class="amber">"7+ Jahre"</span>,</p>
+        <p>&nbsp;&nbsp;"overhead": <span class="red">null</span></p>
+        <p>}</p>
+      </div>
+    </div>
+
+    <p class="comment reveal">// // Plattformen</p>
+    <div class="platform-grid reveal stagger">
+      <div class="platform">▸ GOOGLE ADS</div>
+      <div class="platform">▸ FACEBOOK</div>
+      <div class="platform">▸ TIKTOK</div>
+      <div class="platform">▸ YOUTUBE</div>
+      <div class="platform">▸ DISPLAY</div>
+      <div class="platform">▸ BANNER</div>
+    </div>
+
+    <p class="kw reveal">} // end class</p>
+  </section>
+
+  <!-- PRICING -->
+  <section class="block" data-marker="PRICING" data-marker-color="green" id="preise">
+    <div class="progress-row reveal">
+      <span class="progress-label">[LOADING PRICING MODULE]</span>
+      <span class="progress-bar bar-green"></span>
+      <span class="ok">✓ done</span>
+    </div>
+
+    <p class="comment reveal">// // Transparent. Fair. Punkt.</p>
+    <p class="exec reveal">$ CAT PRICING.YML</p>
+
+    <h2 class="fn-title reveal glitch"><span class="ink">GOOGLE ADS</span><br /><span class="amber">BETREUUNG_</span></h2>
+    <p class="lead reveal">→ Alles. Ein Preis. Keine Spielchen.</p>
+
+    <div class="pricing-grid reveal">
+      <div class="price-card highlight">
+        <div class="price-tag"><span class="dot-sq blue"></span>ERSTE KAMPAGNE</div>
+        <p class="price"><span class="dim-sm">const price =</span> <span class="blue">300€</span> <span class="unit">/ Monat</span></p>
+        <ul>
+          <li>Einrichtung &amp; Betreuung</li>
+          <li>Conversion-Tracking Setup</li>
+          <li>Laufende Optimierung</li>
+          <li>Landingpage kostenlos (auf Wunsch)</li>
+        </ul>
+      </div>
+      <div class="price-card">
+        <div class="price-tag"><span class="dot-sq amber"></span>JEDE WEITERE KAMPAGNE</div>
+        <p class="price"><span class="dim-sm">const addon =</span> <span class="amber">200€</span> <span class="unit">/ Monat</span></p>
+        <ul>
+          <li>Eigene Kampagnenstruktur</li>
+          <li>Separate Optimierung</li>
+          <li>Tracking inklusive</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card terminal-card reveal">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">vertrag.config</span>
+      </div>
+      <div class="terminal-body type-lines">
+        <p><span class="ok">✓</span> monatlich_kuendbar: <span class="green">true</span></p>
+        <p><span class="ok">✓</span> knebelvertrag: <span class="red">false</span></p>
+        <p><span class="ok">✓</span> agenturvertrag: <span class="red">false</span></p>
+        <p><span class="ok">✓</span> einrichtungskosten: <span class="amber">0</span></p>
+        <p><span class="ok">✓</span> landingpage: <span class="green">"kostenlos auf Wunsch"</span></p>
+      </div>
+    </div>
+
+    <a href="#kontakt" class="cta-btn reveal" id="kontakt">⚡ $ NPM RUN START --JETZT <span class="arrow">→</span></a>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="footer-logo"><span class="logo-mark">⚙</span> function<br />concept</div>
+      <p>Performance Marketing &amp; Lead Generierung</p>
+    </div>
+    <nav class="footer-nav">
+      <a href="#">Blog</a>
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+      <a href="#">AGB</a>
+      <a href="#">Admin</a>
+    </nav>
+  </div>
+  <p class="footer-copy">© 2026 Function Concept. Alle Rechte vorbehalten.</p>
+</footer>
+
+<div class="status-bar">
+  <span><span class="dot-sq green"></span> SYS.OK</span>
+  <span><span class="dot-sq green"></span> ONLINE</span>
+  <span><span class="dot-sq green"></span> CONNECTED</span>
+  <span class="status-right">google-ads-1.tsx&nbsp;&nbsp;<span id="clock">00:00:00</span></span>
+</div>
+
+<button class="cookie-pill" id="cookiePill">Cookie-Einstellungen</button>
+
+<div class="cookie-modal" id="cookieModal">
+  <div class="cookie-modal-inner">
+    <h3>Datenschutz &amp; Cookies</h3>
+    <p>Wir verwenden Cookies und ähnliche Technologien, um die Website sicher zu betreiben, Zugriffe zu analysieren und Marketingmaßnahmen zu verbessern. Du kannst selbst entscheiden, welche Cookies verwendet werden dürfen.</p>
+    <div class="cookie-actions">
+      <button class="btn-outline" id="cookieNecessary">Nur notwendige Cookies</button>
+      <button class="btn-solid" id="cookieAll">Alle akzeptieren</button>
+    </div>
+    <div class="cookie-links">
+      <a href="datenschutz.html">Datenschutzerklärung</a><span>·</span><a href="impressum.html">Impressum</a>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
