@@ -1,0 +1,19 @@
+RewriteEngine On
+
+# Redirect requests with a trailing .html to the extensionless URL (canonical, avoids duplicate content)
+RewriteCond %{THE_REQUEST} \s/+(.*)\.html[\s?] [NC]
+RewriteRule ^ /%1 [R=301,L]
+
+# Serve the matching .html file for extensionless requests, without changing the visible URL
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# Custom error pages
+ErrorDocument 401 /401.html
+ErrorDocument 403 /403.html
+ErrorDocument 404 /404.html
+ErrorDocument 410 /410.html
+ErrorDocument 500 /500.html
+ErrorDocument 503 /503.html

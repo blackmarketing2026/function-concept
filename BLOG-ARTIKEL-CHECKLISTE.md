@@ -11,7 +11,9 @@ nicht nur die Artikeldatei selbst.
       (`.article-list`, neuester Artikel steht oben)
 - [ ] Artikel in der globalen Blog-Übersicht verlinken: `blog/index.html`
       (`.article-list`, neuester Artikel steht oben)
-- [ ] Eintrag in `sitemap.xml` ergänzen (`<url>` mit vollständiger URL, `changefreq`, `priority`)
+- [ ] Eintrag in `sitemap.xml` ergänzen (`<url>` mit vollständiger URL **ohne** `.html`-Endung, `changefreq`, `priority`)
+- [ ] Alle internen `<a href="...">`-Links auf die neue Datei **ohne** `.html`-Endung setzen
+      (Dateiname bleibt `<slug>.html`, verlinkt wird aber nur `<slug>`) — greift dank `.htaccess`
 - [ ] Falls der Artikel einen neuen Drittdienst/eine neue Technologie erwähnt oder einbindet:
       Abschnitt in `datenschutz.html` prüfen/ergänzen
 

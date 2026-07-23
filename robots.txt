@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /datenschutz.html
+Disallow: /datenschutz
 
 Sitemap: https://function-concept.com/sitemap.xml
