@@ -65,4 +65,14 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://function-concept.com/blog/webseite/wie-sollte-eine-webseite-aufgebaut-sein-nach-uebergabe</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://function-concept.com/blog/webseite/anfragen-ueber-die-website-erhalten</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
