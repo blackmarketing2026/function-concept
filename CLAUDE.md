@@ -36,3 +36,4 @@ Verbindlicher Prozess steht in `BLOG-ARTIKEL-CHECKLISTE.md`. Kurzfassung: Artike
 - Formular-Handling (Submit, Statusanzeige) liegt in `page.js`, analog zum bestehenden Cookie-Consent-Code dort
 - Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `RESEND_TO_EMAIL` — Domain bei Resend ist bereits verifiziert
 - Datenschutz-Hinweis zu Resend steht in `datenschutz.html`, Abschnitt 7 (Kontaktformular)
+- Besuchsverlauf: Bei erteiltem Analytics-Consent (`localStorage['cookie-consent'].analytics === true`) loggt `page.js` jeden Seitenaufruf in `localStorage['fc_visit_log']` (max. 30 Einträge). Wird beim Absenden des Kontaktformulars als `besuchsverlauf` mitgeschickt und von `api/_email-template.js` als chronologische Tabelle in die Benachrichtigungsmail gerendert. Ohne Consent bleibt das Feld leer. Datenschutz-Hinweis in `datenschutz.html`, Abschnitt 5.

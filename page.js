@@ -1,7 +1,30 @@
 const pill = document.getElementById('cookiePill');
 const modal = document.getElementById('cookieModal');
 const consentKey = 'cookie-consent';
+const visitLogKey = 'fc_visit_log';
+const visitLogMax = 30;
 const GTM_ID = 'GTM-NNB55THZ';
+
+function logPageview() {
+  const params = new URLSearchParams(location.search);
+  const entry = {
+    ts: new Date().toISOString(),
+    path: location.pathname,
+    ref: document.referrer || null,
+    utm_source: params.get('utm_source'),
+    utm_medium: params.get('utm_medium'),
+    utm_campaign: params.get('utm_campaign'),
+  };
+  let log = [];
+  try {
+    log = JSON.parse(localStorage.getItem(visitLogKey)) || [];
+  } catch {
+    log = [];
+  }
+  log.push(entry);
+  if (log.length > visitLogMax) log = log.slice(log.length - visitLogMax);
+  localStorage.setItem(visitLogKey, JSON.stringify(log));
+}
 
 function openModal() { modal.classList.add('open'); }
 function closeModal() { modal.classList.remove('open'); }
@@ -35,6 +58,7 @@ modal?.addEventListener('click', (e) => { if (e.target === modal) closeModal(); 
 document.getElementById('cookieAll')?.addEventListener('click', () => {
   localStorage.setItem(consentKey, JSON.stringify({ analytics: true, marketing: true }));
   loadGTM();
+  logPageview();
   closeModal();
 });
 document.getElementById('cookieNecessary')?.addEventListener('click', () => {
@@ -47,11 +71,19 @@ kontaktForm?.addEventListener('submit', async (e) => {
   e.preventDefault();
   const status = document.getElementById('kontaktStatus');
   const submitBtn = document.getElementById('kontaktSubmit');
+  let besuchsverlauf = [];
+  try {
+    besuchsverlauf = JSON.parse(localStorage.getItem(visitLogKey)) || [];
+  } catch {
+    besuchsverlauf = [];
+  }
+
   const data = {
     name: document.getElementById('name').value.trim(),
     email: document.getElementById('email').value.trim(),
     telefon: document.getElementById('telefon').value.trim(),
     nachricht: document.getElementById('nachricht').value.trim(),
+    besuchsverlauf,
   };
 
   submitBtn.disabled = true;
@@ -83,5 +115,8 @@ if (!storedConsent) {
   const consent = JSON.parse(storedConsent);
   if (consent.analytics || consent.marketing) {
     loadGTM();
+  }
+  if (consent.analytics) {
+    logPageview();
   }
 }

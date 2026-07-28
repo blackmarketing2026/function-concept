@@ -14,7 +14,63 @@ function toWhatsappNumber(telefon) {
   return digits;
 }
 
-export function buildKontaktEmailHtml({ name, email, telefon, nachricht }) {
+function formatVisitTime(iso) {
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return escapeHtml(iso);
+  return date.toLocaleString('de-DE', {
+    timeZone: 'Europe/Berlin',
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+  });
+}
+
+function formatVisitSource(entry) {
+  if (entry.utm_source || entry.utm_medium || entry.utm_campaign) {
+    return [entry.utm_source, entry.utm_medium, entry.utm_campaign]
+      .filter(Boolean)
+      .map(escapeHtml)
+      .join(' / ');
+  }
+  if (entry.ref) {
+    try {
+      return escapeHtml(new URL(entry.ref).hostname);
+    } catch {
+      return escapeHtml(entry.ref);
+    }
+  }
+  return '–';
+}
+
+function buildBesuchsverlaufHtml(besuchsverlauf) {
+  if (!Array.isArray(besuchsverlauf) || besuchsverlauf.length === 0) return '';
+
+  const rows = [...besuchsverlauf]
+    .sort((a, b) => new Date(b.ts) - new Date(a.ts))
+    .map(
+      (entry) => `
+                <tr>
+                  <td style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:12.5px;color:#8a8f98;white-space:nowrap;border-bottom:1px solid #e2e4ea;">${formatVisitTime(entry.ts)}</td>
+                  <td style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#181d25;border-bottom:1px solid #e2e4ea;">${escapeHtml(entry.path || '/')}</td>
+                  <td style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:12.5px;color:#8a8f98;border-bottom:1px solid #e2e4ea;">${formatVisitSource(entry)}</td>
+                </tr>`
+    )
+    .join('');
+
+  return `
+              <p style="margin:24px 0 6px;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Besuchsverlauf (${besuchsverlauf.length} Seitenaufrufe, neueste zuerst)</p>
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:24px;border:1px solid #e2e4ea;border-radius:8px;overflow:hidden;">
+                <tr style="background:#f6f7f9;">
+                  <th align="left" style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#8a8f98;text-transform:uppercase;">Zeitpunkt</th>
+                  <th align="left" style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#8a8f98;text-transform:uppercase;">Seite</th>
+                  <th align="left" style="padding:8px 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#8a8f98;text-transform:uppercase;">Quelle</th>
+                </tr>${rows}
+              </table>`;
+}
+
+export function buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchsverlauf }) {
   const safeName = escapeHtml(name);
   const safeEmail = escapeHtml(email);
   const safeTelefon = telefon ? escapeHtml(telefon) : null;
@@ -69,7 +125,7 @@ export function buildKontaktEmailHtml({ name, email, telefon, nachricht }) {
 
               <p style="margin:0 0 6px;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Nachricht</p>
               <p style="margin:0 0 24px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.5;color:#181d25;background:#f6f7f9;border:1px solid #e2e4ea;border-radius:8px;padding:14px 16px;">${safeNachricht}</p>
-
+              ${buildBesuchsverlaufHtml(besuchsverlauf)}
               ${buttons}
             </td>
           </tr>

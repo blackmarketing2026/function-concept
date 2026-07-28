@@ -6,7 +6,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { name, email, telefon, nachricht } = req.body || {};
+  const { name, email, telefon, nachricht, besuchsverlauf } = req.body || {};
 
   if (!name || !email || !nachricht) {
     return res.status(400).json({ error: 'Name, E-Mail und Nachricht sind erforderlich.' });
@@ -32,7 +32,7 @@ export default async function handler(req, res) {
         reply_to: email,
         subject: `Neue Kontaktanfrage von ${name}`,
         text: `Name: ${name}\nE-Mail: ${email}\nTelefon: ${telefon || '–'}\n\nNachricht:\n${nachricht}`,
-        html: buildKontaktEmailHtml({ name, email, telefon, nachricht }),
+        html: buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchsverlauf }),
       }),
     });
 
