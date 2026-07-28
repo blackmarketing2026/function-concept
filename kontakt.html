@@ -5,7 +5,7 @@
 <meta name="google-site-verification" content="ISfhIYmd7I1d00McXan0aeN4cW4auFGI1s-ROfkinV8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Kontakt — function concept</title>
-<meta name="description" content="Nimm Kontakt zu Function Concept auf — für Google Ads Betreuung, Performance Marketing und Fragen rund um deine Kundengewinnung." />
+<meta name="description" content="Kostenlos jetzt anfragen: Kontakt zu Function Concept für Google Ads Betreuung, Performance Marketing und Kundengewinnung. Antwort in der Regel innerhalb von 24h." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
@@ -28,30 +28,50 @@
   </div>
 </header>
 
-<main class="page-content">
-  <h1>Kontakt</h1>
-  <p class="lead-sub">Schreib uns kurz, worum es geht — wir melden uns zeitnah zurück.</p>
+<main class="page-content kontakt-page">
+  <div class="tag tag-blue">&gt;_ KONTAKT.INIT()</div>
 
-  <form id="kontaktForm" class="contact-form" novalidate>
-    <div class="form-field">
-      <label for="name">Name</label>
-      <input type="text" id="name" name="name" autocomplete="name" required />
+  <div class="code-block">
+    <p class="kw">CONST ANFRAGE = {</p>
+    <h1 class="big ink">Kostenlos <span class="blue">jetzt anfragen</span></h1>
+    <p class="kw">}</p>
+    <p class="comment">// Antwort in der Regel innerhalb von 24h. Unverbindlich &amp; kostenlos.</p>
+  </div>
+
+  <div class="card terminal-card kontakt-card">
+    <div class="terminal-head">
+      <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+      <span class="terminal-title">kontakt.form()</span>
     </div>
-    <div class="form-field">
-      <label for="email">E-Mail-Adresse</label>
-      <input type="email" id="email" name="email" autocomplete="email" required />
+    <div class="terminal-body">
+      <form id="kontaktForm" class="contact-form" novalidate>
+        <div class="form-field">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" autocomplete="name" placeholder="Dein Name" required />
+        </div>
+        <div class="form-field">
+          <label for="email">E-Mail-Adresse</label>
+          <input type="email" id="email" name="email" autocomplete="email" placeholder="du@firma.de" required />
+        </div>
+        <div class="form-field">
+          <label for="telefon">Telefonnummer</label>
+          <input type="tel" id="telefon" name="telefon" autocomplete="tel" placeholder="Optional" />
+        </div>
+        <div class="form-field">
+          <label for="nachricht">Nachricht</label>
+          <textarea id="nachricht" name="nachricht" rows="5" placeholder="Worum geht's?" required></textarea>
+        </div>
+        <button type="submit" class="cta-btn" id="kontaktSubmit">⚡ Kostenlos jetzt anfragen <span class="arrow">→</span></button>
+        <p class="form-status" id="kontaktStatus" role="status" aria-live="polite"></p>
+      </form>
     </div>
-    <div class="form-field">
-      <label for="telefon">Telefonnummer</label>
-      <input type="tel" id="telefon" name="telefon" autocomplete="tel" />
-    </div>
-    <div class="form-field">
-      <label for="nachricht">Nachricht</label>
-      <textarea id="nachricht" name="nachricht" rows="6" required></textarea>
-    </div>
-    <button type="submit" class="btn-solid" id="kontaktSubmit">Nachricht senden</button>
-    <p class="form-status" id="kontaktStatus" role="status" aria-live="polite"></p>
-  </form>
+  </div>
+
+  <div class="status-row kontakt-trust">
+    <span class="status-text"><span class="ok">✓</span> unverbindlich</span>
+    <span class="status-text"><span class="ok">✓</span> kostenlos</span>
+    <span class="status-text"><span class="ok">✓</span> Antwort in 24h</span>
+  </div>
 </main>
 
 <footer class="site-footer">
@@ -63,6 +83,7 @@
     <nav class="footer-nav">
       <a href="/blog/index">Blog</a>
       <a href="/blog/kategorien">Blog-Kategorien</a>
+      <a href="/kontakt">Kontakt</a>
       <a href="/impressum">Impressum</a>
       <a href="/datenschutz">Datenschutz</a>
       <a href="/agb">AGB</a>
