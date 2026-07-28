@@ -1,3 +1,5 @@
+import { buildKontaktEmailHtml } from './_email-template.js';
+
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     res.setHeader('Allow', 'POST');
@@ -30,6 +32,7 @@ export default async function handler(req, res) {
         reply_to: email,
         subject: `Neue Kontaktanfrage von ${name}`,
         text: `Name: ${name}\nE-Mail: ${email}\nTelefon: ${telefon || '–'}\n\nNachricht:\n${nachricht}`,
+        html: buildKontaktEmailHtml({ name, email, telefon, nachricht }),
       }),
     });
 
