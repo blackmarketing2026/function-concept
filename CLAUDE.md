@@ -28,3 +28,11 @@ Verbindlicher Prozess steht in `BLOG-ARTIKEL-CHECKLISTE.md`. Kurzfassung: Artike
 - `robots.txt` — erlaubt alles, verweist auf Sitemap
 - `vercel.json` — cleanUrls, keine trailing slash
 - `.htaccess` — Apache-Rewrite für extensionless URLs (Fallback-Hosting)
+
+## Kontaktformular / Resend
+
+- Seite: `kontakt.html` (Felder: Name, E-Mail, Telefonnummer, Nachricht) — sendet per `fetch()` an `/api/kontakt`
+- Backend: Vercel Serverless Function `api/kontakt.js` (erster Eintrag im `api/`-Ordner), ruft die Resend-HTTP-API direkt auf (kein npm-Package, kein `package.json` nötig)
+- Formular-Handling (Submit, Statusanzeige) liegt in `page.js`, analog zum bestehenden Cookie-Consent-Code dort
+- Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `RESEND_TO_EMAIL` — Domain bei Resend ist bereits verifiziert
+- Datenschutz-Hinweis zu Resend steht in `datenschutz.html`, Abschnitt 7 (Kontaktformular)

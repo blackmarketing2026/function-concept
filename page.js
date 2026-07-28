@@ -42,6 +42,40 @@ document.getElementById('cookieNecessary')?.addEventListener('click', () => {
   closeModal();
 });
 
+const kontaktForm = document.getElementById('kontaktForm');
+kontaktForm?.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const status = document.getElementById('kontaktStatus');
+  const submitBtn = document.getElementById('kontaktSubmit');
+  const data = {
+    name: document.getElementById('name').value.trim(),
+    email: document.getElementById('email').value.trim(),
+    telefon: document.getElementById('telefon').value.trim(),
+    nachricht: document.getElementById('nachricht').value.trim(),
+  };
+
+  submitBtn.disabled = true;
+  status.textContent = 'Wird gesendet …';
+  status.className = 'form-status';
+
+  try {
+    const res = await fetch('/api/kontakt', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data),
+    });
+    if (!res.ok) throw new Error('send failed');
+    status.textContent = 'Danke! Deine Nachricht wurde versendet.';
+    status.className = 'form-status ok';
+    kontaktForm.reset();
+  } catch (err) {
+    status.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
+    status.className = 'form-status error';
+  } finally {
+    submitBtn.disabled = false;
+  }
+});
+
 const storedConsent = localStorage.getItem(consentKey);
 if (!storedConsent) {
   setTimeout(openModal, 800);

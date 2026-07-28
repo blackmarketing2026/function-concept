@@ -558,6 +558,20 @@ main{
 .cookie-modal-inner h3{font-family:var(--head);font-size:18px;margin-bottom:12px;}
 .cookie-modal-inner p{font-size:13.5px;color:var(--dim);margin-bottom:20px;}
 .cookie-actions{display:flex;gap:12px;margin-bottom:16px;flex-wrap:wrap;}
+.contact-form{max-width:480px;display:flex;flex-direction:column;gap:18px;}
+.form-field{display:flex;flex-direction:column;gap:6px;}
+.form-field label{font-size:13px;font-weight:600;color:var(--ink);}
+.form-field input,.form-field textarea{
+  font-family:var(--sans);font-size:15px;color:var(--ink);
+  background:#fff;border:1px solid var(--border);border-radius:8px;
+  padding:10px 14px;resize:vertical;
+}
+.form-field input:focus,.form-field textarea:focus{outline:2px solid var(--blue);outline-offset:1px;}
+.contact-form .btn-solid{align-self:flex-start;padding:12px 24px;}
+.form-status{font-size:14px;min-height:20px;}
+.form-status.ok{color:var(--green);}
+.form-status.error{color:var(--red);}
+
 .btn-outline,.btn-solid{
   font-family:var(--sans);font-size:13.5px;font-weight:600;
   padding:11px 18px;border-radius:8px;cursor:pointer;flex:1;
