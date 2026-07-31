@@ -33,6 +33,7 @@ body.page-body{padding-bottom:0;}
   color:var(--ink);
 }
 .page-logo .logo-mark{color:var(--blue);font-size:18px;}
+.page-logo-img{height:34px;width:auto;display:block;}
 .page-nav{display:flex;align-items:center;gap:28px;font-size:14px;font-weight:500;color:#4b5563;}
 .page-nav a:hover{color:var(--ink);}
 .btn-nav{
