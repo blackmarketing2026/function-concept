@@ -108,6 +108,38 @@ kontaktForm?.addEventListener('submit', async (e) => {
   }
 });
 
+const stripeAgbConfirm = document.getElementById('stripeAgbConfirm');
+const stripeBuyBtn = document.getElementById('stripeBuyBtn');
+const stripeBuyStatus = document.getElementById('stripeBuyStatus');
+
+stripeAgbConfirm?.addEventListener('change', () => {
+  stripeBuyBtn.disabled = !stripeAgbConfirm.checked;
+});
+
+stripeBuyBtn?.addEventListener('click', async () => {
+  if (!stripeAgbConfirm.checked) return;
+
+  stripeBuyBtn.disabled = true;
+  stripeBuyStatus.textContent = 'Weiterleitung zur Kasse …';
+  stripeBuyStatus.className = 'form-status';
+
+  try {
+    const res = await fetch('/api/create-checkout-session', { method: 'POST' });
+    const data = await res.json();
+    if (!res.ok || !data.url) throw new Error('checkout failed');
+    window.location.href = data.url;
+  } catch (err) {
+    stripeBuyStatus.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
+    stripeBuyStatus.className = 'form-status error';
+    stripeBuyBtn.disabled = false;
+  }
+});
+
+if (stripeBuyStatus && new URLSearchParams(location.search).get('abgebrochen') === '1') {
+  stripeBuyStatus.textContent = 'Bestellung abgebrochen. Du kannst es jederzeit erneut versuchen.';
+  stripeBuyStatus.className = 'form-status error';
+}
+
 const storedConsent = localStorage.getItem(consentKey);
 if (!storedConsent) {
   setTimeout(openModal, 800);

@@ -37,3 +37,14 @@ Verbindlicher Prozess steht in `BLOG-ARTIKEL-CHECKLISTE.md`. Kurzfassung: Artike
 - Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `RESEND_TO_EMAIL` — Domain bei Resend ist bereits verifiziert
 - Datenschutz-Hinweis zu Resend steht in `datenschutz.html`, Abschnitt 7 (Kontaktformular)
 - Besuchsverlauf: Bei erteiltem Analytics-Consent (`localStorage['cookie-consent'].analytics === true`) loggt `page.js` jeden Seitenaufruf in `localStorage['fc_visit_log']` (max. 30 Einträge). Wird beim Absenden des Kontaktformulars als `besuchsverlauf` mitgeschickt und von `api/_email-template.js` als chronologische Tabelle in die Benachrichtigungsmail gerendert. Ohne Consent bleibt das Feld leer. Datenschutz-Hinweis in `datenschutz.html`, Abschnitt 5.
+
+## Google Ads Landingpage / Stripe Checkout
+
+- Seite: `google-ads-kampagne.html` — eigenständige Sales-Landingpage (300 €/Monat, keine Einrichtungs-/Trackinggebühr), bewusst nicht in der Hauptnavigation verlinkt (für Ad-Traffic gedacht), aber in `sitemap.xml` eingetragen
+- Bestell-Button ruft `/api/create-checkout-session` auf und leitet zu Stripe Checkout weiter (Abo, `mode: subscription`, feste Preisvariante `prod_SQKwPjZpRSOLMC` in Stripe)
+- Backend: Vercel Serverless Function `api/create-checkout-session.js`, ruft die Stripe-HTTP-API direkt auf (kein npm-Package, kein `package.json` nötig), analog zu `api/kontakt.js`
+- Button-Handling (Checkbox-Freischaltung, Fetch, Redirect, Abbruch-Status via `?abgebrochen=1`) liegt in `page.js`, analog zum bestehenden Kontaktformular-Code dort
+- Nach erfolgreicher Zahlung leitet Stripe zu `google-ads-kampagne-danke.html` weiter (eigene Danke-Seite, `noindex, follow`, nicht in `sitemap.xml`)
+- Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `STRIPE_SECRET_KEY`, `STRIPE_PRICE_ID` (die konkrete Preis-ID `price_...` der hinterlegten Preisvariante von Produkt `prod_SQKwPjZpRSOLMC` — nicht die Produkt-ID selbst, die reicht Stripe Checkout nicht für `line_items[].price`)
+- Vor der Bestellung muss der Kunde per Checkbox bestätigen, als Unternehmer (§ 14 BGB) zu handeln — passend zu `agb.html` §1 (keine Verbraucherverträge)
+- Datenschutz-Hinweis zu Stripe steht in `datenschutz.html`, Abschnitt 26

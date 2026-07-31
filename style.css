@@ -598,6 +598,30 @@ main{
   .kontakt-trust{gap:14px;justify-content:flex-start;}
 }
 
+/* --- photo placeholder --- */
+.photo-placeholder{
+  max-width:910px;
+  border:2px dashed var(--border);
+  border-radius:12px;
+  background:#fff;
+  padding:64px 24px;
+  text-align:center;
+  margin-bottom:28px;
+}
+.photo-placeholder-icon{font-size:36px;display:block;margin-bottom:14px;}
+.photo-placeholder p{font-family:var(--mono);font-size:13px;color:var(--dim);margin:0;}
+.photo-placeholder p:last-child{margin-top:6px;}
+
+/* --- Stripe buy confirmation --- */
+.buy-confirm{
+  display:flex;align-items:flex-start;gap:10px;
+  font-family:var(--sans);font-size:13.5px;color:#6b7280;
+  margin:20px 0;
+}
+.buy-confirm input{margin-top:3px;flex-shrink:0;}
+.buy-confirm a{color:var(--blue);text-decoration:underline;}
+.cta-btn:disabled{opacity:.45;cursor:not-allowed;animation:none;box-shadow:none;}
+
 .btn-outline,.btn-solid{
   font-family:var(--sans);font-size:13.5px;font-weight:600;
   padding:11px 18px;border-radius:8px;cursor:pointer;flex:1;
