@@ -110,36 +110,13 @@ kontaktForm?.addEventListener('submit', async (e) => {
 
 const stripeAgbConfirm = document.getElementById('stripeAgbConfirm');
 const stripeBuyBtn = document.getElementById('stripeBuyBtn');
-const stripeBuyStatus = document.getElementById('stripeBuyStatus');
-const checkoutGate = document.getElementById('checkoutGate');
-const checkoutContainer = document.getElementById('checkoutContainer');
 
 stripeAgbConfirm?.addEventListener('change', () => {
-  stripeBuyBtn.disabled = !stripeAgbConfirm.checked;
+  stripeBuyBtn.setAttribute('aria-disabled', String(!stripeAgbConfirm.checked));
 });
 
-stripeBuyBtn?.addEventListener('click', async () => {
-  if (!stripeAgbConfirm.checked) return;
-
-  stripeBuyBtn.disabled = true;
-  stripeBuyStatus.textContent = 'Kasse wird geladen …';
-  stripeBuyStatus.className = 'form-status';
-
-  try {
-    const res = await fetch('/api/create-checkout-session', { method: 'POST' });
-    const data = await res.json();
-    if (!res.ok || !data.clientSecret || !data.publishableKey) throw new Error('checkout failed');
-
-    const stripe = Stripe(data.publishableKey);
-    const checkout = await stripe.initEmbeddedCheckout({ clientSecret: data.clientSecret });
-
-    checkoutGate.style.display = 'none';
-    checkout.mount(checkoutContainer);
-  } catch (err) {
-    stripeBuyStatus.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
-    stripeBuyStatus.className = 'form-status error';
-    stripeBuyBtn.disabled = false;
-  }
+stripeBuyBtn?.addEventListener('click', (e) => {
+  if (!stripeAgbConfirm.checked) e.preventDefault();
 });
 
 const storedConsent = localStorage.getItem(consentKey);

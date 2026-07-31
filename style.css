@@ -637,6 +637,7 @@ main{
 .buy-confirm input{margin-top:3px;flex-shrink:0;}
 .buy-confirm a{color:var(--blue);text-decoration:underline;}
 .cta-btn:disabled{opacity:.45;cursor:not-allowed;animation:none;box-shadow:none;}
+.cta-btn[aria-disabled="true"]{opacity:.45;cursor:not-allowed;pointer-events:none;animation:none;box-shadow:none;}
 
 .btn-outline,.btn-solid{
   font-family:var(--sans);font-size:13.5px;font-weight:600;

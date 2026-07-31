@@ -172,17 +172,14 @@
           </ul>
         </div>
 
-        <div class="checkout-gate" id="checkoutGate">
+        <div class="checkout-gate">
           <label class="buy-confirm">
             <input type="checkbox" id="stripeAgbConfirm" />
             <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
           </label>
 
-          <button type="button" class="cta-btn" id="stripeBuyBtn" disabled>Zur Kasse - 300 €/Monat <span class="arrow">→</span></button>
-          <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
+          <a href="https://buy.stripe.com/cNi00i10VbMT2Cc5yy77O0f" class="cta-btn" id="stripeBuyBtn" aria-disabled="true">Zur Kasse - 300 €/Monat <span class="arrow">→</span></a>
         </div>
-
-        <div id="checkoutContainer"></div>
       </div>
     </div>
   </section>
@@ -228,7 +225,6 @@
   </div>
 </div>
 
-<script src="https://js.stripe.com/v3/"></script>
 <script src="/page.js"></script>
 </body>
 </html>

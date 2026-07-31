@@ -41,10 +41,8 @@ Verbindlicher Prozess steht in `BLOG-ARTIKEL-CHECKLISTE.md`. Kurzfassung: Artike
 ## Google Ads Landingpage / Stripe Checkout
 
 - Seite: `google-ads-kampagne.html` — eigenständige Sales-Landingpage (300 €/Monat, keine Einrichtungs-/Trackinggebühr), bewusst nicht in der Hauptnavigation verlinkt (für Ad-Traffic gedacht), aber in `sitemap.xml` eingetragen
-- Bestell-Button ruft `/api/create-checkout-session` auf und leitet zu Stripe Checkout weiter (Abo, `mode: subscription`, feste Preisvariante `prod_SQKwPjZpRSOLMC` in Stripe)
-- Backend: Vercel Serverless Function `api/create-checkout-session.js`, ruft die Stripe-HTTP-API direkt auf (kein npm-Package, kein `package.json` nötig), analog zu `api/kontakt.js`
-- Button-Handling (Checkbox-Freischaltung, Fetch, Redirect, Abbruch-Status via `?abgebrochen=1`) liegt in `page.js`, analog zum bestehenden Kontaktformular-Code dort
-- Nach erfolgreicher Zahlung leitet Stripe zu `google-ads-kampagne-danke.html` weiter (eigene Danke-Seite, `noindex, follow`, nicht in `sitemap.xml`)
-- Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `STRIPE_SECRET_KEY`, `STRIPE_PRICE_ID` (die konkrete Preis-ID `price_...` der hinterlegten Preisvariante von Produkt `prod_SQKwPjZpRSOLMC` — nicht die Produkt-ID selbst, die reicht Stripe Checkout nicht für `line_items[].price`)
+- Bestell-Button ist ein direkter Link auf einen Stripe Payment Link (`https://buy.stripe.com/...`) — kein eigenes Backend, keine `/api`-Route, kein Stripe-API-Aufruf im Projekt (es gab früher `api/create-checkout-session.js`, wurde entfernt zugunsten des einfacheren Payment-Link-Ansatzes)
+- Checkbox-Freischaltung des Buttons (§14-BGB-Bestätigung) liegt in `page.js`: Button ist ein `<a>` mit `aria-disabled`, per Checkbox-Change-Handler umgeschaltet, Klick wird per `e.preventDefault()` blockiert solange nicht bestätigt
+- Preis, Produktinhalt und ggf. zusätzliche Felder (Telefonnummer, Custom Fields) werden direkt im Stripe-Dashboard am Payment Link gepflegt, nicht im Code
 - Vor der Bestellung muss der Kunde per Checkbox bestätigen, als Unternehmer (§ 14 BGB) zu handeln — passend zu `agb.html` §1 (keine Verbraucherverträge)
 - Datenschutz-Hinweis zu Stripe steht in `datenschutz.html`, Abschnitt 26
