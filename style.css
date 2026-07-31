@@ -763,11 +763,15 @@ main{
 .campaign-page{
   background:
     linear-gradient(180deg, #f7f9fc 0%, #eef3f8 46%, #f7f9fc 100%);
+  overflow-x:hidden;
 }
+.campaign-page *{min-width:0;}
 .campaign-page .page-header{background:rgba(247,249,252,.9);}
 .campaign-main{
   max-width:1180px;
+  width:100%;
   padding:56px 24px 86px;
+  overflow:hidden;
 }
 .campaign-main h1,
 .campaign-main h2,
@@ -781,6 +785,12 @@ main{
   padding:8px 0 34px;
 }
 .campaign-hero-copy{max-width:650px;}
+.campaign-hero-copy,
+.campaign-section,
+.campaign-section-head,
+.campaign-checkout-copy,
+.campaign-order-card,
+.campaign-config{min-width:0;max-width:100%;}
 .campaign-hero .tag{margin-bottom:22px;}
 .campaign-eyebrow{
   font-family:var(--mono);
@@ -795,6 +805,7 @@ main{
   line-height:1.02;
   font-weight:800;
   margin-bottom:22px;
+  overflow-wrap:anywhere;
 }
 .campaign-hero h1 span{color:var(--blue);}
 .campaign-lead{
@@ -877,6 +888,7 @@ main{
   font-family:var(--head);
   color:#132033;
   font-size:20px;
+  overflow-wrap:anywhere;
 }
 .campaign-section{
   margin-bottom:84px;
@@ -912,6 +924,7 @@ main{
   border:1px solid var(--border);
   border-radius:8px;
   padding:24px;
+  min-width:0;
 }
 .campaign-icon{
   display:inline-flex;
@@ -1019,6 +1032,22 @@ main{
 .campaign-config{margin-top:24px;}
 .campaign-order-card{max-width:none;margin-bottom:0;}
 .campaign-order-card .terminal-body{font-family:var(--sans);}
+.campaign-page .terminal-card,
+.campaign-page .price-card,
+.campaign-page .form-field,
+.campaign-page .form-field input{
+  max-width:100%;
+}
+.campaign-page .terminal-body,
+.campaign-page .terminal-title,
+.campaign-page .price,
+.campaign-page .price-tag,
+.campaign-page .price-card li,
+.campaign-page .buy-confirm span,
+.campaign-page .form-status{
+  overflow-wrap:anywhere;
+  white-space:normal;
+}
 .campaign-price-card{
   margin-bottom:24px;
   border:1px solid var(--border);
@@ -1065,32 +1094,48 @@ main{
 }
 
 @media (max-width:600px){
+  .campaign-page{
+    width:100%;
+    max-width:100vw;
+  }
   .campaign-header .page-header-inner{
     padding:14px 16px;
+    gap:12px;
+    width:100%;
+    max-width:100vw;
   }
   .campaign-header .page-nav{
-    gap:12px;
+    gap:8px;
     font-size:13px;
+    flex-shrink:1;
   }
-  .campaign-header .page-nav a:not(.btn-nav):first-child{display:none;}
-  .campaign-header .btn-nav{padding:9px 14px;}
+  .campaign-header .page-nav a:not(.btn-nav){display:none;}
+  .campaign-header .page-logo-img{height:26px;max-width:142px;}
+  .campaign-header .btn-nav{padding:8px 13px;}
   .campaign-main{
     padding-left:16px;
     padding-right:16px;
     padding-top:24px;
+    max-width:100vw;
+  }
+  .campaign-hero{overflow:hidden;}
+  .campaign-hero .tag{
+    max-width:100%;
+    font-size:10px;
+    letter-spacing:1px;
+    padding:7px 10px;
+    overflow-wrap:anywhere;
   }
   .campaign-hero .tag{margin-bottom:14px;}
-  .campaign-hero-media img{width:min(56vw,210px);}
-  .campaign-hero h1{font-size:36px;margin-bottom:14px;}
+  .campaign-hero-media img{width:min(54vw,196px);}
+  .campaign-hero h1{font-size:32px;line-height:1.08;margin-bottom:14px;}
   .campaign-eyebrow{font-size:13px;margin-bottom:10px;}
   .campaign-lead{font-size:15.5px;line-height:1.55;margin-bottom:18px;}
   .campaign-actions{gap:12px;margin-bottom:16px;}
   .campaign-trust-row{
-    grid-auto-flow:column;
-    grid-auto-columns:minmax(132px,1fr);
-    grid-template-columns:none;
-    overflow-x:auto;
-    padding-bottom:2px;
+    grid-template-columns:1fr;
+    overflow:visible;
+    padding-bottom:0;
   }
   .campaign-trust-row span{padding:9px 10px;font-size:12.5px;}
   .campaign-trust-row b{font-size:15px;}
@@ -1099,11 +1144,58 @@ main{
     width:100%;
     justify-content:center;
     text-align:center;
+    max-width:100%;
   }
+  .campaign-page .cta-btn{
+    padding:15px 14px;
+    font-size:12.5px;
+    letter-spacing:.3px;
+    white-space:normal;
+  }
+  .campaign-strip div{padding:16px;}
+  .campaign-strip strong{font-size:18px;}
   .campaign-section{margin-bottom:58px;}
+  .campaign-section-head h2,
+  .campaign-about h2,
+  .campaign-checkout h2{
+    font-size:28px;
+    line-height:1.14;
+    overflow-wrap:anywhere;
+  }
+  .campaign-grid article,
+  .campaign-feature-list div,
+  .campaign-steps div{
+    padding:18px;
+  }
+  .campaign-feature-list div{
+    grid-template-columns:22px 1fr;
+    gap:8px;
+  }
   .campaign-about{gap:24px;}
+  .campaign-about-image{max-width:220px;}
+  .campaign-metrics strong{font-size:18px;}
   .campaign-order-card .terminal-body{padding:18px 14px;}
   .campaign-price-card.price-card{padding:22px 18px;}
+  .campaign-price-card .price{
+    display:block;
+    font-size:30px;
+    line-height:1.25;
+  }
+  .campaign-price-card .dim-sm,
+  .campaign-price-card .unit{
+    display:block;
+    margin-bottom:2px;
+  }
+  .campaign-page .buy-confirm{
+    font-size:12.5px;
+  }
+  .campaign-page .cookie-pill{
+    left:16px;
+    bottom:14px;
+    max-width:calc(100vw - 32px);
+    padding:9px 14px;
+    font-size:12.5px;
+  }
 }
 
 /* canvas matrix-rain backdrop, very low opacity so the layout stays clean */
