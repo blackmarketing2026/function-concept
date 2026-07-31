@@ -28,6 +28,10 @@
 
 <main class="page-content">
 
+  <div class="hero-cover">
+    <img src="/medien/google-ads-kampagne/cover.png" alt="Function Concept Google Apps Paket" />
+  </div>
+
   <div class="tag tag-blue">&gt;_ GOOGLE-ADS.KAMPAGNE()</div>
 
   <div class="code-block">
@@ -43,10 +47,22 @@
     <span class="status-text"><span class="ok">✓</span> monatlich kündbar</span>
   </div>
 
+  <section>
+    <h2>Wer ist Function Concept?</h2>
+    <p>Function Concept ist der Firmenname. Dahinter steht Steven Jesse, der Function Concept als One-Man-Online-Marketing-Unternehmen betreibt — Marketing-Expertise und Softwareentwicklung aus einer Hand, ohne Agentur-Overhead.</p>
+    <p>Über die Jahre wurden Kundenwerbebudgets von mehr als 1.000.000&nbsp;€ verantwortet und gesteuert. Keine Weiterreichung an Junior-Mitarbeiter: Deine Kampagne wird persönlich betreut.</p>
+  </section>
+
   <div class="portrait-card">
     <img src="/medien/google-ads-kampagne/steve.jpg" alt="Steve" class="portrait-img" />
     <p class="portrait-caption">Steve — dein Google-Ads-Mensch bei Function Concept</p>
   </div>
+
+  <section>
+    <h2>Wer bin ich?</h2>
+    <p>Ich bin Steve — der Kopf hinter Function Concept. Ich verwalte ein Werbebudget von weit über einer Million Euro pro Jahr.</p>
+    <p>Softwareentwicklung, Softwareprogrammierung, Google Ads sowie Tracking und Conversion-Tracking sind mein Element. Du sprichst direkt mit der Person, die deine Kampagne aufbaut, betreut und optimiert.</p>
+  </section>
 
   <!-- Bestellung / Stripe Checkout -->
   <div class="card terminal-card">
@@ -70,27 +86,34 @@
         </div>
       </div>
 
-      <label class="buy-confirm">
-        <input type="checkbox" id="stripeAgbConfirm" />
-        <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
-      </label>
+      <form id="orderForm" class="contact-form" novalidate>
+        <div class="form-field">
+          <label for="orderName">Name</label>
+          <input type="text" id="orderName" name="name" autocomplete="name" placeholder="Dein Name" required />
+        </div>
+        <div class="form-field">
+          <label for="orderTelefon">Telefonnummer</label>
+          <input type="tel" id="orderTelefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
+        </div>
+        <div class="form-field">
+          <label for="orderAdresse">Adresse</label>
+          <input type="text" id="orderAdresse" name="adresse" autocomplete="street-address" placeholder="Straße, PLZ, Ort" required />
+        </div>
+        <div class="form-field">
+          <label for="orderProjekt">Projektname für das Google-Ad-Paket</label>
+          <input type="text" id="orderProjekt" name="projekt" placeholder="z.&nbsp;B. Sommer-Kampagne 2026" required />
+        </div>
 
-      <button type="button" class="cta-btn" id="stripeBuyBtn" disabled>⚡ Jetzt bestellen — 300&nbsp;€/Monat <span class="arrow">→</span></button>
-      <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
+        <label class="buy-confirm">
+          <input type="checkbox" id="stripeAgbConfirm" />
+          <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
+        </label>
+
+        <button type="submit" class="cta-btn" id="stripeBuyBtn" disabled>⚡ Jetzt bestellen — 300&nbsp;€/Monat <span class="arrow">→</span></button>
+        <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
+      </form>
     </div>
   </div>
-
-  <section>
-    <h2>Wer ist Function Concept?</h2>
-    <p>Function Concept hilft Menschen dabei, neue Kunden zu gewinnen — und die passenden Softwarelösungen dafür gleich mit aufzubauen. Dahinter steckt eine seltene Kombination aus Marketing-Expertise und Softwareentwicklung, aus einer Hand.</p>
-    <p>Über die Jahre wurden Kundenwerbebudgets von mehr als 1.000.000&nbsp;€ verantwortet und gesteuert. Kein Agentur-Overhead, keine Weiterreichung an Junior-Mitarbeiter: Deine Kampagne wird persönlich betreut.</p>
-  </section>
-
-  <section>
-    <h2>Wer bin ich?</h2>
-    <p>Ich bin Steve — dein Ansprechpartner bei Function Concept und dein Google-Ads-Mensch. Ich verwalte Werbebudgets von über 1.000.000&nbsp;€ und bin Programmierer und Marketing-Experte mit Leidenschaft.</p>
-    <p>Ich arbeite als One-Man-Show ohne Agentur-Overhead — du sprichst direkt mit der Person, die deine Kampagne aufbaut, betreut und optimiert.</p>
-  </section>
 
   <div class="card terminal-card">
     <div class="terminal-head">

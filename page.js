@@ -108,6 +108,7 @@ kontaktForm?.addEventListener('submit', async (e) => {
   }
 });
 
+const orderForm = document.getElementById('orderForm');
 const stripeAgbConfirm = document.getElementById('stripeAgbConfirm');
 const stripeBuyBtn = document.getElementById('stripeBuyBtn');
 const stripeBuyStatus = document.getElementById('stripeBuyStatus');
@@ -116,18 +117,36 @@ stripeAgbConfirm?.addEventListener('change', () => {
   stripeBuyBtn.disabled = !stripeAgbConfirm.checked;
 });
 
-stripeBuyBtn?.addEventListener('click', async () => {
+orderForm?.addEventListener('submit', async (e) => {
+  e.preventDefault();
   if (!stripeAgbConfirm.checked) return;
+
+  const data = {
+    name: document.getElementById('orderName').value.trim(),
+    telefon: document.getElementById('orderTelefon').value.trim(),
+    adresse: document.getElementById('orderAdresse').value.trim(),
+    projekt: document.getElementById('orderProjekt').value.trim(),
+  };
+
+  if (!data.name || !data.telefon || !data.adresse || !data.projekt) {
+    stripeBuyStatus.textContent = 'Bitte fülle alle Felder aus.';
+    stripeBuyStatus.className = 'form-status error';
+    return;
+  }
 
   stripeBuyBtn.disabled = true;
   stripeBuyStatus.textContent = 'Weiterleitung zur Kasse …';
   stripeBuyStatus.className = 'form-status';
 
   try {
-    const res = await fetch('/api/create-checkout-session', { method: 'POST' });
-    const data = await res.json();
-    if (!res.ok || !data.url) throw new Error('checkout failed');
-    window.location.href = data.url;
+    const res = await fetch('/api/create-checkout-session', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data),
+    });
+    const result = await res.json();
+    if (!res.ok || !result.url) throw new Error('checkout failed');
+    window.location.href = result.url;
   } catch (err) {
     stripeBuyStatus.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
     stripeBuyStatus.className = 'form-status error';

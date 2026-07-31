@@ -599,6 +599,18 @@ main{
   .kontakt-trust{gap:14px;justify-content:flex-start;}
 }
 
+/* --- product hero cover --- */
+.hero-cover{
+  max-width:320px;
+  margin:0 auto 32px;
+}
+.hero-cover img{
+  width:100%;
+  height:auto;
+  display:block;
+  border-radius:12px;
+}
+
 /* --- portrait card --- */
 .portrait-card{
   max-width:260px;

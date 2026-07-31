@@ -4,6 +4,12 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
+  const { name, telefon, adresse, projekt } = req.body || {};
+
+  if (!name || !telefon || !adresse || !projekt) {
+    return res.status(400).json({ error: 'Name, Telefonnummer, Adresse und Projektname sind erforderlich.' });
+  }
+
   const { STRIPE_SECRET_KEY, STRIPE_PRICE_ID } = process.env;
 
   if (!STRIPE_SECRET_KEY || !STRIPE_PRICE_ID) {
@@ -22,6 +28,14 @@ export default async function handler(req, res) {
     'tax_id_collection[enabled]': 'true',
     'line_items[0][quantity]': '1',
     'line_items[0][price]': STRIPE_PRICE_ID,
+    'metadata[name]': name,
+    'metadata[telefon]': telefon,
+    'metadata[adresse]': adresse,
+    'metadata[projekt]': projekt,
+    'subscription_data[metadata][name]': name,
+    'subscription_data[metadata][telefon]': telefon,
+    'subscription_data[metadata][adresse]': adresse,
+    'subscription_data[metadata][projekt]': projekt,
   });
 
   try {
