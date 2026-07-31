@@ -108,17 +108,6 @@ kontaktForm?.addEventListener('submit', async (e) => {
   }
 });
 
-const stripeAgbConfirm = document.getElementById('stripeAgbConfirm');
-const stripeBuyBtn = document.getElementById('stripeBuyBtn');
-
-stripeAgbConfirm?.addEventListener('change', () => {
-  stripeBuyBtn.setAttribute('aria-disabled', String(!stripeAgbConfirm.checked));
-});
-
-stripeBuyBtn?.addEventListener('click', (e) => {
-  if (!stripeAgbConfirm.checked) e.preventDefault();
-});
-
 const storedConsent = localStorage.getItem(consentKey);
 if (!storedConsent) {
   setTimeout(openModal, 800);
