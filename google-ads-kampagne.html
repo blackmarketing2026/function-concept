@@ -172,32 +172,17 @@
           </ul>
         </div>
 
-        <form id="orderForm" class="contact-form" novalidate>
-          <div class="form-field">
-            <label for="orderName">Name</label>
-            <input type="text" id="orderName" name="name" autocomplete="name" placeholder="Dein Name" required />
-          </div>
-          <div class="form-field">
-            <label for="orderTelefon">Telefonnummer</label>
-            <input type="tel" id="orderTelefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
-          </div>
-          <div class="form-field">
-            <label for="orderAdresse">Adresse</label>
-            <input type="text" id="orderAdresse" name="adresse" autocomplete="street-address" placeholder="Straße, PLZ, Ort" required />
-          </div>
-          <div class="form-field">
-            <label for="orderProjekt">Projektname für das Google-Ad-Paket</label>
-            <input type="text" id="orderProjekt" name="projekt" placeholder="z. B. Sommer-Kampagne 2026" required />
-          </div>
-
+        <div class="checkout-gate" id="checkoutGate">
           <label class="buy-confirm">
             <input type="checkbox" id="stripeAgbConfirm" />
             <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
           </label>
 
-          <button type="submit" class="cta-btn" id="stripeBuyBtn" disabled>Jetzt bestellen - 300 €/Monat <span class="arrow">→</span></button>
+          <button type="button" class="cta-btn" id="stripeBuyBtn" disabled>Zur Kasse - 300 €/Monat <span class="arrow">→</span></button>
           <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
-        </form>
+        </div>
+
+        <div id="checkoutContainer"></div>
       </div>
     </div>
   </section>
@@ -243,6 +228,7 @@
   </div>
 </div>
 
+<script src="https://js.stripe.com/v3/"></script>
 <script src="/page.js"></script>
 </body>
 </html>

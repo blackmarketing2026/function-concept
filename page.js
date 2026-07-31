@@ -108,56 +108,39 @@ kontaktForm?.addEventListener('submit', async (e) => {
   }
 });
 
-const orderForm = document.getElementById('orderForm');
 const stripeAgbConfirm = document.getElementById('stripeAgbConfirm');
 const stripeBuyBtn = document.getElementById('stripeBuyBtn');
 const stripeBuyStatus = document.getElementById('stripeBuyStatus');
+const checkoutGate = document.getElementById('checkoutGate');
+const checkoutContainer = document.getElementById('checkoutContainer');
 
 stripeAgbConfirm?.addEventListener('change', () => {
   stripeBuyBtn.disabled = !stripeAgbConfirm.checked;
 });
 
-orderForm?.addEventListener('submit', async (e) => {
-  e.preventDefault();
+stripeBuyBtn?.addEventListener('click', async () => {
   if (!stripeAgbConfirm.checked) return;
 
-  const data = {
-    name: document.getElementById('orderName').value.trim(),
-    telefon: document.getElementById('orderTelefon').value.trim(),
-    adresse: document.getElementById('orderAdresse').value.trim(),
-    projekt: document.getElementById('orderProjekt').value.trim(),
-  };
-
-  if (!data.name || !data.telefon || !data.adresse || !data.projekt) {
-    stripeBuyStatus.textContent = 'Bitte fülle alle Felder aus.';
-    stripeBuyStatus.className = 'form-status error';
-    return;
-  }
-
   stripeBuyBtn.disabled = true;
-  stripeBuyStatus.textContent = 'Weiterleitung zur Kasse …';
+  stripeBuyStatus.textContent = 'Kasse wird geladen …';
   stripeBuyStatus.className = 'form-status';
 
   try {
-    const res = await fetch('/api/create-checkout-session', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data),
-    });
-    const result = await res.json();
-    if (!res.ok || !result.url) throw new Error('checkout failed');
-    window.location.href = result.url;
+    const res = await fetch('/api/create-checkout-session', { method: 'POST' });
+    const data = await res.json();
+    if (!res.ok || !data.clientSecret || !data.publishableKey) throw new Error('checkout failed');
+
+    const stripe = Stripe(data.publishableKey);
+    const checkout = await stripe.initEmbeddedCheckout({ clientSecret: data.clientSecret });
+
+    checkoutGate.style.display = 'none';
+    checkout.mount(checkoutContainer);
   } catch (err) {
     stripeBuyStatus.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
     stripeBuyStatus.className = 'form-status error';
     stripeBuyBtn.disabled = false;
   }
 });
-
-if (stripeBuyStatus && new URLSearchParams(location.search).get('abgebrochen') === '1') {
-  stripeBuyStatus.textContent = 'Bestellung abgebrochen. Du kannst es jederzeit erneut versuchen.';
-  stripeBuyStatus.className = 'form-status error';
-}
 
 const storedConsent = localStorage.getItem(consentKey);
 if (!storedConsent) {

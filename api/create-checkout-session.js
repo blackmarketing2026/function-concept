@@ -4,16 +4,10 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { name, telefon, adresse, projekt } = req.body || {};
+  const { STRIPE_SECRET_KEY, STRIPE_PRICE_ID, STRIPE_PUBLISHABLE_KEY } = process.env;
 
-  if (!name || !telefon || !adresse || !projekt) {
-    return res.status(400).json({ error: 'Name, Telefonnummer, Adresse und Projektname sind erforderlich.' });
-  }
-
-  const { STRIPE_SECRET_KEY, STRIPE_PRICE_ID } = process.env;
-
-  if (!STRIPE_SECRET_KEY || !STRIPE_PRICE_ID) {
-    console.error('Stripe env var missing: STRIPE_SECRET_KEY / STRIPE_PRICE_ID');
+  if (!STRIPE_SECRET_KEY || !STRIPE_PRICE_ID || !STRIPE_PUBLISHABLE_KEY) {
+    console.error('Stripe env var missing: STRIPE_SECRET_KEY / STRIPE_PRICE_ID / STRIPE_PUBLISHABLE_KEY');
     return res.status(500).json({ error: 'Serverkonfiguration fehlt.' });
   }
 
@@ -21,21 +15,19 @@ export default async function handler(req, res) {
 
   const body = new URLSearchParams({
     mode: 'subscription',
-    success_url: `${origin}/google-ads-kampagne-danke`,
-    cancel_url: `${origin}/google-ads-kampagne?abgebrochen=1`,
+    ui_mode: 'embedded',
+    return_url: `${origin}/google-ads-kampagne-danke?session_id={CHECKOUT_SESSION_ID}`,
     locale: 'de',
     billing_address_collection: 'required',
+    'phone_number_collection[enabled]': 'true',
     'tax_id_collection[enabled]': 'true',
     'line_items[0][quantity]': '1',
     'line_items[0][price]': STRIPE_PRICE_ID,
-    'metadata[name]': name,
-    'metadata[telefon]': telefon,
-    'metadata[adresse]': adresse,
-    'metadata[projekt]': projekt,
-    'subscription_data[metadata][name]': name,
-    'subscription_data[metadata][telefon]': telefon,
-    'subscription_data[metadata][adresse]': adresse,
-    'subscription_data[metadata][projekt]': projekt,
+    'custom_fields[0][key]': 'projektname',
+    'custom_fields[0][label][type]': 'custom',
+    'custom_fields[0][label][custom]': 'Projektname für das Google-Ad-Paket',
+    'custom_fields[0][type]': 'text',
+    'custom_fields[0][text][maximum_length]': '140',
   });
 
   try {
@@ -55,7 +47,7 @@ export default async function handler(req, res) {
       return res.status(502).json({ error: 'Bestellung konnte nicht gestartet werden.' });
     }
 
-    return res.status(200).json({ url: data.url });
+    return res.status(200).json({ clientSecret: data.client_secret, publishableKey: STRIPE_PUBLISHABLE_KEY });
   } catch (err) {
     console.error('Stripe checkout session fetch error:', err);
     return res.status(500).json({ error: 'Bestellung konnte nicht gestartet werden.' });
