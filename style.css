@@ -759,6 +759,353 @@ main{
   100%{text-shadow:none;}
 }
 
+/* --- Google Ads campaign product landing page --- */
+.campaign-page{
+  background:
+    linear-gradient(180deg, #f7f9fc 0%, #eef3f8 46%, #f7f9fc 100%);
+}
+.campaign-page .page-header{background:rgba(247,249,252,.9);}
+.campaign-main{
+  max-width:1180px;
+  padding:56px 24px 86px;
+}
+.campaign-main h1,
+.campaign-main h2,
+.campaign-main h3{letter-spacing:0;}
+.campaign-hero{
+  min-height:calc(100svh - 170px);
+  display:grid;
+  grid-template-columns:minmax(0,1.08fr) minmax(320px,.92fr);
+  align-items:center;
+  gap:56px;
+  padding:8px 0 34px;
+}
+.campaign-hero-copy{max-width:650px;}
+.campaign-hero .tag{margin-bottom:22px;}
+.campaign-eyebrow{
+  font-family:var(--mono);
+  color:#617082;
+  font-size:15px;
+  margin-bottom:14px;
+}
+.campaign-hero h1{
+  font-family:var(--head);
+  color:#101827;
+  font-size:clamp(44px,6vw,78px);
+  line-height:1.02;
+  font-weight:800;
+  margin-bottom:22px;
+}
+.campaign-hero h1 span{color:var(--blue);}
+.campaign-lead{
+  color:#596474;
+  font-size:19px;
+  line-height:1.75;
+  max-width:600px;
+  margin-bottom:28px;
+}
+.campaign-actions{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  flex-wrap:wrap;
+  margin-bottom:28px;
+}
+.campaign-secondary{
+  font-weight:700;
+  color:#243449;
+  text-decoration:underline;
+  text-underline-offset:4px;
+}
+.campaign-trust-row{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:10px;
+  max-width:620px;
+}
+.campaign-trust-row span{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:13px 14px;
+  color:#5b6675;
+  font-size:14px;
+}
+.campaign-trust-row b{display:block;color:#132033;font-family:var(--head);font-size:19px;}
+.campaign-hero-media{
+  position:relative;
+  display:flex;
+  justify-content:center;
+}
+.campaign-hero-media::before{
+  content:"";
+  position:absolute;
+  inset:10% 8%;
+  background:linear-gradient(135deg, rgba(66,133,244,.18), rgba(251,188,5,.14), rgba(52,168,83,.16));
+  filter:blur(30px);
+}
+.campaign-hero-media img{
+  position:relative;
+  z-index:1;
+  width:min(100%,430px);
+  height:auto;
+  display:block;
+  filter:drop-shadow(0 28px 42px rgba(15,23,41,.18));
+}
+.campaign-strip{
+  display:grid;
+  grid-template-columns:1fr 1fr 1.2fr;
+  gap:1px;
+  background:var(--border);
+  border:1px solid var(--border);
+  border-radius:8px;
+  overflow:hidden;
+  margin-bottom:72px;
+}
+.campaign-strip div{
+  background:#fff;
+  padding:20px 22px;
+}
+.campaign-strip-kicker{
+  display:block;
+  font-family:var(--mono);
+  color:var(--dim);
+  font-size:12px;
+  margin-bottom:4px;
+}
+.campaign-strip strong{
+  font-family:var(--head);
+  color:#132033;
+  font-size:20px;
+}
+.campaign-section{
+  margin-bottom:84px;
+}
+.campaign-section-head{
+  max-width:780px;
+  margin-bottom:28px;
+}
+.campaign-section-head h2,
+.campaign-about h2,
+.campaign-checkout h2{
+  font-family:var(--head);
+  font-size:clamp(30px,4vw,48px);
+  line-height:1.13;
+  color:#132033;
+  margin-bottom:16px;
+}
+.campaign-section p,
+.campaign-about p,
+.campaign-checkout p{
+  color:#647084;
+  font-size:16px;
+}
+.campaign-grid{
+  display:grid;
+  gap:18px;
+}
+.campaign-grid-3{grid-template-columns:repeat(3,1fr);}
+.campaign-grid article,
+.campaign-feature-list div,
+.campaign-steps div{
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:24px;
+}
+.campaign-icon{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  background:rgba(59,130,246,.1);
+  color:var(--blue);
+  font-family:var(--mono);
+  font-weight:700;
+  margin-bottom:18px;
+}
+.campaign-grid h3,
+.campaign-steps h3{
+  font-family:var(--head);
+  font-size:21px;
+  color:#132033;
+  margin-bottom:8px;
+}
+.campaign-grid p,
+.campaign-steps p{margin:0;}
+.campaign-feature-list{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:14px;
+}
+.campaign-feature-list div{
+  display:grid;
+  grid-template-columns:28px 1fr;
+  align-items:start;
+  gap:12px;
+  padding:20px;
+}
+.campaign-feature-list span{
+  color:var(--green);
+  font-weight:800;
+  font-size:18px;
+  line-height:1.3;
+}
+.campaign-feature-list p{margin:0;color:#445166;}
+.campaign-about{
+  display:grid;
+  grid-template-columns:300px minmax(0,1fr);
+  align-items:center;
+  gap:48px;
+  background:#fff;
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:34px;
+}
+.campaign-about-image img{
+  width:100%;
+  aspect-ratio:1/1;
+  object-fit:cover;
+  display:block;
+  border-radius:8px;
+}
+.campaign-metrics{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:12px;
+  margin-top:24px;
+}
+.campaign-metrics div{
+  border:1px solid var(--border);
+  border-radius:8px;
+  padding:15px;
+  background:#f8fafc;
+}
+.campaign-metrics strong{
+  display:block;
+  font-family:var(--head);
+  font-size:20px;
+  color:#132033;
+}
+.campaign-metrics span{
+  color:#6b7280;
+  font-size:13px;
+}
+.campaign-steps{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:14px;
+}
+.campaign-steps span{
+  display:block;
+  font-family:var(--mono);
+  color:var(--blue);
+  font-weight:700;
+  margin-bottom:24px;
+}
+.campaign-checkout{
+  display:grid;
+  grid-template-columns:minmax(0,.82fr) minmax(420px,1fr);
+  align-items:start;
+  gap:34px;
+  margin-bottom:40px;
+}
+.campaign-checkout-copy{
+  position:sticky;
+  top:106px;
+}
+.campaign-config{margin-top:24px;}
+.campaign-order-card{max-width:none;margin-bottom:0;}
+.campaign-order-card .terminal-body{font-family:var(--sans);}
+.campaign-price-card{
+  margin-bottom:24px;
+  border:1px solid var(--border);
+  border-radius:8px;
+}
+.campaign-price-card.price-card{
+  border-right:1px solid var(--border);
+}
+.campaign-final{
+  text-align:center;
+  padding-top:20px;
+}
+.campaign-final a{color:var(--blue);text-decoration:underline;}
+.campaign-page .cta-btn{
+  border:none;
+  border-radius:8px;
+}
+.campaign-page .contact-form .cta-btn{
+  min-height:58px;
+}
+
+@media (max-width:900px){
+  .campaign-main{padding-top:38px;}
+  .campaign-hero{
+    min-height:auto;
+    grid-template-columns:1fr;
+    gap:24px;
+    padding-bottom:28px;
+  }
+  .campaign-hero-media{order:-1;}
+  .campaign-hero-media img{width:min(68vw,320px);}
+  .campaign-strip,
+  .campaign-grid-3,
+  .campaign-feature-list,
+  .campaign-about,
+  .campaign-steps,
+  .campaign-checkout{
+    grid-template-columns:1fr;
+  }
+  .campaign-about{padding:24px;}
+  .campaign-about-image{max-width:280px;}
+  .campaign-metrics{grid-template-columns:1fr;}
+  .campaign-checkout-copy{position:static;}
+}
+
+@media (max-width:600px){
+  .campaign-header .page-header-inner{
+    padding:14px 16px;
+  }
+  .campaign-header .page-nav{
+    gap:12px;
+    font-size:13px;
+  }
+  .campaign-header .page-nav a:not(.btn-nav):first-child{display:none;}
+  .campaign-header .btn-nav{padding:9px 14px;}
+  .campaign-main{
+    padding-left:16px;
+    padding-right:16px;
+    padding-top:24px;
+  }
+  .campaign-hero .tag{margin-bottom:14px;}
+  .campaign-hero-media img{width:min(56vw,210px);}
+  .campaign-hero h1{font-size:36px;margin-bottom:14px;}
+  .campaign-eyebrow{font-size:13px;margin-bottom:10px;}
+  .campaign-lead{font-size:15.5px;line-height:1.55;margin-bottom:18px;}
+  .campaign-actions{gap:12px;margin-bottom:16px;}
+  .campaign-trust-row{
+    grid-auto-flow:column;
+    grid-auto-columns:minmax(132px,1fr);
+    grid-template-columns:none;
+    overflow-x:auto;
+    padding-bottom:2px;
+  }
+  .campaign-trust-row span{padding:9px 10px;font-size:12.5px;}
+  .campaign-trust-row b{font-size:15px;}
+  .campaign-actions .cta-btn,
+  .campaign-actions .campaign-secondary{
+    width:100%;
+    justify-content:center;
+    text-align:center;
+  }
+  .campaign-section{margin-bottom:58px;}
+  .campaign-about{gap:24px;}
+  .campaign-order-card .terminal-body{padding:18px 14px;}
+  .campaign-price-card.price-card{padding:22px 18px;}
+}
+
 /* canvas matrix-rain backdrop, very low opacity so the layout stays clean */
 #matrixRain{
   position:fixed;

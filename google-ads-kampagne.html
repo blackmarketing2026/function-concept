@@ -4,77 +4,164 @@
 <meta charset="UTF-8" />
 <meta name="google-site-verification" content="ISfhIYmd7I1d00McXan0aeN4cW4auFGI1s-ROfkinV8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Google Ads Kampagne für 300€/Monat — function concept</title>
-<meta name="description" content="Google Ads Kampagne ab 300€ im Monat. Keine Einrichtungsgebühr, keine Trackinggebühr, monatlich kündbar. Jetzt direkt online bestellen." />
+<title>Google Ads Paket für 300 €/Monat | Function Concept</title>
+<meta name="description" content="Google Ads Kampagne für 300 € im Monat: Kampagnenaufbau, Conversion-Tracking und laufende Optimierung. Keine Einrichtungsgebühr, keine Trackinggebühr, monatlich kündbar." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css" />
 </head>
-<body class="page-body">
+<body class="page-body campaign-page">
 
-<header class="page-header">
+<header class="page-header campaign-header">
   <div class="page-header-inner">
-    <a href="/index" class="page-logo">
+    <a href="/index" class="page-logo" aria-label="Function Concept Startseite">
       <img src="/medien/logo.png" alt="Function Concept" class="page-logo-img" />
     </a>
     <nav class="page-nav">
-      <a href="/index#leistungen">Leistungen</a>
-      <a href="/index#system">System</a>
-      <a href="/kontakt" class="btn-solid btn-nav">Kontakt</a>
+      <a href="#paket">Paket</a>
+      <a href="#ablauf">Ablauf</a>
+      <a href="#bestellen" class="btn-solid btn-nav">Bestellen</a>
     </nav>
   </div>
 </header>
 
-<main class="page-content">
+<main class="campaign-main">
 
-  <div class="hero-cover">
-    <img src="/medien/google-ads-kampagne/cover.png" alt="Function Concept Google Apps Paket" />
-  </div>
-
-  <div class="tag tag-blue">&gt;_ GOOGLE-ADS.KAMPAGNE()</div>
-
-  <div class="code-block">
-    <p class="kw">CONST ANGEBOT = {</p>
-    <h1 class="big ink">Google Ads Kampagne <span class="blue">für 300&nbsp;€ / Monat</span></h1>
-    <p class="kw">}</p>
-    <p class="comment">// Keine Einrichtungsgebühr. Keine Trackinggebühr. Ein Preis, jeden Monat.</p>
-  </div>
-
-  <div class="status-row kontakt-trust">
-    <span class="status-text"><span class="ok">✓</span> keine Einrichtungsgebühr</span>
-    <span class="status-text"><span class="ok">✓</span> keine Trackinggebühr</span>
-    <span class="status-text"><span class="ok">✓</span> monatlich kündbar</span>
-  </div>
-
-  <section>
-    <h2>Wer ist Function Concept?</h2>
-    <p>Function Concept ist der Firmenname. Dahinter steht Steven Jesse, der Function Concept als One-Man-Online-Marketing-Unternehmen betreibt — Marketing-Expertise und Softwareentwicklung aus einer Hand, ohne Agentur-Overhead.</p>
-    <p>Über die Jahre wurden Kundenwerbebudgets von mehr als 1.000.000&nbsp;€ verantwortet und gesteuert. Keine Weiterreichung an Junior-Mitarbeiter: Deine Kampagne wird persönlich betreut.</p>
-  </section>
-
-  <div class="portrait-card">
-    <img src="/medien/google-ads-kampagne/steve.jpg" alt="Steve" class="portrait-img" />
-    <p class="portrait-caption">Steve — dein Google-Ads-Mensch bei Function Concept</p>
-  </div>
-
-  <section>
-    <h2>Wer bin ich?</h2>
-    <p>Ich bin Steve — der Kopf hinter Function Concept. Ich verwalte ein Werbebudget von weit über einer Million Euro pro Jahr.</p>
-    <p>Softwareentwicklung, Softwareprogrammierung, Google Ads sowie Tracking und Conversion-Tracking sind mein Element. Du sprichst direkt mit der Person, die deine Kampagne aufbaut, betreut und optimiert.</p>
-  </section>
-
-  <!-- Bestellung / Stripe Checkout -->
-  <div class="card terminal-card">
-    <div class="terminal-head">
-      <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
-      <span class="terminal-title">bestellung.checkout()</span>
+  <section class="campaign-hero">
+    <div class="campaign-hero-copy">
+      <div class="tag tag-blue">&gt;_ GOOGLE-ADS.PAKET()</div>
+      <p class="campaign-eyebrow">Für Unternehmen, die über Google planbar Anfragen gewinnen wollen.</p>
+      <h1>Google Ads Kampagne für <span>300 € / Monat</span></h1>
+      <p class="campaign-lead">Ein vollständiges Google-Ad-Paket aus einer Hand: Kampagnenaufbau, Conversion-Tracking, laufende Optimierung und persönliche Betreuung durch Steve von Function Concept.</p>
+      <div class="campaign-actions">
+        <a href="#bestellen" class="cta-btn">Jetzt Paket sichern <span class="arrow">→</span></a>
+        <a href="#details" class="campaign-secondary">Leistungen ansehen</a>
+      </div>
+      <div class="campaign-trust-row" aria-label="Paketvorteile">
+        <span><b>0 €</b> Einrichtung</span>
+        <span><b>0 €</b> Trackinggebühr</span>
+        <span><b>monatlich</b> kündbar</span>
+      </div>
     </div>
-    <div class="terminal-body">
-      <div class="pricing-grid" style="grid-template-columns:1fr;">
-        <div class="price-card highlight">
+    <div class="campaign-hero-media">
+      <img src="/medien/google-ads-kampagne/cover.png" alt="Google Ads Paket von Function Concept" />
+    </div>
+  </section>
+
+  <section class="campaign-strip" id="paket">
+    <div>
+      <span class="campaign-strip-kicker">const package =</span>
+      <strong>Google Ads Kampagne</strong>
+    </div>
+    <div>
+      <span class="campaign-strip-kicker">price.monthly =</span>
+      <strong>300 €</strong>
+    </div>
+    <div>
+      <span class="campaign-strip-kicker">included =</span>
+      <strong>Setup + Tracking + Optimierung</strong>
+    </div>
+  </section>
+
+  <section class="campaign-section campaign-problem">
+    <div class="campaign-section-head">
+      <p class="comment">// Warum das Paket existiert</p>
+      <h2>Google Ads funktioniert nur, wenn Struktur, Tracking und Optimierung zusammenpassen.</h2>
+    </div>
+    <div class="campaign-grid campaign-grid-3">
+      <article>
+        <span class="campaign-icon">01</span>
+        <h3>Keine Blindflüge</h3>
+        <p>Conversions müssen sauber messbar sein. Ohne Tracking wird Budget ausgegeben, aber nicht verstanden.</p>
+      </article>
+      <article>
+        <span class="campaign-icon">02</span>
+        <h3>Keine Agentur-Blackbox</h3>
+        <p>Du sprichst direkt mit der Person, die deine Kampagne baut, betreut und optimiert.</p>
+      </article>
+      <article>
+        <span class="campaign-icon">03</span>
+        <h3>Keine Startkosten</h3>
+        <p>Keine Einrichtungsgebühr, keine Trackinggebühr, kein langer Knebelvertrag. Ein Preis, jeden Monat.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="campaign-section campaign-details" id="details">
+    <div class="campaign-section-head">
+      <p class="comment">// Enthalten im 300-Euro-Paket</p>
+      <h2>Alles, was deine erste Google Ads Kampagne braucht.</h2>
+    </div>
+    <div class="campaign-feature-list">
+      <div><span>✓</span><p>Kampagnenaufbau mit sauberer Struktur für Suchbegriffe, Anzeigengruppen und Anzeigen.</p></div>
+      <div><span>✓</span><p>Conversion-Tracking inklusive, damit Anfragen, Käufe oder Leads messbar werden.</p></div>
+      <div><span>✓</span><p>Laufende Optimierung von Keywords, Suchbegriffen, Anzeigen und Budgetverteilung.</p></div>
+      <div><span>✓</span><p>Persönliche Betreuung durch Steve, ohne Weitergabe an Junior-Mitarbeiter.</p></div>
+      <div><span>✓</span><p>Monatlich kündbar und transparent über Stripe als Abo abrechenbar.</p></div>
+      <div><span>✓</span><p>Optionaler Landingpage-Blick: Wenn die Zielseite bremst, bekommst du klares Feedback.</p></div>
+    </div>
+  </section>
+
+  <section class="campaign-section campaign-about">
+    <div class="campaign-about-image">
+      <img src="/medien/google-ads-kampagne/steve.jpg" alt="Steve von Function Concept" />
+    </div>
+    <div>
+      <p class="comment">// Wer dahintersteht</p>
+      <h2>Steve - dein Google-Ads-Mensch bei Function Concept.</h2>
+      <p>Function Concept ist keine große Agentur mit Weiterreichung und Overhead. Dahinter steht Steven Jesse: Marketing-Experte, Softwareentwickler und persönlicher Ansprechpartner für deine Kampagne.</p>
+      <p>Über die Jahre wurden Kundenwerbebudgets von mehr als 1.000.000 € verantwortet und gesteuert. Deine Kampagne wird direkt von der Person betreut, die Tracking, Technik und Performance zusammen denkt.</p>
+      <div class="campaign-metrics">
+        <div><strong>1.000.000 €+</strong><span>verwaltetes Kundenbudget</span></div>
+        <div><strong>One-Man</strong><span>direkte Betreuung</span></div>
+        <div><strong>Tech + Ads</strong><span>aus einer Hand</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="campaign-section campaign-process" id="ablauf">
+    <div class="campaign-section-head">
+      <p class="comment">// Ablauf nach der Bestellung</p>
+      <h2>Vom Checkout zur laufenden Kampagne.</h2>
+    </div>
+    <div class="campaign-steps">
+      <div><span>1</span><h3>Bestellen</h3><p>Du buchst das Paket für 300 € pro Monat und übermittelst die Projektdaten.</p></div>
+      <div><span>2</span><h3>Abstimmen</h3><p>Wir klären Ziel, Angebot, Region, Website und welche Conversion zählen soll.</p></div>
+      <div><span>3</span><h3>Aufbauen</h3><p>Kampagnenstruktur, Keywords, Anzeigen und Tracking werden eingerichtet.</p></div>
+      <div><span>4</span><h3>Optimieren</h3><p>Nach dem Start wird anhand echter Daten laufend nachgeschärft.</p></div>
+    </div>
+  </section>
+
+  <section class="campaign-section campaign-checkout" id="bestellen">
+    <div class="campaign-checkout-copy">
+      <p class="comment">// checkout.ready</p>
+      <h2>Google Ads Paket jetzt bestellen.</h2>
+      <p>300 € pro Monat für Kampagnenaufbau, Conversion-Tracking und laufende Optimierung. Monatlich kündbar, ohne Einrichtungs- und Trackinggebühr.</p>
+      <div class="card terminal-card campaign-config">
+        <div class="terminal-head">
+          <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+          <span class="terminal-title">vertrag.config</span>
+        </div>
+        <div class="terminal-body">
+          <p><span class="ok">✓</span> einrichtungskosten: <span class="amber">0 €</span></p>
+          <p><span class="ok">✓</span> trackingkosten: <span class="amber">0 €</span></p>
+          <p><span class="ok">✓</span> monatlich_kuendbar: <span class="green">true</span></p>
+          <p><span class="ok">✓</span> knebelvertrag: <span class="red">false</span></p>
+          <p><span class="ok">✓</span> zahlungsabwicklung: <span class="green">"Stripe"</span></p>
+        </div>
+      </div>
+    </div>
+
+    <div class="card terminal-card campaign-order-card">
+      <div class="terminal-head">
+        <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
+        <span class="terminal-title">bestellung.checkout()</span>
+      </div>
+      <div class="terminal-body">
+        <div class="price-card highlight campaign-price-card">
           <div class="price-tag"><span class="dot-sq blue"></span>GOOGLE ADS KAMPAGNE</div>
-          <p class="price"><span class="dim-sm">const price =</span> <span class="blue">300&nbsp;€</span> <span class="unit">/ Monat</span></p>
+          <p class="price"><span class="dim-sm">const price =</span> <span class="blue">300 €</span> <span class="unit">/ Monat</span></p>
           <ul>
             <li>Kampagnenaufbau &amp; Struktur</li>
             <li>Conversion-Tracking inklusive</li>
@@ -84,52 +171,40 @@
             <li>Monatlich kündbar</li>
           </ul>
         </div>
+
+        <form id="orderForm" class="contact-form" novalidate>
+          <div class="form-field">
+            <label for="orderName">Name</label>
+            <input type="text" id="orderName" name="name" autocomplete="name" placeholder="Dein Name" required />
+          </div>
+          <div class="form-field">
+            <label for="orderTelefon">Telefonnummer</label>
+            <input type="tel" id="orderTelefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
+          </div>
+          <div class="form-field">
+            <label for="orderAdresse">Adresse</label>
+            <input type="text" id="orderAdresse" name="adresse" autocomplete="street-address" placeholder="Straße, PLZ, Ort" required />
+          </div>
+          <div class="form-field">
+            <label for="orderProjekt">Projektname für das Google-Ad-Paket</label>
+            <input type="text" id="orderProjekt" name="projekt" placeholder="z. B. Sommer-Kampagne 2026" required />
+          </div>
+
+          <label class="buy-confirm">
+            <input type="checkbox" id="stripeAgbConfirm" />
+            <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
+          </label>
+
+          <button type="submit" class="cta-btn" id="stripeBuyBtn" disabled>Jetzt bestellen - 300 €/Monat <span class="arrow">→</span></button>
+          <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
+        </form>
       </div>
-
-      <form id="orderForm" class="contact-form" novalidate>
-        <div class="form-field">
-          <label for="orderName">Name</label>
-          <input type="text" id="orderName" name="name" autocomplete="name" placeholder="Dein Name" required />
-        </div>
-        <div class="form-field">
-          <label for="orderTelefon">Telefonnummer</label>
-          <input type="tel" id="orderTelefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
-        </div>
-        <div class="form-field">
-          <label for="orderAdresse">Adresse</label>
-          <input type="text" id="orderAdresse" name="adresse" autocomplete="street-address" placeholder="Straße, PLZ, Ort" required />
-        </div>
-        <div class="form-field">
-          <label for="orderProjekt">Projektname für das Google-Ad-Paket</label>
-          <input type="text" id="orderProjekt" name="projekt" placeholder="z.&nbsp;B. Sommer-Kampagne 2026" required />
-        </div>
-
-        <label class="buy-confirm">
-          <input type="checkbox" id="stripeAgbConfirm" />
-          <span>Ich handle als Unternehmer im Sinne des § 14 BGB und akzeptiere die <a href="/agb">AGB</a> sowie die <a href="/datenschutz">Datenschutzerklärung</a>.</span>
-        </label>
-
-        <button type="submit" class="cta-btn" id="stripeBuyBtn" disabled>⚡ Jetzt bestellen — 300&nbsp;€/Monat <span class="arrow">→</span></button>
-        <p class="form-status" id="stripeBuyStatus" role="status" aria-live="polite"></p>
-      </form>
     </div>
-  </div>
+  </section>
 
-  <div class="card terminal-card">
-    <div class="terminal-head">
-      <span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span>
-      <span class="terminal-title">vertrag.config</span>
-    </div>
-    <div class="terminal-body">
-      <p><span class="ok">✓</span> einrichtungskosten: <span class="amber">0&nbsp;€</span></p>
-      <p><span class="ok">✓</span> trackingkosten: <span class="amber">0&nbsp;€</span></p>
-      <p><span class="ok">✓</span> monatlich_kuendbar: <span class="green">true</span></p>
-      <p><span class="ok">✓</span> knebelvertrag: <span class="red">false</span></p>
-      <p><span class="ok">✓</span> zahlungsabwicklung: <span class="green">"Stripe"</span></p>
-    </div>
-  </div>
-
-  <p style="text-align:center;">Noch Fragen vor der Bestellung? <a href="/kontakt">Kontaktiere uns</a> unverbindlich.</p>
+  <section class="campaign-final">
+    <p>Noch Fragen vor der Bestellung? <a href="/kontakt">Kontaktiere uns</a> unverbindlich.</p>
+  </section>
 
 </main>
 
@@ -146,6 +221,7 @@
       <a href="/impressum">Impressum</a>
       <a href="/datenschutz">Datenschutz</a>
       <a href="/agb">AGB</a>
+      <a href="/seitenuebersicht">Seitenübersicht</a>
     </nav>
   </div>
   <p class="footer-copy">© 2026 Function Concept. Alle Rechte vorbehalten.</p>
