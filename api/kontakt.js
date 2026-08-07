@@ -6,10 +6,10 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { name, email, telefon, nachricht, besuchsverlauf } = req.body || {};
+  const { name, email, telefon, webseite, nachricht, besuchsverlauf } = req.body || {};
 
-  if (!name || !email || !nachricht) {
-    return res.status(400).json({ error: 'Name, E-Mail und Nachricht sind erforderlich.' });
+  if (!name || (!email && !telefon)) {
+    return res.status(400).json({ error: 'Name und mindestens ein Kontaktweg (E-Mail oder Telefon) sind erforderlich.' });
   }
 
   const { RESEND_API_KEY, RESEND_FROM_EMAIL, RESEND_TO_EMAIL } = process.env;
@@ -29,10 +29,10 @@ export default async function handler(req, res) {
       body: JSON.stringify({
         from: RESEND_FROM_EMAIL,
         to: RESEND_TO_EMAIL,
-        reply_to: email,
+        reply_to: email || undefined,
         subject: `Neue Kontaktanfrage von ${name}`,
-        text: `Name: ${name}\nE-Mail: ${email}\nTelefon: ${telefon || '–'}\n\nNachricht:\n${nachricht}`,
-        html: buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchsverlauf }),
+        text: `Name: ${name}\nE-Mail: ${email || '–'}\nTelefon: ${telefon || '–'}\nWebseite: ${webseite || '–'}\n\nNachricht:\n${nachricht || '–'}`,
+        html: buildKontaktEmailHtml({ name, email, telefon, webseite, nachricht, besuchsverlauf }),
       }),
     });
 

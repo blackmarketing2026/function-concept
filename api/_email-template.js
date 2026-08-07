@@ -70,11 +70,12 @@ function buildBesuchsverlaufHtml(besuchsverlauf) {
               </table>`;
 }
 
-export function buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchsverlauf }) {
+export function buildKontaktEmailHtml({ name, email, telefon, webseite, nachricht, besuchsverlauf }) {
   const safeName = escapeHtml(name);
-  const safeEmail = escapeHtml(email);
+  const safeEmail = email ? escapeHtml(email) : null;
   const safeTelefon = telefon ? escapeHtml(telefon) : null;
-  const safeNachricht = escapeHtml(nachricht).replace(/\n/g, '<br />');
+  const safeWebseite = webseite ? escapeHtml(webseite) : null;
+  const safeNachricht = escapeHtml(nachricht || '–').replace(/\n/g, '<br />');
   const waNumber = toWhatsappNumber(telefon);
 
   const buttons = [
@@ -84,7 +85,9 @@ export function buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchs
     safeTelefon
       ? `<a href="tel:${safeTelefon}" style="display:block;background:#3b82f6;color:#ffffff;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:center;padding:14px 20px;border-radius:8px;margin-bottom:12px;">📞 Anrufen</a>`
       : '',
-    `<a href="mailto:${safeEmail}" style="display:block;background:#181d25;color:#ffffff;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:center;padding:14px 20px;border-radius:8px;">✉️ E-Mail antworten</a>`,
+    safeEmail
+      ? `<a href="mailto:${safeEmail}" style="display:block;background:#181d25;color:#ffffff;text-decoration:none;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:center;padding:14px 20px;border-radius:8px;">✉️ E-Mail antworten</a>`
+      : '',
   ].join('');
 
   return `<!doctype html>
@@ -115,11 +118,15 @@ export function buildKontaktEmailHtml({ name, email, telefon, nachricht, besuchs
                 </tr>
                 <tr>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">E-Mail</td>
-                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeEmail}</td>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeEmail || '–'}</td>
                 </tr>
                 <tr>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Telefon</td>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeTelefon || '–'}</td>
+                </tr>
+                <tr>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Webseite</td>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeWebseite || '–'}</td>
                 </tr>
               </table>
 

@@ -79,10 +79,11 @@ kontaktForm?.addEventListener('submit', async (e) => {
   }
 
   const data = {
-    name: document.getElementById('name').value.trim(),
-    email: document.getElementById('email').value.trim(),
-    telefon: document.getElementById('telefon').value.trim(),
-    nachricht: document.getElementById('nachricht').value.trim(),
+    name: document.getElementById('name')?.value.trim() || '',
+    email: document.getElementById('email')?.value.trim() || '',
+    telefon: document.getElementById('telefon')?.value.trim() || '',
+    webseite: document.getElementById('webseite')?.value.trim() || '',
+    nachricht: document.getElementById('nachricht')?.value.trim() || '',
     besuchsverlauf,
   };
 
