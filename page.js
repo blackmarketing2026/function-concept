@@ -100,6 +100,8 @@ kontaktForm?.addEventListener('submit', async (e) => {
     if (!res.ok) throw new Error('send failed');
     status.textContent = 'Danke! Deine Nachricht wurde versendet.';
     status.className = 'form-status ok';
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ event: 'lead', form_location: location.pathname });
     kontaktForm.reset();
   } catch (err) {
     status.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
