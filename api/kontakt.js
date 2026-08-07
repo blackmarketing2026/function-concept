@@ -1,3 +1,4 @@
+import nodemailer from 'nodemailer';
 import { buildKontaktEmailHtml } from './_email-template.js';
 
 export default async function handler(req, res) {
@@ -12,39 +13,35 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'Name und mindestens ein Kontaktweg (E-Mail oder Telefon) sind erforderlich.' });
   }
 
-  const { RESEND_API_KEY, RESEND_FROM_EMAIL, RESEND_TO_EMAIL } = process.env;
+  const { SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, SMTP_TO_EMAIL } = process.env;
 
-  if (!RESEND_API_KEY || !RESEND_FROM_EMAIL || !RESEND_TO_EMAIL) {
-    console.error('Resend env vars missing: RESEND_API_KEY / RESEND_FROM_EMAIL / RESEND_TO_EMAIL');
+  if (!SMTP_HOST || !SMTP_USER || !SMTP_PASS) {
+    console.error('SMTP env vars missing: SMTP_HOST / SMTP_USER / SMTP_PASS');
     return res.status(500).json({ error: 'Serverkonfiguration fehlt.' });
   }
 
+  const port = Number(SMTP_PORT) || 465;
+
   try {
-    const resendRes = await fetch('https://api.resend.com/emails', {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${RESEND_API_KEY}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        from: RESEND_FROM_EMAIL,
-        to: RESEND_TO_EMAIL,
-        reply_to: email || undefined,
-        subject: `Neue Kontaktanfrage von ${name}`,
-        text: `Name: ${name}\nE-Mail: ${email || '–'}\nTelefon: ${telefon || '–'}\nWebseite: ${webseite || '–'}\n\nNachricht:\n${nachricht || '–'}`,
-        html: buildKontaktEmailHtml({ name, email, telefon, webseite, nachricht, besuchsverlauf }),
-      }),
+    const transporter = nodemailer.createTransport({
+      host: SMTP_HOST,
+      port,
+      secure: port === 465,
+      auth: { user: SMTP_USER, pass: SMTP_PASS },
     });
 
-    if (!resendRes.ok) {
-      const detail = await resendRes.text();
-      console.error('Resend API error:', resendRes.status, detail);
-      return res.status(502).json({ error: 'Nachricht konnte nicht versendet werden.' });
-    }
+    await transporter.sendMail({
+      from: SMTP_USER,
+      to: SMTP_TO_EMAIL || SMTP_USER,
+      replyTo: email || undefined,
+      subject: `Neue Kontaktanfrage von ${name}`,
+      text: `Name: ${name}\nE-Mail: ${email || '–'}\nTelefon: ${telefon || '–'}\nWebseite: ${webseite || '–'}\n\nNachricht:\n${nachricht || '–'}`,
+      html: buildKontaktEmailHtml({ name, email, telefon, webseite, nachricht, besuchsverlauf }),
+    });
 
     return res.status(200).json({ ok: true });
   } catch (err) {
-    console.error('Kontaktformular fetch error:', err);
-    return res.status(500).json({ error: 'Nachricht konnte nicht versendet werden.' });
+    console.error('SMTP send error:', err);
+    return res.status(502).json({ error: 'Nachricht konnte nicht versendet werden.' });
   }
 }

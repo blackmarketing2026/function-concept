@@ -1,6 +1,6 @@
 # Function Concept — Projektüberblick
 
-Statische Website/Blog der SEO-Agentur "Function Concept". Reines HTML/CSS/vanilla JS, kein Build-Tool, kein `package.json`. Deployment über Vercel (`vercel.json`: cleanUrls, keine trailing slash), zusätzlich `.htaccess` für Apache-Kompatibilität. Sprache durchgehend Deutsch (`lang="de"`).
+Statische Website/Blog der SEO-Agentur "Function Concept". Reines HTML/CSS/vanilla JS, kein Build-Tool. Einzige Ausnahme: `package.json` mit `nodemailer` als Dependency für den SMTP-Mailversand aus `api/kontakt.js`. Deployment über Vercel (`vercel.json`: cleanUrls, keine trailing slash), zusätzlich `.htaccess` für Apache-Kompatibilität. Sprache durchgehend Deutsch (`lang="de"`).
 
 ## Struktur
 
@@ -29,13 +29,14 @@ Verbindlicher Prozess steht in `BLOG-ARTIKEL-CHECKLISTE.md`. Kurzfassung: Artike
 - `vercel.json` — cleanUrls, keine trailing slash
 - `.htaccess` — Apache-Rewrite für extensionless URLs (Fallback-Hosting)
 
-## Kontaktformular / Resend
+## Kontaktformular / SMTP (All-Inkl)
 
-- Seite: `kontakt.html` (Felder: Name, E-Mail, Telefonnummer, Nachricht) — sendet per `fetch()` an `/api/kontakt`
-- Backend: Vercel Serverless Function `api/kontakt.js` (erster Eintrag im `api/`-Ordner), ruft die Resend-HTTP-API direkt auf (kein npm-Package, kein `package.json` nötig)
-- Formular-Handling (Submit, Statusanzeige) liegt in `page.js`, analog zum bestehenden Cookie-Consent-Code dort
-- Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `RESEND_API_KEY`, `RESEND_FROM_EMAIL`, `RESEND_TO_EMAIL` — Domain bei Resend ist bereits verifiziert
-- Datenschutz-Hinweis zu Resend steht in `datenschutz.html`, Abschnitt 7 (Kontaktformular)
+- Formulare: `kontakt.html` (Name, E-Mail, Telefonnummer, Nachricht — alle required), `google-ads-anfrage.html` (Name, Telefonnummer, Webseite, Nachricht optional — kein E-Mail-Feld) und `ad/kundenanfragen-generieren.html`. Alle nutzen dasselbe Formular-Markup mit `id="kontaktForm"` und Feld-IDs `name`/`email`/`telefon`/`webseite`/`nachricht` (je nach Seite nur eine Teilmenge vorhanden) und senden per `fetch()` an `/api/kontakt`
+- Backend: Vercel Serverless Function `api/kontakt.js`, versendet über SMTP mit `nodemailer` (kein HTTP-E-Mail-Dienstleister mehr) — Postfach liegt bei All-Inkl
+- Validierung serverseitig: `name` und mindestens einer von `email`/`telefon` sind Pflicht, `nachricht` ist optional
+- Formular-Handling (Submit, Statusanzeige) liegt in `page.js`, liest Formularfelder per Optional-Chaining aus (`document.getElementById('x')?.value`), damit ein Handler für alle Formularvarianten funktioniert. Analog zum bestehenden Cookie-Consent-Code dort
+- Benötigte Vercel-Environment-Variablen (im Vercel-Dashboard hinterlegt, nicht im Repo): `SMTP_HOST` (All-Inkl kasserver-Host), `SMTP_PORT` (465 = SSL, Standard), `SMTP_USER` (Postfach-Adresse, dient auch als Absender), `SMTP_PASS`, optional `SMTP_TO_EMAIL` (Empfänger, fällt sonst auf `SMTP_USER` zurück)
+- Datenschutz-Hinweis zum Mailversand über All-Inkl steht in `datenschutz.html`, Abschnitt 7 (Kontaktformular)
 - Besuchsverlauf: Bei erteiltem Analytics-Consent (`localStorage['cookie-consent'].analytics === true`) loggt `page.js` jeden Seitenaufruf in `localStorage['fc_visit_log']` (max. 30 Einträge). Wird beim Absenden des Kontaktformulars als `besuchsverlauf` mitgeschickt und von `api/_email-template.js` als chronologische Tabelle in die Benachrichtigungsmail gerendert. Ohne Consent bleibt das Feld leer. Datenschutz-Hinweis in `datenschutz.html`, Abschnitt 5.
 
 ## Google Ads Landingpage / Stripe Checkout
