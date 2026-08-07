@@ -11,6 +11,25 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css" />
+<style>
+  .adv-list{list-style:none;margin:0 0 20px;padding:0;display:flex;flex-direction:column;gap:12px;}
+  .adv-list li{display:flex;align-items:flex-start;gap:12px;color:#445166;font-size:16px;margin:0;}
+  .adv-list li span{flex:none;font-weight:800;line-height:1.4;}
+  .adv-list.adv-list-bad li span{color:var(--red);}
+  .adv-list.adv-list-good li span{color:var(--green);}
+  .adv-about{display:flex;align-items:center;gap:28px;margin:8px 0 12px;}
+  .adv-about img{width:130px;height:130px;object-fit:cover;border-radius:8px;flex:none;}
+  .adv-about-body h2{margin-bottom:12px;}
+  .adv-metrics{display:flex;gap:24px;margin-top:20px;flex-wrap:wrap;}
+  .adv-metrics div{min-width:0;}
+  .adv-metrics strong{display:block;font-family:var(--head);font-size:18px;color:#132033;}
+  .adv-metrics span{color:#6b7280;font-size:13px;}
+  @media (max-width:640px){
+    .adv-about{flex-direction:column;text-align:center;}
+    .adv-about img{width:96px;height:96px;}
+    .adv-metrics{justify-content:center;}
+  }
+</style>
 </head>
 <body class="page-body">
 
@@ -60,40 +79,40 @@
   <section>
     <h2>Warum viele Google-Ads-Versuche trotzdem scheitern</h2>
     <p>Gleichzeitig kennen viele Unternehmer auch die Kehrseite: Sie haben Google Ads bereits einmal ausprobiert — und waren enttäuscht. Budget wurde ausgegeben, aber die Anfragen blieben aus oder waren unpassend. In den allermeisten Fällen liegt das nicht an Google Ads selbst, sondern an drei typischen Fehlern:</p>
-    <div class="campaign-feature-list">
-      <div><span style="color:var(--red)">✕</span><p>Fehlendes Conversion-Tracking: Es ist schlicht nicht messbar, welche Klicks tatsächlich zu einer Anfrage geführt haben — Optimierung passiert im Blindflug.</p></div>
-      <div><span style="color:var(--red)">✕</span><p>Zu breite Kampagnenstruktur: Wer auf zu viele oder zu allgemeine Suchbegriffe bietet, bezahlt für Klicks von Nutzern ohne echtes Kaufinteresse.</p></div>
-      <div><span style="color:var(--red)">✕</span><p>Keine laufende Betreuung: Eine einmal eingerichtete Kampagne verliert ohne kontinuierliche Optimierung schnell an Effizienz.</p></div>
-    </div>
+    <ul class="adv-list adv-list-bad">
+      <li><span>✕</span>Fehlendes Conversion-Tracking: Es ist schlicht nicht messbar, welche Klicks tatsächlich zu einer Anfrage geführt haben — Optimierung passiert im Blindflug.</li>
+      <li><span>✕</span>Zu breite Kampagnenstruktur: Wer auf zu viele oder zu allgemeine Suchbegriffe bietet, bezahlt für Klicks von Nutzern ohne echtes Kaufinteresse.</li>
+      <li><span>✕</span>Keine laufende Betreuung: Eine einmal eingerichtete Kampagne verliert ohne kontinuierliche Optimierung schnell an Effizienz.</li>
+    </ul>
     <p>Genau diese drei Punkte entscheiden am Ende darüber, ob Google Ads zu einer verlässlichen Quelle für Kundenanfragen wird — oder zu einem teuren Fehlversuch, der die Werbeform zu Unrecht in Verruf bringt.</p>
   </section>
 
-  <section class="campaign-about">
-    <div class="campaign-about-image">
+  <section>
+    <div class="adv-about">
       <img src="/medien/google-ads-kampagne/steve.jpg" alt="Steve von Function Concept" />
-    </div>
-    <div>
-      <p class="comment">// Wer hinter Function Concept steht</p>
-      <h2>Kein Agentur-Overhead, sondern ein direkter Ansprechpartner</h2>
-      <p>Function Concept ist keine große Agentur, in der Anfragen durch mehrere Hände wandern. Dahinter steht Steven Jesse — Marketing-Experte und Softwareentwickler, der Kampagnenaufbau, Tracking und Optimierung selbst in der Hand hat.</p>
-      <p>Über die Jahre wurden Werbebudgets von Kunden im Wert von mehr als 1.000.000 € verantwortet und gesteuert. Wer eine kostenlose Beratung anfragt, spricht direkt mit der Person, die später auch die Kampagne betreut — nicht mit einem Vertriebsmitarbeiter, der weiterreicht.</p>
-      <div class="campaign-metrics">
-        <div><strong>1.000.000 €+</strong><span>verwaltetes Kundenbudget</span></div>
-        <div><strong>One-Man</strong><span>direkte Betreuung</span></div>
-        <div><strong>Tech + Ads</strong><span>aus einer Hand</span></div>
+      <div class="adv-about-body">
+        <p class="comment">// Wer hinter Function Concept steht</p>
+        <h2>Kein Agentur-Overhead, sondern ein direkter Ansprechpartner</h2>
       </div>
+    </div>
+    <p>Function Concept ist keine große Agentur, in der Anfragen durch mehrere Hände wandern. Dahinter steht Steven Jesse — Marketing-Experte und Softwareentwickler, der Kampagnenaufbau, Tracking und Optimierung selbst in der Hand hat.</p>
+    <p>Über die Jahre wurden Werbebudgets von Kunden im Wert von mehr als 1.000.000 € verantwortet und gesteuert. Wer eine kostenlose Beratung anfragt, spricht direkt mit der Person, die später auch die Kampagne betreut — nicht mit einem Vertriebsmitarbeiter, der weiterreicht.</p>
+    <div class="adv-metrics">
+      <div><strong>1.000.000 €+</strong><span>verwaltetes Kundenbudget</span></div>
+      <div><strong>One-Man</strong><span>direkte Betreuung</span></div>
+      <div><strong>Tech + Ads</strong><span>aus einer Hand</span></div>
     </div>
   </section>
 
   <section>
     <h2>Was die kostenlose Beratung konkret bringt</h2>
     <p>In einem kurzen, unverbindlichen Gespräch schauen wir uns gemeinsam an, ob und wie Google Ads für dein Unternehmen zu mehr Kundenanfragen führen kann. Kein Verkaufsgespräch mit vorgefertigtem Skript, sondern eine ehrliche Einschätzung — auch wenn die Antwort manchmal lautet, dass sich Google Ads aktuell noch nicht lohnt.</p>
-    <div class="campaign-feature-list">
-      <div><span>✓</span><p>Einschätzung, ob deine Branche und Region genug Suchvolumen für planbare Anfragen bieten.</p></div>
-      <div><span>✓</span><p>Kurzer Blick auf deine Webseite: Bremst sie mögliche Anfragen aus, bevor sie überhaupt entstehen?</p></div>
-      <div><span>✓</span><p>Realistische Einschätzung von Budget und erwartbaren Anfragekosten für deine Branche.</p></div>
-      <div><span>✓</span><p>Klarer nächster Schritt — mit oder ohne Zusammenarbeit im Anschluss.</p></div>
-    </div>
+    <ul class="adv-list adv-list-good">
+      <li><span>✓</span>Einschätzung, ob deine Branche und Region genug Suchvolumen für planbare Anfragen bieten.</li>
+      <li><span>✓</span>Kurzer Blick auf deine Webseite: Bremst sie mögliche Anfragen aus, bevor sie überhaupt entstehen?</li>
+      <li><span>✓</span>Realistische Einschätzung von Budget und erwartbaren Anfragekosten für deine Branche.</li>
+      <li><span>✓</span>Klarer nächster Schritt — mit oder ohne Zusammenarbeit im Anschluss.</li>
+    </ul>
   </section>
 
   <section id="beratung">
