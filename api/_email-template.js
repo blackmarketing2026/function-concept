@@ -70,8 +70,9 @@ function buildBesuchsverlaufHtml(besuchsverlauf) {
               </table>`;
 }
 
-export function buildKontaktEmailHtml({ name, email, telefon, webseite, nachricht, besuchsverlauf }) {
+export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webseite, nachricht, besuchsverlauf }) {
   const safeName = escapeHtml(name);
+  const safeUnternehmen = unternehmen ? escapeHtml(unternehmen) : null;
   const safeEmail = email ? escapeHtml(email) : null;
   const safeTelefon = telefon ? escapeHtml(telefon) : null;
   const safeWebseite = webseite ? escapeHtml(webseite) : null;
@@ -115,6 +116,10 @@ export function buildKontaktEmailHtml({ name, email, telefon, webseite, nachrich
                 <tr>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;width:90px;">Name</td>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeName}</td>
+                </tr>
+                <tr>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Unternehmen</td>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeUnternehmen || '-'}</td>
                 </tr>
                 <tr>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">E-Mail</td>

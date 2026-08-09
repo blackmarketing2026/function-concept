@@ -71,6 +71,14 @@ kontaktForm?.addEventListener('submit', async (e) => {
   e.preventDefault();
   const status = document.getElementById('kontaktStatus');
   const submitBtn = document.getElementById('kontaktSubmit');
+
+  if (!kontaktForm.checkValidity()) {
+    kontaktForm.reportValidity();
+    status.textContent = 'Bitte fülle die Pflichtfelder korrekt aus.';
+    status.className = 'form-status error';
+    return;
+  }
+
   let besuchsverlauf = [];
   try {
     besuchsverlauf = JSON.parse(localStorage.getItem(visitLogKey)) || [];
@@ -80,6 +88,7 @@ kontaktForm?.addEventListener('submit', async (e) => {
 
   const data = {
     name: document.getElementById('name')?.value.trim() || '',
+    unternehmen: document.getElementById('unternehmen')?.value.trim() || '',
     email: document.getElementById('email')?.value.trim() || '',
     telefon: document.getElementById('telefon')?.value.trim() || '',
     webseite: document.getElementById('webseite')?.value.trim() || '',
@@ -104,11 +113,21 @@ kontaktForm?.addEventListener('submit', async (e) => {
     window.dataLayer.push({ event: 'lead', form_location: location.pathname });
     kontaktForm.reset();
   } catch (err) {
-    status.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut oder schreib uns direkt eine E-Mail.';
+    status.textContent = 'Da ist etwas schiefgelaufen. Bitte versuch es erneut.';
     status.className = 'form-status error';
   } finally {
     submitBtn.disabled = false;
   }
+});
+
+document.querySelectorAll('a[href^="#"]').forEach((link) => {
+  link.addEventListener('click', (e) => {
+    const target = document.querySelector(link.getAttribute('href'));
+    if (!target) return;
+    e.preventDefault();
+    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    history.pushState(null, '', link.getAttribute('href'));
+  });
 });
 
 const storedConsent = localStorage.getItem(consentKey);
