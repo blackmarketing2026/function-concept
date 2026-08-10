@@ -67,6 +67,10 @@ document.getElementById('cookieNecessary')?.addEventListener('click', () => {
 });
 
 const kontaktForm = document.getElementById('kontaktForm');
+kontaktForm?.addEventListener('focusin', () => {
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({ event: 'form_start', form_location: location.pathname });
+}, { once: true });
 kontaktForm?.addEventListener('submit', async (e) => {
   e.preventDefault();
   const status = document.getElementById('kontaktStatus');
