@@ -1,7 +1,13 @@
 {
   "name": "function-concept",
   "private": true,
+  "scripts": {
+    "dev": "serve -l 5500 ."
+  },
   "dependencies": {
     "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "serve": "^14.2.6"
   }
 }
