@@ -1070,6 +1070,24 @@ main{
   min-height:58px;
 }
 
+/* --- google ads check (form only) --- */
+.check-page .check-main{
+  max-width:560px;
+  margin:0 auto;
+  padding:48px 20px 72px;
+}
+.check-title{
+  font-family:var(--head);
+  font-size:28px;
+  line-height:1.2;
+  color:#132033;
+  margin-bottom:8px;
+}
+.check-lead{
+  color:#445166;
+  margin-bottom:22px;
+}
+
 /* --- inquiry landing page --- */
 .inquiry-page .campaign-main{
   padding-bottom:72px;

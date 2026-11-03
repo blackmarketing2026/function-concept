@@ -70,8 +70,10 @@ function buildBesuchsverlaufHtml(besuchsverlauf) {
               </table>`;
 }
 
-export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webseite, nachricht, besuchsverlauf }) {
+export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webseite, googleAdsId, nachricht, formular, besuchsverlauf }) {
   const safeName = escapeHtml(name);
+  const safeTitel = escapeHtml(formular || 'Kontaktanfrage');
+  const safeGoogleAdsId = googleAdsId ? escapeHtml(googleAdsId) : null;
   const safeUnternehmen = unternehmen ? escapeHtml(unternehmen) : null;
   const safeEmail = email ? escapeHtml(email) : null;
   const safeTelefon = telefon ? escapeHtml(telefon) : null;
@@ -96,7 +98,7 @@ export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webse
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Neue Kontaktanfrage</title>
+<title>Neue ${safeTitel}</title>
 </head>
 <body style="margin:0;padding:0;background:#f6f7f9;">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f6f7f9;padding:24px 12px;">
@@ -110,7 +112,7 @@ export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webse
           </tr>
           <tr>
             <td style="padding:24px;">
-              <p style="margin:0 0 18px;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#181d25;">Neue Kontaktanfrage</p>
+              <p style="margin:0 0 18px;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:bold;color:#181d25;">Neue ${safeTitel}</p>
 
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-bottom:20px;">
                 <tr>
@@ -132,6 +134,10 @@ export function buildKontaktEmailHtml({ name, unternehmen, email, telefon, webse
                 <tr>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Webseite</td>
                   <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeWebseite || '–'}</td>
+                </tr>
+                <tr>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#8a8f98;">Google-Ads-ID</td>
+                  <td style="padding:6px 0;font-family:Arial,Helvetica,sans-serif;font-size:15px;color:#181d25;">${safeGoogleAdsId || '–'}</td>
                 </tr>
               </table>
 

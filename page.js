@@ -96,7 +96,9 @@ kontaktForm?.addEventListener('submit', async (e) => {
     email: document.getElementById('email')?.value.trim() || '',
     telefon: document.getElementById('telefon')?.value.trim() || '',
     webseite: document.getElementById('webseite')?.value.trim() || '',
+    googleAdsId: document.getElementById('googleAdsId')?.value.trim() || '',
     nachricht: document.getElementById('nachricht')?.value.trim() || '',
+    formular: kontaktForm.dataset.formular || '',
     besuchsverlauf,
   };
 

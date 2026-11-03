@@ -7,7 +7,7 @@ export default async function handler(req, res) {
     return res.status(405).json({ error: 'Method not allowed' });
   }
 
-  const { name, unternehmen, email, telefon, webseite, nachricht, besuchsverlauf } = req.body || {};
+  const { name, unternehmen, email, telefon, webseite, googleAdsId, nachricht, formular, besuchsverlauf } = req.body || {};
 
   if (!name || (!email && !telefon)) {
     return res.status(400).json({ error: 'Name und mindestens ein Kontaktweg sind erforderlich.' });
@@ -34,18 +34,19 @@ export default async function handler(req, res) {
       from: SMTP_USER,
       to: SMTP_TO_EMAIL || SMTP_USER,
       replyTo: email || undefined,
-      subject: `Neue Kontaktanfrage von ${name}`,
+      subject: `Neue ${formular || 'Kontaktanfrage'} von ${name}`,
       text: [
         `Name: ${name}`,
         `Unternehmen: ${unternehmen || '-'}`,
         `E-Mail: ${email || '-'}`,
         `Telefon: ${telefon || '-'}`,
         `Webseite: ${webseite || '-'}`,
+        `Google-Ads-ID: ${googleAdsId || '-'}`,
         '',
         'Nachricht:',
         nachricht || '-',
       ].join('\n'),
-      html: buildKontaktEmailHtml({ name, unternehmen, email, telefon, webseite, nachricht, besuchsverlauf }),
+      html: buildKontaktEmailHtml({ name, unternehmen, email, telefon, webseite, googleAdsId, nachricht, formular, besuchsverlauf }),
     });
 
     return res.status(200).json({ ok: true });
