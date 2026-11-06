@@ -1449,3 +1449,7 @@ main{
   .platform-grid{grid-template-columns:repeat(2,1fr);}
   .status-bar{overflow-x:auto;white-space:nowrap;}
 }
+
+/* Artikelbilder und gut lesbare Aktionsbuttons */
+.maler-artikelbild{display:block;width:100%;height:auto;border-radius:12px;margin:0 0 36px;}
+.page-content a.btn-solid,.page-content a.btn-solid:visited{color:#fff;text-decoration:none;}
