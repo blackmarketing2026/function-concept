@@ -9,8 +9,11 @@ export default async function handler(req, res) {
 
   const { name, unternehmen, email, telefon, webseite, googleAdsId, nachricht, formular, besuchsverlauf } = req.body || {};
 
-  if (!name || (!email && !telefon)) {
-    return res.status(400).json({ error: 'Name und mindestens ein Kontaktweg sind erforderlich.' });
+  const validText = value => typeof value === 'string' && value.trim().length > 0;
+  const phone = typeof telefon === 'string' ? telefon.trim() : '';
+  const phoneDigits = phone.replace(/\D/g, '');
+  if (!validText(name) || !validText(unternehmen) || !/^\+?[0-9 ()/.-]+$/.test(phone) || phoneDigits.length < 7 || phoneDigits.length > 15) {
+    return res.status(400).json({ error: 'Name, Firmenname und eine g?ltige Telefonnummer sind erforderlich.' });
   }
 
   const { SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, SMTP_TO_EMAIL } = process.env;

@@ -49,13 +49,14 @@
           <label for="name">Name</label>
           <input type="text" id="name" name="name" autocomplete="name" placeholder="Dein Name" required />
         </div>
+          <div class="form-field"><label for="unternehmen">Firmenname *</label><input type="text" id="unternehmen" name="unternehmen" autocomplete="organization" placeholder="Dein Unternehmen" required /></div>
         <div class="form-field">
           <label for="email">E-Mail-Adresse</label>
           <input type="email" id="email" name="email" autocomplete="email" placeholder="du@firma.de" required />
         </div>
         <div class="form-field">
-          <label for="telefon">Telefonnummer</label>
-          <input type="tel" id="telefon" name="telefon" autocomplete="tel" placeholder="Optional" />
+          <label for="telefon">Telefonnummer *</label>
+          <input type="tel" id="telefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
         </div>
         <div class="form-field">
           <label for="nachricht">Nachricht</label>
@@ -109,6 +110,7 @@
   </div>
 </div>
 
+<script src="/kontakt-validierung.js"></script>
 <script src="page.js"></script>
 </body>
 </html>
