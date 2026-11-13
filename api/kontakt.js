@@ -13,7 +13,7 @@ export default async function handler(req, res) {
   const phone = typeof telefon === 'string' ? telefon.trim() : '';
   const phoneDigits = phone.replace(/\D/g, '');
   if (!validText(name) || !validText(unternehmen) || !/^\+?[0-9 ()/.-]+$/.test(phone) || phoneDigits.length < 7 || phoneDigits.length > 15) {
-    return res.status(400).json({ error: 'Name, Firmenname und eine g?ltige Telefonnummer sind erforderlich.' });
+    return res.status(400).json({ error: 'Name, Firmenname und eine gültige Telefonnummer sind erforderlich.' });
   }
 
   const { SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, SMTP_TO_EMAIL } = process.env;
