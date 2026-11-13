@@ -36,3 +36,13 @@ Das Content-Paket ist erstellt und statisch geprüft. Freigabe ist blockiert, we
 1. Alle drei neuen Seiten und geänderten Übersichten im funktionsfähigen Cloud-Browser bei Desktop- und Mobilbreiten prüfen, Befunde korrigieren, erneut prüfen.
 2. Nach diesen Prüfungen Content-Status neu beurteilen. Draft allein ist keine Freigabe.
 3. Für die Wochenautomatik einen echten unbeaufsichtigten Lauf mit zugänglichem Ergebnis und gespeichertem Draft-PR bestätigen. Erst nach erfolgreichem Gesamttest aktivieren; geplante Zeit Montag 08:00 Europe/Berlin.
+
+## Fortsetzung: erneute Prüfung am 13.11.2026, ca. 21:50 Europe/Berlin
+
+- Offene PRs erneut gelesen: Draft-PR #1 bleibt offen, unveröffentlicht und ungemergt. Geprüfter Head: a2dc2ec635a53138a65c6433e50096a5e42e4fce. Lokaler Dateibaum entspricht nach git fetch exakt diesem PR-Stand.
+- Repository-Anweisungen, vorhandenes Recherche-Briefing und WORKFLOW.md erneut gelesen. Kein neues überlappendes Themenpaket angelegt. Branchbezogene Vercel-Deploymentsperre weiterhin vorhanden.
+- Statische Nachprüfung erneut bestanden: 70 interne Referenzen ohne Fehler, drei Seiten mit Übersichtseinträgen, Sitemap- und SVG-XML gültig, Rechenbeispiele bestanden. git diff --check ohne Befund. Keine weiteren statischen Inhaltsfehler in diesem Prüfschritt festgestellt.
+- Desktop-/Mobilprüfung erneut versucht: System-Chromium über Playwright scheitert weiterhin vor dem Rendern an socket() failed: Operation not permitted (1).
+- Zusätzlich den separaten Cloud-Browser verwendet (kein Benutzer-PC). Aufruf der unveröffentlichten Testseite http://127.0.0.1:8765/ratgeber/gebaeudereinigung-google-ads scheiterte mit net::ERR_CONNECTION_REFUSED. Dieser Browser konnte die Testseite somit nicht erreichen. Keine Desktop- oder Mobilansicht gesehen, keine Screenshots erstellt und keine visuelle Abnahme erfolgt.
+- Status bleibt **blockiert**. Für die ausstehende Prüfung ist eine Cloud-Ausführungsumgebung mit startfähigem Browser und Zugriff auf die unveröffentlichten Branch-Dateien erforderlich. Ein weiterer identischer Start in derselben Umgebung behebt die Einschränkung nicht nachweislich.
+- Dieser Fortsetzungslauf wurde im aktuellen Gespräch ausgeführt. Kein Hintergrundlauf bestätigt; keine Automation erstellt, aktiviert oder geändert. Kein Merge, kein Deployment, keine Veröffentlichung. Nur der Prüfbericht und die PR-Beschreibung werden mit den neuen Nachweisen aktualisiert.
