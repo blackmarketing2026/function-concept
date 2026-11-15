@@ -1,0 +1,1744 @@
+[
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "b0a0beb2-a0cd-437e-ae4e-7f3d210e7e3d"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0,
+          "position": 10.4
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "918eba3f-cbfd-44d6-84b1-928b566404f5"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "f02220d6-9dc6-4917-962f-b0fad894d122"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "1ef5ff37-6680-4143-8161-668ceb336930"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "cd532a10-cb6a-4ef9-b06e-94bc18af4214"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "72b92387-f1ee-4d3b-a0e8-cac30f24345c"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "39403a9d-a8b1-4966-9355-4e4a452c26bd"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "f7bf2bbf-d7af-4938-9ef7-759ed2487505"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 2,
+      "rows": [
+        {
+          "keys": [
+            "concept blog",
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0,
+          "position": 8
+        },
+        {
+          "keys": [
+            "kategorieseiten funktionen",
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 30
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "11003f92-33f9-40e8-bbfc-0f9ea54124de"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "0b3e7534-ec33-49c0-ba25-4ed70607622b"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "c1c39df3-f609-4d08-bb70-efa8c3cd0aa1"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "5baacd1d-a075-4e93-b841-719ef7b77bf8"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "77f1a835-2f09-4439-acbe-e74290e901ba"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "97894b90-c021-4b51-b11f-67a8f96af238"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "5c9846f2-3d1f-4a6f-9a32-4a4e93a396c6"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "12413ad4-2a6f-41ed-8921-e9d1862ccd4b"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "5f0c3347-c609-4ab3-b510-d71ba808e855"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "a4657745-aa6d-4aea-8c6d-4e310b5ba5c3"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "6c31f1bb-d298-4f19-8367-fe5ba3213a5e"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "9adadb2e-492a-4b64-a32f-2a81729bfd09"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "a008bcf6-3a22-431e-b0c1-8e2b08dfe5f0"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung/index"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "094580ea-8643-4910-8949-b2cfd6684ff7"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0,
+          "position": 8.7
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "e8727bd1-f11a-40ee-b44d-d0566f7107fc"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kategorien"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 2,
+      "rows": [
+        {
+          "keys": [
+            "concept blog",
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0,
+          "position": 8
+        },
+        {
+          "keys": [
+            "kategorieseiten funktionen",
+            "https://www.function-concept.com/blog/kategorien"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 30
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "23dec043-c8a1-4db6-8701-92c9b14a9f3c"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "15afcaf4-a802-4a99-b792-71fe615df861"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "https://www.function-concept.com/blog"
+          ],
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0,
+          "position": 16
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "92e1ac56-4e98-4eb0-b5dc-d5d664e9f3b1"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "11c74461-1cb1-4e8f-b821-a67f7e866566"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "e1b4f753-b64c-4cbf-a651-5459ed885d2b"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "60b23c0d-ae1f-472e-8a6b-606f0420abc8"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "bei google kunden gewinnen",
+            "https://www.function-concept.com/blog"
+          ],
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0,
+          "position": 16
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "19f91645-04bd-456b-a53f-4fc07f93c7f8"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "6a3bae07-dd3f-4d9f-995f-688705438581"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "eb5964d1-82f4-439e-b68c-97f12c6abbb8"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "0f9bc058-beba-41bc-9608-632a57dd58ae"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "0af056c0-5b97-4c51-943e-f8131db34116"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "cac9d2fa-5c04-4f3b-a62b-4e4aa42caa72"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "4d9a3331-ef51-4a1b-82e2-2a66c884a30c"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-15",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "d003f5e9-266d-4af1-ab73-4a203289a94d"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "71b5abd2-5d53-4ebf-aaa5-b23e1242a311"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/webseite"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "cd675336-ddca-4e0e-afd4-432c92ba0594"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog/kundengewinnung"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 0,
+      "rows": [],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "026bdaa3-bfbd-482f-a030-f59df874bdaf"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "https://www.function-concept.com/blog"
+          ],
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0,
+          "position": 16
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "895a7b98-b04b-4b31-910a-66aedc20b0dc"
+    }
+  },
+  {
+    "args": {
+      "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dataState": "final",
+      "type": "web",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "filters": [
+        {
+          "dimension": "page",
+          "operator": "equals",
+          "expression": "https://www.function-concept.com/blog"
+        }
+      ],
+      "rowLimit": 1000,
+      "startRow": 0
+    },
+    "result": {
+      "ok": true,
+      "siteUrl": "https://www.function-concept.com/",
+      "startDate": "2026-08-13",
+      "endDate": "2026-11-12",
+      "dimensions": [
+        "query",
+        "page"
+      ],
+      "rowCount": 1,
+      "rows": [
+        {
+          "keys": [
+            "bei google kunden gewinnen",
+            "https://www.function-concept.com/blog"
+          ],
+          "clicks": 0,
+          "impressions": 4,
+          "ctr": 0,
+          "position": 16
+        }
+      ],
+      "hasMore": false,
+      "meta": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+      },
+      "resultId": "e63c62a4-d579-4e71-b7b6-a83de5eb77cf"
+    }
+  }
+]
