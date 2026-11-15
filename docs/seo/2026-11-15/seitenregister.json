@@ -1,0 +1,350 @@
+[
+  {
+    "file": "401.html",
+    "url": "/401",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "403.html",
+    "url": "/403",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "404.html",
+    "url": "/404",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "410.html",
+    "url": "/410",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "500.html",
+    "url": "/500",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "503.html",
+    "url": "/503",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "ad/kundenanfragen-generieren.html",
+    "url": "/ad/kundenanfragen-generieren",
+    "status": "geschützt",
+    "reason": "Werbe-/Leistungsseite oder unklarer Kampagnenbezug; vorsorglich geschützt"
+  },
+  {
+    "file": "agb.html",
+    "url": "/agb",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/google-ads/b2b-google-ads.html",
+    "url": "/blog/google-ads/b2b-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/google-ads/google-ads-gutschein.html",
+    "url": "/blog/google-ads/google-ads-gutschein",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/google-ads/index.html",
+    "url": "/blog/google-ads/index",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/google-ads/wie-registriere-ich-mich-bei-google-ads.html",
+    "url": "/blog/google-ads/wie-registriere-ich-mich-bei-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/index.html",
+    "url": "/blog/index",
+    "status": "zugelassen: Übersicht",
+    "reason": "CLAUDE.md und STRUKTUR-TEMPLATE.md weisen diese konkreten Dateien als redaktionelle Gesamt-/Kategorieübersichten aus; Markup bestätigt reine Artikellisten/Kategorien, keine eigenständige Kampagnen-Landingpage"
+  },
+  {
+    "file": "blog/kategorien.html",
+    "url": "/blog/kategorien",
+    "status": "zugelassen: Übersicht",
+    "reason": "CLAUDE.md und STRUKTUR-TEMPLATE.md weisen diese konkreten Dateien als redaktionelle Gesamt-/Kategorieübersichten aus; Markup bestätigt reine Artikellisten/Kategorien, keine eigenständige Kampagnen-Landingpage"
+  },
+  {
+    "file": "blog/kundengewinnung/b2b-neukundengewinnung-mit-google-ads.html",
+    "url": "/blog/kundengewinnung/b2b-neukundengewinnung-mit-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/dachdecker-google-ads-anzeigen.html",
+    "url": "/blog/kundengewinnung/dachdecker-google-ads-anzeigen",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/dachdecker-google-ads-fehler.html",
+    "url": "/blog/kundengewinnung/dachdecker-google-ads-fehler",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/dachdecker-google-ads-keywords.html",
+    "url": "/blog/kundengewinnung/dachdecker-google-ads-keywords",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/dachdecker-landingpage-kundenanfragen.html",
+    "url": "/blog/kundengewinnung/dachdecker-landingpage-kundenanfragen",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/kundengewinnung/elektriker-google-ads-anzeigen.html",
+    "url": "/blog/kundengewinnung/elektriker-google-ads-anzeigen",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/elektriker-google-ads-fehler.html",
+    "url": "/blog/kundengewinnung/elektriker-google-ads-fehler",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/elektriker-google-ads-keywords.html",
+    "url": "/blog/kundengewinnung/elektriker-google-ads-keywords",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/elektriker-landingpage-kundenanfragen.html",
+    "url": "/blog/kundengewinnung/elektriker-landingpage-kundenanfragen",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/kundengewinnung/gebaeudereinigung-google-ads-budget.html",
+    "url": "/blog/kundengewinnung/gebaeudereinigung-google-ads-budget",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/gebaeudereinigung-google-ads-keywords.html",
+    "url": "/blog/kundengewinnung/gebaeudereinigung-google-ads-keywords",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/google-ads-dachdecker-kosten-budget.html",
+    "url": "/blog/kundengewinnung/google-ads-dachdecker-kosten-budget",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/google-ads-elektriker-kosten-budget.html",
+    "url": "/blog/kundengewinnung/google-ads-elektriker-kosten-budget",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/google-ads-maler-kosten-budget.html",
+    "url": "/blog/kundengewinnung/google-ads-maler-kosten-budget",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/index.html",
+    "url": "/blog/kundengewinnung/index",
+    "status": "zugelassen: Übersicht",
+    "reason": "CLAUDE.md und STRUKTUR-TEMPLATE.md weisen diese konkreten Dateien als redaktionelle Gesamt-/Kategorieübersichten aus; Markup bestätigt reine Artikellisten/Kategorien, keine eigenständige Kampagnen-Landingpage"
+  },
+  {
+    "file": "blog/kundengewinnung/kann-man-mit-google-ads-kunden-gewinnen.html",
+    "url": "/blog/kundengewinnung/kann-man-mit-google-ads-kunden-gewinnen",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/kunden-gewinnen-google-suche-wortgruppe.html",
+    "url": "/blog/kundengewinnung/kunden-gewinnen-google-suche-wortgruppe",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/kundengewinnung/maler-google-ads-anzeigen.html",
+    "url": "/blog/kundengewinnung/maler-google-ads-anzeigen",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/maler-google-ads-fehler.html",
+    "url": "/blog/kundengewinnung/maler-google-ads-fehler",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/maler-google-ads-keywords.html",
+    "url": "/blog/kundengewinnung/maler-google-ads-keywords",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "blog/kundengewinnung/maler-landingpage-kundenanfragen.html",
+    "url": "/blog/kundengewinnung/maler-landingpage-kundenanfragen",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/webseite/anfragen-ueber-die-website-erhalten.html",
+    "url": "/blog/webseite/anfragen-ueber-die-website-erhalten",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/webseite/index.html",
+    "url": "/blog/webseite/index",
+    "status": "zugelassen: Übersicht",
+    "reason": "CLAUDE.md und STRUKTUR-TEMPLATE.md weisen diese konkreten Dateien als redaktionelle Gesamt-/Kategorieübersichten aus; Markup bestätigt reine Artikellisten/Kategorien, keine eigenständige Kampagnen-Landingpage"
+  },
+  {
+    "file": "blog/webseite/was-sollte-eine-webseite-haben-fuer-anfragen.html",
+    "url": "/blog/webseite/was-sollte-eine-webseite-haben-fuer-anfragen",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "blog/webseite/wie-sollte-eine-webseite-aufgebaut-sein-nach-uebergabe.html",
+    "url": "/blog/webseite/wie-sollte-eine-webseite-aufgebaut-sein-nach-uebergabe",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "datenschutz.html",
+    "url": "/datenschutz",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "gen-google-ads.html",
+    "url": "/gen-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "google-ads-anfrage.html",
+    "url": "/google-ads-anfrage",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "google-ads-check.html",
+    "url": "/google-ads-check",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "google-ads-kampagne-danke.html",
+    "url": "/google-ads-kampagne-danke",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "google-ads-kampagne.html",
+    "url": "/google-ads-kampagne",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "impressum.html",
+    "url": "/impressum",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "index.html",
+    "url": "/index",
+    "status": "geschützt",
+    "reason": "Startseite einschließlich / und /index sowie HTML-Varianten"
+  },
+  {
+    "file": "ki-webseite.html",
+    "url": "/ki-webseite",
+    "status": "geschützt",
+    "reason": "Werbe-/Leistungsseite oder unklarer Kampagnenbezug; vorsorglich geschützt"
+  },
+  {
+    "file": "kontakt.html",
+    "url": "/kontakt",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "mehr-anfragen-website.html",
+    "url": "/mehr-anfragen-website",
+    "status": "geschützt",
+    "reason": "Werbe-/Leistungsseite oder unklarer Kampagnenbezug; vorsorglich geschützt"
+  },
+  {
+    "file": "ratgeber/dachdecker-kunden-gewinnen-google-ads.html",
+    "url": "/ratgeber/dachdecker-kunden-gewinnen-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "ratgeber/elektriker-kunden-gewinnen-google-ads.html",
+    "url": "/ratgeber/elektriker-kunden-gewinnen-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "ratgeber/gebaeudereinigung-google-ads.html",
+    "url": "/ratgeber/gebaeudereinigung-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "ratgeber/maler-kunden-gewinnen-google-ads.html",
+    "url": "/ratgeber/maler-kunden-gewinnen-google-ads",
+    "status": "geschützt",
+    "reason": "Eigenständiger Begriff ads im bestehenden URL-Pfad"
+  },
+  {
+    "file": "seitenuebersicht.html",
+    "url": "/seitenuebersicht",
+    "status": "nicht freigegeben",
+    "reason": "Keine hinreichende unabhängige Bestätigung fehlender Kampagnennutzung bzw. Funktions-/Rechtsseite; unverändert, keine GSC-Abfrage"
+  },
+  {
+    "file": "ratgeber/suchmaschinenwerbung-agentur-auswaehlen.html",
+    "url": "/ratgeber/suchmaschinenwerbung-agentur-auswaehlen",
+    "status": "zugelassen: neu organisch",
+    "reason": "Ratgeber: Dienstleisterauswahl; explizit in diesem Briefing als neue redaktionelle Seite angelegt, keine Kopie/Umbenennung geschützter Seiten, keine Werbekampagnenzuordnung"
+  },
+  {
+    "file": "blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel.html",
+    "url": "/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel",
+    "status": "zugelassen: neu organisch",
+    "reason": "Fachartikel: Zugriffe/Übergabe; explizit in diesem Briefing als neue redaktionelle Seite angelegt, keine Kopie/Umbenennung geschützter Seiten, keine Werbekampagnenzuordnung"
+  },
+  {
+    "file": "blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten.html",
+    "url": "/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten",
+    "status": "zugelassen: neu organisch",
+    "reason": "Fachartikel: Berichte/Entscheidungen; explizit in diesem Briefing als neue redaktionelle Seite angelegt, keine Kopie/Umbenennung geschützter Seiten, keine Werbekampagnenzuordnung"
+  }
+]

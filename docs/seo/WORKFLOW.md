@@ -1,31 +1,20 @@
-# Function Concept: SEO-Ablauf in einem Durchlauf
+# Organischer SEO-Durchlauf
+Stand 2026-11-15: ausdrücklicher Nutzerauftrag ersetzt frühere Veröffentlichungs- und visuelle Freigabevorbehalte. Ausschließlich ChatGPT-Cloud; Recherche, Umsetzung, Qualitätsprüfung und Veröffentlichung nacheinander im selben Durchlauf. Keine Automationen ändern, keine Social-Media-Arbeit.
 
-Ziel: organische Sichtbarkeit und qualifizierte Kundenanfragen für Google Ads an Handwerksbetriebe und lokale Dienstleister. Kein Social Media. Kein Merge, Deployment oder Veröffentlichen ohne ausdrückliche Anweisung.
+## Schutz vor Recherche und Änderungen
+Startseiten einschließlich Varianten und sämtliche Kampagnen-Landingpages ausschließen. Bestehende Pfade mit eigenständigem Begriff ads (ohne Beachtung der Großschreibung; leads zählt nicht) schützen. Unklarer Kampagnenbezug bedeutet unverändert lassen. Blog-/Ratgeber-Verzeichnis allein ist keine Freigabe. Unter docs/seo/<Datum>/ ein belegtes Seitenregister pflegen. Geschützte Seiten nicht in Inhaltsanalyse oder Kennzahlen aufnehmen; Inhalte, Metadaten, URLs, Redirects, Formulare, Tracking und Layout unverändert lassen. Gemeinsame Komponenten nicht ändern. Sitemap-Einträge erhalten. Neue eindeutig organische Inhalte dürfen Google Ads behandeln; kein Kopieren geschützter Seiten.
 
-## Laufzustände
+## Recherche
+Aktuellen Hauptbranch, offene PRs, Repository-Anweisungen und frühere Briefings prüfen; geeignete offene Arbeit fortsetzen. Domain anhand Repository, Konfiguration und erreichbaren erlaubten URLs prüfen; keine globale Domainmigration ohne Beleg.
+OpenSEO-Projekt 56d484cb-8829-41ab-ab45-09c32e34659e, Property https://www.function-concept.com/. Nur kostenlose GSC-Abfragen; keine anderen Properties, bezahlten Tracker oder Zeitpläne. Ausführliche GSC-Auswertung einmal pro Kalenderwoche beim ersten erfolgreichen Lauf; spätere Läufe verwenden datiertes Briefing. Fehlgeschlagene Abfragen dürfen wiederholt werden. Zwei explizite, gleich lange, benachbarte 28-Tage-Zeiträume, finale Daten mit ungefähr drei Tagen Verzögerung und Pacific-Time-Datierung; bei wenig Daten drei Monate ergänzen. Exakte erlaubte Seitenfilter, Query-Seiten-Zuordnung, Pagination und 1000-Zeilen-Grenze dokumentieren. Anonymisierte Suchanfragen berücksichtigen. Keine Property-Gesamtsummen als organische Bereichskennzahlen. GSC-Klicks sind keine Anfragen; CTR/Position allein begründen keine Änderung. Bei fehlendem Zugriff nur belegte Briefings oder Quellenrecherche, keine behauptete Datenoptimierung.
+Vor HTML-Änderungen vollständiges datiertes Briefing speichern: Zeiträume/Grenzen, Quellen, Bestand, eigenständige Suchintention pro URL, neue/überarbeitete Seiten, Gliederungen, Links, Priorität. Keine erfundenen Volumina oder Ergebnisse, keine redundanten Branchenkopien. Rechercheabschluss kurz melden.
 
-Gespeichert/geplant bedeutet nicht gestartet. Ein gestarteter Lauf benötigt eine bestätigte Ausführung; ein fertiger Lauf benötigt einen Commit, einen Draft-PR und einen Prüfbericht. Kein Fortschritt darf allein aus einer geplanten Uhrzeit abgeleitet werden. Fehlende Zugriffe und nicht mögliche Tests ausdrücklich berichten.
+## Umsetzung
+Bestehendes Design und Vorlagen, echte Bilder mit Alt-Text, eindeutige Metadaten, Canonicals und Kontaktmöglichkeiten verwenden. Nur zugelassene Übersichten ergänzen. Ausgangslage, Hypothese, Datum und Maßnahme dokumentieren; normalerweise 28 vollständige Tage beobachten, offensichtliche Fehler sofort beheben. Sitemapstruktur erhalten; neue kanonische indexierbare URL einmal aufnehmen; lastmod nur tatsächlich geänderte Inhalte. Keine unvollständigen Seiten veröffentlichen. Anzahl erstellter und überarbeiteter Inhaltsseiten melden.
 
-## Vorprüfung und Doppelarbeit
+## Qualitätsprüfung und Veröffentlichung
+Fakten/Quellen, Sprache, Nutzwert, Intention/Dopplungen, Links, Bilder, HTML, Metadaten, Canonicals und strukturierte Daten prüfen. Sinnvolle Syntax-/Buildprüfungen ausführen. Schutz anhand Diff und unveränderter Dateien belegen. Sitemap als XML validieren, neue URLs/Canonicals und Duplikate/Löschungen prüfen. Fehler korrigieren und erneut prüfen; tatsächlich ausgeführte Prüfungen und Einschränkungen dokumentieren. Keine visuelle Desktop-/Mobilprüfung, Browser-Simulation oder Screenshots; deren Fehlen ist kein Blocker. Ergebnis freigabefähig oder blockiert begründen.
+Push, Merge und Veröffentlichung im geschützten Umfang sind autorisiert. Aktuellen Remote-Stand vor Veröffentlichung prüfen, fremde Arbeit erhalten, Branchschutz respektieren, kein Force-Push. Bestehenden Produktionsprozess nutzen, erforderliche Checks abwarten und PR selbst mergen; nicht bei Draft stoppen. Deploymentstatus und öffentliche HTTP-Erreichbarkeit/erwarteten Inhalt sowie veröffentlichte Sitemap ohne visuelle Prüfung kontrollieren. Dateien erstellt, gepusht, Deployment gestartet und bestätigt live unterscheiden. Keine Indexierung oder Google-Einreichung aus Sitemapänderung ableiten.
 
-Aktuellen Default-Branch, Repository-Anweisungen und offene PRs lesen. Existiert ein offenes Paket, zuerst dessen Status prüfen und keine inhaltliche Dublette erzeugen. Bereits gemergte Themen gegen den aktuellen Bestand prüfen. Pro Lauf ein eigener Branch mit eindeutiger Datums-/Laufkennung. Keine weiteren Automationen aus einem Lauf erzeugen. Falls notwendige Cloud-Werkzeuge fehlen: blockiert melden und nachvollziehbaren Stand sichern.
-
-## Rolle 1: Recherche
-
-Bestandsinventar und Themenlücken mit aktuellen Quellen erstellen. Ein zusammenhängendes Paket mit Ratgeber und ergänzenden Artikeln planen. Seitenzahl ergibt sich aus eigenständigen Suchintentionen. Pro Seite URL, Zielgruppe, Fragestellung, konkrete Hilfestellung, Abgrenzung, Quellen, Bildidee und interne Links festlegen. Keine erfundenen Suchvolumina/Kundenergebnisse. Vor Umsetzung vollständiges Briefing unter docs/seo/<lauf>/recherche.md speichern. Danach kurze Rückmeldung.
-
-## Rolle 2: Umsetzung
-
-Nur anhand vollständigen Briefings arbeiten. Bestehende Gestaltung, Navigation, Einwilligungslogik und Clean-URLs verwenden. Geeignete eigene oder nachweisbar nutzbare Bilder, Alt-Texte, Metadaten und interne Verlinkung ergänzen. Blog-, Kategorie- und weitere betroffene Übersichten sowie Sitemap abgleichen. Keine redundant aufgefüllten Texte. Hauptdomain anhand aktueller Konfiguration und HTTP-Weiterleitungen prüfen; keine unbelegte globale Änderung. Bei neuen Branches vor dem ersten Push Vercel-Autodeployment für genau diesen Branch über git.deploymentEnabled deaktivieren. Andere Hosting-Automationen prüfen, soweit zugänglich. Danach kurze Rückmeldung.
-
-## Rolle 3: Qualitätsprüfung
-
-Fakten/Quellen, Sprache, Nutzwert, Überschneidung, SEO-Metadaten, Canonicals, interne Links samt Ankern, Bilddateien, Übersichten und Sitemap prüfen. Rechenbeispiele nachrechnen. Desktop und Mobil im Browser rendern; Überlauf, Bilder, CTA-Kontrast, Navigation und Cookie-Bedienung prüfen. Fehler korrigieren und betroffene Prüfungen wiederholen. Nicht durchführbare Prüfungen mit konkreter Ursache dokumentieren.
-
-Prüfbericht unter docs/seo/<lauf>/pruefbericht.md: **freigabefähig** nur bei erfüllten wesentlichen Kriterien; sonst **blockiert** mit Restaufgaben. Ein blockierter Stand darf als Draft-PR gespeichert werden. Kein Merge und kein Deployment. Abschlussmeldung mit Branch, PR, Dateien, Tests und offenen Punkten.
-
-## Einrichtung am 13.11.2026
-
-Vorhandener aktiver Einrichtungsauftrag (irrtümlich täglich 09:00) pausiert. Separater Umsetzungsauftrag bereits pausiert. Exakter alter Titel „Function Concept SEO mit Qualitätsprüfung“ nicht in zugänglicher Liste. Frühere Recherche-Aufgabe laut gespeicherter Referenz nicht zugänglich; nicht als gelöscht behandeln.
-
-Neuer Testauftrag erstellt und „Jetzt ausführen“ aufgerufen. Antwort: „Ready to run in this conversation“ mit inline_run, keine bestätigte Hintergrundausführung. Der Test wurde hier im Cloud-Gespräch bearbeitet. Testauftrag anschließend pausiert; kein zweiter Lauf. Umgebungsauswahl inherited, environments null: kein Nachweis einer fest zugeordneten unbeaufsichtigten Cloud-Ausführung. Montagsplan 08:00 Europe/Berlin kann gespeichert werden, bleibt bis zum erfolgreichen Gesamttest deaktiviert.
+## Verbindlicher Abschluss
+Immer sichtbare normale Ergebniszustellung, auch bei null Änderungen oder Fehlern, keine Nachrichten an Dritte. Datum; Status erfolgreich/teilweise abgeschlossen/blockiert; neue eindeutige Inhaltsseiten mit Ratgeber-/Bloganteil; überarbeitete Inhaltsseiten; bestätigt veröffentlichte Zahlen; Sitemapstatus und Anzahl neuer URLs; wichtigste Ergebnisse; alle finalen Inhaltslinks (unbestätigte kennzeichnen); Commit-/PR-Link; tatsächliche offene Punkte. Übersichten separat zählen. Keine unbelegte Hintergrundausführung oder Zustellbestätigung.
