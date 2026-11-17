@@ -1,0 +1,1789 @@
+[
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "https://www.function-concept.com/blog"
+              ],
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0,
+              "position": 16
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "4b92931e-39e2-4068-b83c-bd2b8add075b"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "bei google kunden gewinnen",
+                "https://www.function-concept.com/blog"
+              ],
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0,
+              "position": 16
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "6145bb8b-9d3b-49ef-95fe-088303b2cfd9"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "302ad6a6-acdb-4cb3-9c6c-1bc0beba7017"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "4a5ae01b-ebff-4369-aef6-f6ee76c1d212"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "https://www.function-concept.com/blog"
+              ],
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0,
+              "position": 16
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "2699e30e-9772-4ffa-bad6-52a58487bf5d"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "bei google kunden gewinnen",
+                "https://www.function-concept.com/blog"
+              ],
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0,
+              "position": 16
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "e1ff558e-d450-4785-9cfc-6b870798faf9"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 4,
+              "ctr": 0,
+              "position": 12.3
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "8871e3f4-4fef-4d9e-bc6f-c747ad27e77b"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 2,
+          "rows": [
+            {
+              "keys": [
+                "concept blog",
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0,
+              "position": 8
+            },
+            {
+              "keys": [
+                "kategorieseiten funktionen",
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0,
+              "position": 30
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "492c5a97-28ac-4620-93a7-2bb566d9e761"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0,
+              "position": 3
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "d64f4be8-7dfd-4e17-84d3-77d9d2f52246"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "215253b2-04e1-4c85-bbe2-b40445745e8d"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 1,
+          "rows": [
+            {
+              "keys": [
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 7,
+              "ctr": 0,
+              "position": 8.7
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "2f64891a-0ccc-4b16-a7d5-e4cfecd4ad68"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kategorien"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 2,
+          "rows": [
+            {
+              "keys": [
+                "concept blog",
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 2,
+              "ctr": 0,
+              "position": 8
+            },
+            {
+              "keys": [
+                "kategorieseiten funktionen",
+                "https://www.function-concept.com/blog/kategorien"
+              ],
+              "clicks": 0,
+              "impressions": 1,
+              "ctr": 0,
+              "position": 30
+            }
+          ],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "aad53fce-8628-4d6f-9a0e-f86c254c96c7"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "9c1fa225-3c8c-4298-9b54-feb190e8e97e"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "376a6170-48b6-4444-98bf-e8e66748c0b4"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "ab8165f9-46f0-44b0-b94b-2fed3649e99d"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "e8f638e1-4473-4234-a8fb-6a6da69dc5dd"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "96230e9f-5e7e-4986-b4d0-8be848dd8607"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "09387a6a-b2da-4408-90e6-81f7b01146b6"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "13ae5414-37f1-4b41-8630-e30e679e5e11"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "948acdcf-2480-4c86-bf15-91f93d8827e8"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "3590c85c-d706-458e-b758-ab813d26685b"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "11ef0e81-f7e8-42f7-9d1e-05c2338072c6"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "f8e4e8ed-d77e-46d4-9b42-627dc7c500f6"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/webseite"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "4d820ba0-32a6-4aa6-93f1-5d6b8e7ef6af"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "f2143a14-1ef2-4407-a565-12e6d6234f6e"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "e834a7d1-744b-42d4-ae62-1e0965b4b5a0"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "a34e6d44-f693-4d8b-a967-173727cdae61"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "f13a6a96-d813-4cf0-af8b-71a834ac064f"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "b613229e-8ad1-4724-9d97-e46515bb3db5"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "ceb4caa7-9106-4555-a78b-76d2352833c4"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "7b85dce6-2b35-4496-a5e6-ce902ff4e9a4"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "e5eda589-8ca8-4271-bd7b-0363f2f48ae6"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "150a0a8f-24dc-4715-9156-d0bcce5d9407"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "4ac24606-1ca4-487d-be2e-9b554e601655"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "a2f70be2-cb56-472a-a5ae-4d5c81380df9"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "0d65f0d0-b7aa-484f-a5f0-230347ee6d6c"
+        }
+      }
+    ]
+  },
+  {
+    "status": "fulfilled",
+    "value": [
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "265c8234-a681-40fc-bb7a-67dfd0b5e076"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-10-17",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "7a3d4839-2d22-4d20-a010-b2c26b4aa355"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "dc4614bf-7981-4f63-8e0b-c1c3277f7def"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-09-19",
+          "endDate": "2026-10-16",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "f71f5585-8df4-4b85-8bd7-5d3b2a41e734"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "b9a19382-4029-4dd5-91d4-b50d926429ba"
+        }
+      },
+      {
+        "args": {
+          "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dataState": "final",
+          "type": "web",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "filters": [
+            {
+              "dimension": "page",
+              "operator": "equals",
+              "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+            }
+          ],
+          "rowLimit": 1000,
+          "startRow": 0
+        },
+        "result": {
+          "ok": true,
+          "siteUrl": "https://www.function-concept.com/",
+          "startDate": "2026-08-14",
+          "endDate": "2026-11-13",
+          "dimensions": [
+            "query",
+            "page"
+          ],
+          "rowCount": 0,
+          "rows": [],
+          "hasMore": false,
+          "meta": {
+            "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+            "url": "https://app.openseo.so/p/56d484cb-8829-41ab-ab45-09c32e34659e/search-performance"
+          },
+          "resultId": "1d8a5c68-8b7e-4046-b475-4a88587863c6"
+        }
+      }
+    ]
+  }
+]
