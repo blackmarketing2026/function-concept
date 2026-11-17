@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-11-17T07:05:40.308231+00:00",
+  "results": [
+    {
+      "path": "ratgeber/suchmaschinenwerbung-agentur-auswaehlen.html",
+      "url": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen",
+      "status": 200,
+      "same_bytes": true,
+      "sha256": "ea1a32bc7488521df5d662ab31c808ffcff41fd6b26fd4a1ed5a5d4683ee01bd"
+    },
+    {
+      "path": "blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel.html",
+      "url": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel",
+      "status": 200,
+      "same_bytes": true,
+      "sha256": "65db0be634cdd6ef3ff382dba3d182667cfe1164dc95f7a2fcc54898c0ec5b25"
+    },
+    {
+      "path": "blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten.html",
+      "url": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten",
+      "status": 200,
+      "same_bytes": true,
+      "sha256": "2b5d4604346d319080e4a4009ced658683de7da911e4e57d57fe71b4a91f405c"
+    },
+    {
+      "path": "sitemap.xml",
+      "url": "https://www.function-concept.com/sitemap.xml",
+      "status": 200,
+      "same_bytes": true,
+      "sha256": "61b95585c6736c8bcf4fe0b44f95b265d0a7ddc3d08c5ce2f562c5c0cd68a520"
+    },
+    {
+      "requested_host": "function-concept.de",
+      "final_url": "https://www.function-concept.com/blog/kategorien",
+      "status": 200
+    },
+    {
+      "requested_host": "function-concept.com",
+      "final_url": "https://www.function-concept.com/blog/kategorien",
+      "status": 200
+    },
+    {
+      "requested_host": "www.function-concept.com",
+      "final_url": "https://www.function-concept.com/blog/kategorien",
+      "status": 200
+    }
+  ]
+}
