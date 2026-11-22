@@ -84,3 +84,6 @@
   .wd-plans article:hover { transform: translateY(-4px) scale(1.035); box-shadow: 0 15px 30px #1d335820; z-index: 1; }
 }
 @keyframes wd-arrive { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+/* Die weiße PNG-Fläche nimmt die Farbe der hellen Kopfzeile an. */
+.webdesign-page .page-header .page-logo-img { mix-blend-mode: multiply; }
