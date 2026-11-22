@@ -4,23 +4,8 @@
   padding-block: clamp(24px, 5vw, 76px) clamp(48px, 7vw, 94px);
 }
 .webdesign-page section[id] { scroll-margin-top: 100px; }
-.wd-showcase { margin: 0; overflow: hidden; }
-.wd-showcase img, .wd-projects img {
-  display: block;
-  width: 100%;
-  object-fit: cover;
-}
-.wd-showcase img { height: auto; aspect-ratio: 3 / 2; }
-.wd-showcase figcaption {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 8px;
-  padding: 16px 20px;
-  font-family: var(--sans);
-}
-.wd-showcase a, .wd-projects span, .wd-privacy a { color: #245bb0; text-decoration: underline; text-underline-offset: 3px; }
+.wd-projects img { display: block; width: 100%; object-fit: cover; }
+.wd-projects span, .wd-privacy a { color: #245bb0; text-decoration: underline; text-underline-offset: 3px; }
 .wd-projects .reference {
   background: #fff;
   color: inherit;
@@ -54,8 +39,48 @@
 .webdesign-page .wd-privacy { font-size: 13px; }
 @media (max-width: 760px) {
   .webdesign-page .campaign-hero { grid-template-columns: 1fr; gap: 22px; }
-  .webdesign-page .wd-showcase { order: 1; }
   .webdesign-page .campaign-hero-copy { order: 0; }
   .webdesign-page .campaign-grid-3 { grid-template-columns: 1fr; }
-  .wd-showcase img { aspect-ratio: 16 / 9; }
 }
+
+/* Beispiel-Website mit einer eigenständigen Gestaltung innerhalb des Browserrahmens. */
+.wd-preview { position: relative; width: 100%; margin: 0; padding: 14px 19px 35px 0; }
+.wd-browser, .wd-mobile { overflow: hidden; border: 1px solid #c8ced7; box-shadow: 0 14px 32px #1823381a; }
+.wd-browser { border-radius: 12px; background: white; }
+.wd-sample, .wd-mobile { color: #302d27; background: #f6f1e6; }
+.wd-mast, .wd-services { display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 15px 6%; font-size: 12px; }
+.wd-mast { border-bottom: 1px solid #d6cdbc; }
+.wd-mast b, .wd-mobile > span { font-family: var(--mono); letter-spacing: .09em; }
+.wd-cover { display: grid; grid-template-columns: 58% 42%; align-items: center; padding: 25px 6%; }
+.wd-cover strong, .wd-mobile strong { display: block; font: 600 clamp(26px, 3.5vw, 48px)/1.04 Georgia, serif; letter-spacing: -.045em; margin: 8px 0 14px; }
+.wd-chip, .wd-mobile b { display: inline-block; background: #384f40; color: white; border-radius: 3px; padding: 7px 10px; font: 600 11px var(--sans); }
+.wd-fan { height: clamp(96px, 12vw, 150px); position: relative; }
+.wd-fan i { position: absolute; bottom: 0; left: 10%; width: 40%; height: 95%; transform-origin: bottom center; border: 4px solid #fffaf1; border-bottom-width: 18px; box-shadow: 1px 3px 7px #302d2733; background: #526450; transform: rotate(-18deg); }
+.wd-fan i:nth-child(2) { background: #cd9a5b; transform: rotate(3deg); }
+.wd-fan i:last-child { background: #ae6045; transform: rotate(24deg); }
+.wd-services { justify-content: flex-start; flex-wrap: wrap; gap: 14px; padding-right: 28%; border-top: 1px solid #d6cdbc; }
+.wd-mobile { position: absolute; bottom: 0; right: 0; width: 112px; padding: 21px 9px 15px; border: 4px solid #253145; border-radius: 14px; }
+.wd-mobile strong { font-size: 20px; }
+.wd-mobile > span { font-size: 9px; }
+.wd-seo-contact { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 18px; margin-top: 24px; }
+.wd-seo-contact div { max-width: 620px; }
+.wd-seo-contact h3 { color: #132033; font-family: var(--head); }
+.wd-plans article { position: relative; }
+.wd-plans article h3::before { content: ""; display: block; width: 18px; height: 5px; border-radius: 2px; background: #3673c7; margin-bottom: 14px; }
+.wd-plans article:nth-child(2) h3::before { box-shadow: 22px 0 #3673c7; }
+.wd-plans article:nth-child(3) h3::before { box-shadow: 22px 0 #3673c7, 44px 0 #3673c7; }
+@media (min-width: 961px) {
+  .wd-plans article:nth-child(1) { margin-top: 32px; }
+  .wd-plans article:nth-child(2) { margin-top: 16px; }
+}
+.wd-plans article:focus-within { outline: 2px solid #3974bc; outline-offset: 2px; }
+@media (prefers-reduced-motion: no-preference) {
+  .wd-browser { animation: wd-arrive .65s ease-out backwards; }
+  .wd-mobile { animation: wd-arrive .65s .18s ease-out backwards; }
+  .wd-plans article { transition: transform .22s ease, box-shadow .22s ease; }
+  .wd-plans article:focus-within { transform: scale(1.02); }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .wd-plans article:hover { transform: translateY(-4px) scale(1.035); box-shadow: 0 15px 30px #1d335820; z-index: 1; }
+}
+@keyframes wd-arrive { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
