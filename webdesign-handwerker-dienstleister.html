@@ -6,24 +6,76 @@
 <title>Webdesign für Handwerker und Dienstleister ab 350 € | Function Concept</title>
 <meta name="description" content="Deine Website in sieben Tagen online. Drei Webdesign-Pakete ab 350 € mit Kontaktformular, WhatsApp und Google-Indexierung. Auf Wunsch inklusive SEO und Blogartikeln.">
 <link rel="canonical" href="https://function-concept.com/webdesign-handwerker-dienstleister">
-<link rel="stylesheet" href="/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700;800&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
 <link rel="stylesheet" href="/webdesign-pakete.css">
 </head>
-<body class="wd">
-<header class="top"><a href="/" aria-label="Function Concept – Startseite"><img src="/medien/logo.png" width="130" alt="Function Concept"></a><nav aria-label="Seitennavigation"><a href="#pakete">Pakete</a><a href="#referenzen">Referenzen</a><a href="#anfrage">Kontakt</a></nav></header>
-<main>
-<section class="intro wrap"><p class="eyebrow">Webdesign für Handwerker und Dienstleister</p><h1>Dein Betrieb.<br>In sieben Tagen online.</h1><p>Zeig, was du kannst und wo du arbeitest. Mit einer Website, über die Kunden dir direkt eine WhatsApp schreiben oder ein Angebot anfragen können.</p><a class="primary" href="#pakete">Pakete ab 350 € vergleichen</a></section>
-<section class="wrap section" id="pakete"><h2>Welches Paket passt zu dir?</h2><div class="cards"><article class="plan p0"><h3>Basis</h3><p class="pitch">Für deinen Start im Netz.</p><p class="price">350 €</p><small>Gesamtpreis</small><a class="primary" href="#anfrage" data-package="0">Basis anfragen</a><ul><li>Webdesign und Veröffentlichung</li><li>Kontaktformular und WhatsApp</li><li>Google-Indexierung anstoßen</li></ul></article><article class="plan p1"><h3>Plus</h3><p class="pitch">Für Betriebe, die regelmäßig Fragen ihrer Kunden beantworten möchten.</p><p class="price">950 €</p><small>Gesamtpreis</small><a class="primary" href="#anfrage" data-package="1">Plus anfragen</a><ul><li>Alle Leistungen aus Basis</li><li>3 Monate SEO-Begleitung</li><li>3 Blogbeiträge pro Monat · 9 insgesamt</li></ul></article><article class="plan p2"><h3>Max</h3><p class="pitch">Für Betriebe, die mehr Leistungen und Themen bei Google abdecken möchten.</p><p class="price">1.900 €</p><small>Gesamtpreis</small><a class="primary" href="#anfrage" data-package="2">Max anfragen</a><ul><li>Alle Leistungen aus Basis</li><li>6 Monate SEO-Betreuung</li><li>8 Blogartikel pro Monat · 48 insgesamt</li></ul></article></div>
-<div class="included"><h3>In jedem Paket dabei</h3><p>Ich gestalte deine Website für Handy und Desktop und stelle deine Leistungen und dein Einsatzgebiet vor. Interessenten erreichen dich per Kontaktformular und WhatsApp. Zum Start richte ich die technischen Grundlagen für Google ein und beantrage die Indexierung. Den Zeitpunkt der Aufnahme bestimmt Google.</p></div></section>
-<section id="referenzen" class="section wrap"><h2>Ein Blick in meine Projekte.</h2><div class="cards"><a class="reference" href="https://www.powertech-performance.com/"><img src="/medien/webdesign/powertech.webp" alt="Aufbereitetes Kundenfahrzeug vor der Werkstatt" width="600" height="375" loading="lazy"><div><h3>Powertech Performance</h3><p>Fahrzeugaufbereitung in Erfurt</p><span>Projekt ansehen ↗</span></div></a><a class="reference" href="https://www.thermo-kern.de/"><img src="/medien/webdesign/thermokern.webp" alt="Einblasdämmung an einer Klinkerfassade" width="600" height="375" loading="lazy"><div><h3>ThermoKern</h3><p>Einblasdämmung in Ostfriesland</p><span>Projekt ansehen ↗</span></div></a><a class="reference" href="https://www.kennzeichen-lieferung.de/"><img src="/medien/webdesign/kennzeichen.webp" alt="Fahrzeugmotiv aus dem Kennzeichen-Shop" width="600" height="375" loading="lazy"><div><h3>Kennzeichen-Lieferung</h3><p>Onlineshop für Kfz-Kennzeichen</p><span>Projekt ansehen ↗</span></div></a></div></section>
-<section class="section wrap enquiry" id="anfrage"><div><p class="eyebrow">Dein Projekt</p><h2>Was soll deine Website für dich tun?</h2><p>Erzähl mir kurz von deinem Betrieb. Ich melde mich bei dir, um Leistungen, Inhalte und den Start deiner Website abzustimmen.</p></div><form id="kontaktForm" class="contact-form" data-formular="Webdesign-Anfrage" method="post" action="/api/kontakt">
+<body class="page-body campaign-page webdesign-page">
+<header class="page-header campaign-header">
+  <div class="page-header-inner">
+    <a href="/" class="page-logo"><img src="/medien/logo.png" alt="Function Concept – Startseite" class="page-logo-img"></a>
+    <nav class="page-nav" aria-label="Seitennavigation"><a href="#referenzen">Referenzen</a><a href="#pakete">Pakete</a><a href="#faq">FAQ</a><a href="#anfrage" class="btn-solid btn-nav">Website anfragen</a></nav>
+  </div>
+</header>
+<main class="campaign-main">
+  <section class="campaign-hero">
+    <div class="campaign-hero-copy">
+      <p class="campaign-eyebrow">Webdesign für Handwerker und lokale Dienstleister</p>
+      <h1>Deine neue Website.<br><span>In sieben Tagen online.</span></h1>
+      <p class="campaign-lead">Ich erstelle dir eine Website zum Festpreis ab <strong>350 €</strong>. Deine Kunden sehen, welche Arbeiten du übernimmst, und können dich direkt anrufen, dir bei WhatsApp schreiben oder ein Angebot anfragen.</p>
+      <div class="campaign-actions"><a class="cta-btn" href="#anfrage">Neue Website anfragen <span aria-hidden="true">→</span></a><a class="campaign-secondary" href="#pakete">Pakete vergleichen</a></div>
+    </div>
+    <figure class="card terminal-card wd-showcase">
+      <div class="terminal-head" aria-hidden="true"><span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span><span class="terminal-title">thermo-kern.de</span></div>
+      <img src="/medien/webdesign/thermokern.webp" alt="Einblasdämmung an einer Klinkerfassade bei einem Projekt von ThermoKern" width="1200" height="800" fetchpriority="high">
+      <figcaption><strong>ThermoKern</strong><a href="https://www.thermo-kern.de/">Referenz ansehen ↗</a></figcaption>
+    </figure>
+  </section>
+  <section class="campaign-section"><div class="campaign-section-head"><h2>Zeit für eine Website, die zu deinem Betrieb passt.</h2><p>Vielleicht kommen deine Aufträge bisher über Empfehlungen. Vielleicht zeigt deine alte Website noch Leistungen, die du längst nicht mehr anbietest. Gemeinsam klären wir, welche Aufträge du heute gewinnen möchtest. Darauf baue ich deine neue Seite auf.</p></div>
+    <div class="campaign-feature-list">
+      <div><span aria-hidden="true">✓</span><p><strong>Deine erste Website</strong><br>Wer deinen Namen empfohlen bekommt, findet deine Leistungen, dein Einsatzgebiet und deine Telefonnummer an einem Ort.</p></div>
+      <div><span aria-hidden="true">✓</span><p><strong>Deine bestehende Website neu gestalten</strong><br>Wir übernehmen passende Inhalte und zeigen anhand aktueller Arbeiten, wofür Kunden dich heute buchen können.</p></div>
+    </div>
+  </section>
+  <section class="campaign-section"><div class="campaign-section-head"><h2>Wie eine gute Website dir mehr Kunden bringen kann</h2><p>Stell dir vor, jemand sucht einen Maler für seine Wohnung. Bevor er anfragt, möchte er drei Dinge wissen. Deine Website gibt ihm die Antworten.</p></div>
+    <div class="campaign-grid campaign-grid-3">
+      <article><h3>„Macht der Betrieb meine Arbeit?“</h3><p>Eine konkrete Beschreibung wie „Innenanstrich für bewohnte Wohnungen in Oldenburg“ hilft dem Besucher einzuschätzen, ob sein Auftrag zu dir passt.</p></article>
+      <article><h3>„Wie sieht das Ergebnis aus?“</h3><p>Fotos deiner eigenen Arbeiten zeigen, was Kunden erwarten können. Ein kurzer Satz zum Auftrag macht aus einem schönen Bild eine nachvollziehbare Referenz.</p></article>
+      <article><h3>„Wie bekomme ich ein Angebot?“</h3><p>Am Handy tippt der Besucher auf WhatsApp und schickt dir ein Foto der Räume. Wer lieber telefoniert oder die Details in Ruhe aufschreibt, nutzt den Anrufbutton oder das Formular.</p></article>
+    </div>
+  </section>
+  <section class="campaign-section" id="referenzen"><div class="campaign-section-head"><h2>So sehen meine Kundenprojekte aus.</h2></div><div class="campaign-grid campaign-grid-3 wd-projects">
+    <a class="reference" href="https://www.powertech-performance.com/"><img src="/medien/webdesign/powertech.webp" alt="Aufbereitetes Kundenfahrzeug vor der Werkstatt" width="600" height="375" loading="lazy"><div><h3>Powertech Performance</h3><p>Fahrzeugaufbereitung in Erfurt</p><span>Projekt ansehen ↗</span></div></a>
+    <a class="reference" href="https://www.thermo-kern.de/"><img src="/medien/webdesign/thermokern.webp" alt="Einblasdämmung an einer Klinkerfassade" width="600" height="375" loading="lazy"><div><h3>ThermoKern</h3><p>Einblasdämmung in Ostfriesland</p><span>Projekt ansehen ↗</span></div></a>
+    <a class="reference" href="https://www.kennzeichen-lieferung.de/"><img src="/medien/webdesign/kennzeichen.webp" alt="Fahrzeugmotiv aus dem Kennzeichen-Shop" width="600" height="375" loading="lazy"><div><h3>Kennzeichen-Lieferung</h3><p>Onlineshop für Kfz-Kennzeichen</p><span>Projekt ansehen ↗</span></div></a>
+  </div></section>
+  <section class="campaign-section" id="pakete"><div class="campaign-section-head"><h2>Drei Pakete für deine neue Website</h2><p>In jedem Paket bekommst du die fertige Website mit Kontaktmöglichkeiten und technischer Vorbereitung für Google. Plus und Max ergänzen die laufende Suchmaschinenoptimierung nach dem Start.</p></div>
+    <div class="campaign-grid campaign-grid-3 wd-plans">
+      <article><h3>Basis</h3><strong class="wd-price">350 €</strong><small>Gesamtpreis</small><p>Für deinen neuen Webauftritt.</p><ul><li>Website für Handy und Desktop</li><li>Telefon, WhatsApp und Kontaktformular</li><li>Google-Indexierung beantragen</li></ul><a href="#anfrage" class="cta-btn" data-package="0">Basis anfragen →</a></article>
+      <article><h3>Plus</h3><strong class="wd-price">950 €</strong><small>Gesamtpreis</small><p>Für Betriebe, die erste Themen bei Google besetzen möchten.</p><ul><li>Alle Leistungen aus Basis</li><li>3 Monate SEO-Begleitung</li><li>3 Blogbeiträge pro Monat (9 insgesamt)</li></ul><a href="#anfrage" class="cta-btn" data-package="1">Plus anfragen →</a></article>
+      <article><h3>Max</h3><strong class="wd-price">1.900 €</strong><small>Gesamtpreis</small><p>Für Betriebe mit mehreren Leistungen und vielen Kundenfragen.</p><ul><li>Alle Leistungen aus Basis</li><li>6 Monate SEO-Betreuung</li><li>8 Blogartikel pro Monat (48 insgesamt)</li></ul><a href="#anfrage" class="cta-btn" data-package="2">Max anfragen →</a></article>
+    </div>
+  </section>
+  <section class="campaign-section inquiry-faq" id="faq"><div class="campaign-section-head"><h2>Häufige Fragen zur neuen Website</h2></div><div class="inquiry-faq-list">
+      <details><summary>Was bekomme ich für 350 €?</summary><p>Eine für Handy und Desktop gestaltete Website, die deinen Betrieb, deine Leistungen und dein Einsatzgebiet vorstellt. Ich binde Telefon, WhatsApp und ein Kontaktformular ein, ergänze Impressum und Datenschutzerklärung und beantrage die Indexierung bei Google.</p></details>
+      <details><summary>Was brauchst du von mir für den Start?</summary><p>Deine Kontaktdaten, dein Einsatzgebiet und eine kurze Liste deiner Leistungen. Hast du ein Logo, Fotos von abgeschlossenen Arbeiten oder schon eine Domain, bring sie mit. Im ersten Gespräch klären wir, welche Inhalte sich übernehmen lassen.</p></details>
+      <details><summary>Wann geht meine neue Website online?</summary><p>Die Umsetzung ist auf sieben Tage ausgelegt. Wir stimmen den Starttermin ab, sobald Inhalte und nötige Zugänge vorliegen. Vor der Veröffentlichung bekommst du die Seite zur Freigabe.</p></details>
+      <details><summary>Kann ich meine bestehende Domain behalten?</summary><p>Ja, wenn du Zugriff auf die Domainverwaltung hast. Wir klären gemeinsam, wo die Domain liegt und ob darüber auch deine geschäftlichen E-Mails laufen. So lässt sich die Umstellung vorbereiten.</p></details>
+      <details><summary>Wann finde ich meine Website bei Google?</summary><p>Zum Start bereite ich die Website für Suchmaschinen vor und beantrage die Indexierung. Google entscheidet, wann die Seiten in den Index aufgenommen werden und an welcher Position sie bei einer Suche erscheinen.</p></details>
+      <details><summary>Was unterscheidet Plus und Max?</summary><p>Bei Plus begleite ich dich drei Monate und schreibe jeden Monat drei Blogbeiträge. Bei Max sind es sechs Monate mit jeweils acht Artikeln. Die Themen orientieren sich an deinen Leistungen und den Fragen deiner Kunden.</p></details>
+    </div>
+  </section>
+  <section class="campaign-checkout" id="anfrage"><div class="campaign-checkout-copy"><h2>Welche Aufträge möchtest du gewinnen?</h2><p>Erzähl mir kurz, was du anbietest und in welcher Region du arbeitest. Hast du schon eine Website, schick den Link gern mit. Ich melde mich bei dir, um dein Projekt und den Starttermin zu besprechen.</p><div class="wd-contact"><img src="/medien/google-ads-kampagne/steve.jpg" alt="" width="64" height="64" loading="lazy"><div><strong>Steven Jesse</strong><br>Dein Ansprechpartner bei Function Concept</div></div></div>
+    <div class="card terminal-card campaign-order-card"><div class="terminal-head"><span class="dot dot-red"></span><span class="dot dot-yellow"></span><span class="dot dot-green"></span><span class="terminal-title">Projektanfrage</span></div><div class="terminal-body"><form id="kontaktForm" class="contact-form" data-formular="Webdesign-Anfrage" method="post" action="/api/kontakt">
         <div class="form-field"><label for="paket">Dein Paket</label><select id="paket" name="paket"><option>Basis · 350 €</option><option>Plus · 950 €</option><option>Max · 1.900 €</option></select></div><div class="form-field">
-          <label for="name">Name</label>
+          <label for="name">Name *</label>
           <input type="text" id="name" name="name" autocomplete="name" placeholder="Dein Name" required />
         </div>
           <div class="form-field"><label for="unternehmen">Firmenname *</label><input type="text" id="unternehmen" name="unternehmen" autocomplete="organization" placeholder="Dein Unternehmen" required /></div>
         <div class="form-field">
-          <label for="email">E-Mail-Adresse</label>
+          <label for="email">E-Mail-Adresse *</label>
           <input type="email" id="email" name="email" autocomplete="email" placeholder="du@firma.de" required />
         </div>
         <div class="form-field">
@@ -31,12 +83,15 @@
           <input type="tel" id="telefon" name="telefon" autocomplete="tel" placeholder="Deine Telefonnummer" required />
         </div>
         <div class="form-field">
-          <label for="nachricht">Nachricht</label>
+          <label for="nachricht">Dein Projekt *</label>
           <textarea id="nachricht" name="nachricht" rows="5" placeholder="Was bietest du an und in welcher Region arbeitest du?" required></textarea>
         </div>
+        <p class="wd-privacy">Die Angaben verwende ich zur Bearbeitung deiner Anfrage. <a href="/datenschutz">Datenschutzerklärung</a></p>
         <button type="submit" class="cta-btn" id="kontaktSubmit">Webdesign unverbindlich anfragen <span class="arrow">→</span></button>
         <p class="form-status" id="kontaktStatus" role="status" aria-live="polite"></p>
-      </form></section></main>
+      </form></div></div>
+  </section>
+</main>
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-brand">
