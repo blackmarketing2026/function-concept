@@ -1,0 +1,1735 @@
+{
+  "date": "2026-11-23",
+  "week": "2026-W48",
+  "queries": [
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 4,
+            "ctr": 0,
+            "position": 11.5
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "concept blog",
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 5
+          },
+          {
+            "keys": [
+              "kategorieseiten funktionen",
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 30
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 9,
+            "ctr": 0,
+            "position": 21.1
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 2,
+            "ctr": 0,
+            "position": 7
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-10-24",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "bei google kunden gewinnen",
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 4,
+            "ctr": 0,
+            "position": 16
+          },
+          {
+            "keys": [
+              "google ads tipps elektriker",
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 16
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "concept blog",
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 11
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-09-26",
+        "endDate": "2026-10-23",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 8,
+            "ctr": 0,
+            "position": 8.6
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kategorien"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "concept blog",
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 2,
+            "ctr": 0,
+            "position": 8
+          },
+          {
+            "keys": [
+              "kategorieseiten funktionen",
+              "https://www.function-concept.com/blog/kategorien"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 30
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 9,
+            "ctr": 0,
+            "position": 21.1
+          }
+        ],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog/webseite"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [],
+        "hasMore": false
+      }
+    },
+    {
+      "request": {
+        "projectId": "56d484cb-8829-41ab-ab45-09c32e34659e",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "dataState": "final",
+        "type": "web",
+        "filters": [
+          {
+            "dimension": "page",
+            "operator": "equals",
+            "expression": "https://www.function-concept.com/blog"
+          }
+        ],
+        "rowLimit": 1000,
+        "startRow": 0
+      },
+      "response": {
+        "ok": true,
+        "siteUrl": "https://www.function-concept.com/",
+        "startDate": "2026-08-21",
+        "endDate": "2026-11-20",
+        "dimensions": [
+          "query",
+          "page"
+        ],
+        "rows": [
+          {
+            "keys": [
+              "bei google kunden gewinnen",
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 4,
+            "ctr": 0,
+            "position": 16
+          },
+          {
+            "keys": [
+              "google ads tipps elektriker",
+              "https://www.function-concept.com/blog"
+            ],
+            "clicks": 0,
+            "impressions": 1,
+            "ctr": 0,
+            "position": 16
+          }
+        ],
+        "hasMore": false
+      }
+    }
+  ]
+}
