@@ -1,0 +1,109 @@
+{
+  "checkedAtUTC": "2026-11-23T23:03:02.029289+00:00",
+  "checks": [
+    {
+      "url": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/ratgeber/suchmaschinenwerbung-agentur-auswaehlen",
+      "matchesRepository": true,
+      "sha256": "ea1a32bc7488521df5d662ab31c808ffcff41fd6b26fd4a1ed5a5d4683ee01bd"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/kundengewinnung/werbekonto-zugriffe-agenturwechsel",
+      "matchesRepository": true,
+      "sha256": "65db0be634cdd6ef3ff382dba3d182667cfe1164dc95f7a2fcc54898c0ec5b25"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/kundengewinnung/agenturberichte-kundenanfragen-bewerten",
+      "matchesRepository": true,
+      "sha256": "2b5d4604346d319080e4a4009ced658683de7da911e4e57d57fe71b4a91f405c"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/kundengewinnung/seo-und-suchmaschinenwerbung-unterschied",
+      "matchesRepository": true,
+      "sha256": "652be9117c6e51f68115eb1203737b82960d37e6ef9bd4d190d02b090c588a76"
+    },
+    {
+      "url": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-auswahl.svg",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-auswahl.svg",
+      "matchesRepository": true,
+      "sha256": "b54b7dd059b5b14a0c03d4b9df83e93400e7be67443dd7540336a678b6863bcd"
+    },
+    {
+      "url": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-zugriffe.svg",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-zugriffe.svg",
+      "matchesRepository": true,
+      "sha256": "6b510f9781178d6b0a69e2ce08ea16f6f63884a8ffb71c6a15d0d49e5f341312"
+    },
+    {
+      "url": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-berichte.svg",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/medien/blog/kundengewinnung/agentur-berichte.svg",
+      "matchesRepository": true,
+      "sha256": "9bb381bf165cdac1c06dc358c329342553a1cca3de2334cc0276b2881303ff52"
+    },
+    {
+      "url": "https://www.function-concept.com/medien/blog/kundengewinnung/seo-suchwerbung.svg",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/medien/blog/kundengewinnung/seo-suchwerbung.svg",
+      "matchesRepository": true,
+      "sha256": "b6b203c789265fbddee0968f6673adfd3b99ef29131caed13745704e4d1bcba9"
+    },
+    {
+      "url": "https://www.function-concept.com/blog",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog",
+      "matchesRepository": true,
+      "sha256": "2ed9f500ca1244720073796b4fd1ba04ba9d07910e7d0906fd1db3252b412eab"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/kategorien",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/kategorien",
+      "matchesRepository": true,
+      "sha256": "30b455848a0685df011642a97d14584548b1c75ed5ef421ecfe3aca419f8f682"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/kundengewinnung",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/kundengewinnung",
+      "matchesRepository": true,
+      "sha256": "f77b18ce74aabad957a93da561c9a54fe8df3c5a5e5fa183ae45d6fed071e660"
+    },
+    {
+      "url": "https://www.function-concept.com/blog/webseite",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/blog/webseite",
+      "matchesRepository": true,
+      "sha256": "13b64701002ae88dff6dd2e4bccf51cdd5b33254732f7b4788a88e7f4def8c55"
+    },
+    {
+      "url": "https://www.function-concept.com/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://www.function-concept.com/sitemap.xml",
+      "matchesRepository": true,
+      "sha256": "956847297357309e07c6c29256d624790b8374834c3ebc01e61dda5c63178522"
+    }
+  ],
+  "domainChecks": [
+    {
+      "requested": "https://function-concept.de/blog/kategorien",
+      "finalUrl": "https://www.function-concept.com/blog/kategorien",
+      "status": 200
+    },
+    {
+      "requested": "https://function-concept.com/blog/kategorien",
+      "finalUrl": "https://www.function-concept.com/blog/kategorien",
+      "status": 200
+    }
+  ],
+  "newURLs": 0
+}
