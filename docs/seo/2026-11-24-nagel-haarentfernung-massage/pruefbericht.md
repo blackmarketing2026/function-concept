@@ -18,4 +18,4 @@ Basis f10380c22f1d091d7df2085454dfdbb2f35973c2. Recherchebriefing vor Umsetzung 
 Drei unveränderte Blogübersichten enthalten /index#leistungen; Zielanker fehlt bereits im Bestand auf geschützter Startseite. Unverändert belassen, in neuen Artikeln nicht hinzugefügt. Kein Blocker der eigenständigen Ratgeber. Keine OpenSEO-/GSC-Nutzung, keine Indexierungs-/Wirkungsbehauptung. Zeitplan unverändert.
 
 ## Veröffentlichung
-Zum Prüfzeitpunkt noch nicht veröffentlicht. Deployment und öffentlicher Inhaltsabgleich werden nach Merge separat dokumentiert.
+PR26 gemergt. Vercel-Produktion erfolgreich. Live-Check: elf öffentliche Ressourcen mit HTTP200, exakter finaler URL und bytegleichem Repository-Inhalt; veröffentlichte XML-Sitemap enthält alle drei neuen URLs genau einmal. Einzelbelege in live-check.json und veroeffentlichung.md.
