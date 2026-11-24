@@ -1,6 +1,6 @@
 # Qualitätsprüfung – 24.11.2026
 
-Ergebnis: **freigabefähig**. Drei neue Branchenratgeber, drei individuelle Bilder, drei ergänzte redaktionelle Übersichten, drei Sitemap-URLs. Veröffentlichung ausstehend.
+Ergebnis: **freigabefähig**. Drei neue Branchenratgeber, drei individuelle Bilder, drei ergänzte redaktionelle Übersichten, drei Sitemap-URLs. Veröffentlichung nach Merge von PR #24 bestätigt.
 
 ## Tatsächlich ausgeführte Prüfungen
 - Basis b02e3a78067f909777986c64332da0656f8ecdc7, aktuelle Branches, keine offenen PRs, Anweisungen und bisherige Dokumentation geprüft. Briefing vor Umsetzung gespeichert. Kein OpenSEO, keine GSC-/Volumen- oder CPC-Daten behauptet.
@@ -20,3 +20,6 @@ Keine visuelle Website-/Browser-/Screenshot-/Viewport-Prüfung gemäß Auftrag. 
 
 ## Zählung und weitere Arbeit
 3 neue Ratgeber; 0 überarbeitete bestehende Ratgeber; 3 neue Bilder. Separat 3 ergänzte Übersichten. Nächste Kandidaten: Nagelstudios, Studios für dauerhafte Haarentfernung, Massagestudios. Beauty-Salons erst auf inhaltliche Überschneidung mit Kosmetikstudios prüfen. Bestehender Workflow entspricht dem Nutzerauftrag und bleibt ohne unnötige Textänderung bestehen.
+
+## Produktionsprüfung
+Vercel-Produktion success für Merge 5b1845e8e026d862c4ff44be4690e78b17a7996c. Erster HTTP-Lauf unmittelbar nach Merge traf während der Deploymentphase auf HTTP404 und wurde nicht als Erfolg gewertet. Erneuter vollständiger Lauf nach erfolgreichem Deployment: alle 11 Ressourcen HTTP200, korrekte finale URL und bytegleich zum Repository. Drei neue URLs genau einmal in Live-Sitemap. Zeitstempel/Hashes in live-check.json. Keine dauerhaften Fehler offen; keine Google-Einreichung oder Indexierung behauptet.
