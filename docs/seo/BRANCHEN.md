@@ -23,9 +23,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Entrümpelungsunternehmen | Wie gewinnen Entrümpelungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/entruempelung-wohnung-sortierung.webp |
 | Umzugsunternehmen | Wie gewinnen Umzugsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/umzug-moebel-transport-team.webp |
 
+| Kfz-Sachverständige | Wie gewinnen Kfz-Sachverständige neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kfz-sachverstaendige-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/kfz-gutachter-fahrzeugbesichtigung.webp |
+| Autowerkstätten | Wie gewinnen Autowerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp |
+| Autoaufbereiter | Wie gewinnen Autoaufbereiter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/autoaufbereitung-innenraum-polster.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Kfz-Sachverständige, Autowerkstätten, Autoaufbereiter. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Immobilienmakler, Schädlingsbekämpfer, Schlüsseldienste. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
