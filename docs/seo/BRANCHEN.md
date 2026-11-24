@@ -39,9 +39,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Barbershops | Wie gewinnen Barbershops neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/barber-bartberatung-kunde.webp |
 | Kosmetikstudios | Wie gewinnen Kosmetikstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp |
 
+| Nagelstudios | Wie gewinnen Nagelstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/nagelstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/nageldesignerin-farbberatung-studio.webp |
+| Studios für dauerhafte Haarentfernung | Wie gewinnen Studios für dauerhafte Haarentfernung neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/haarentfernung-beratung-studio.webp |
+| Massagestudios | Wie gewinnen Massagestudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/wellnessmassage-liege-vorbereitung.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Nagelstudios, Studios für dauerhafte Haarentfernung, Massagestudios. Beauty-Salons vorab auf Überschneidung mit Kosmetikstudios prüfen. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Fitnessstudios, Tattoostudios, Restaurants. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
