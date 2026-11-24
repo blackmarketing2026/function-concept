@@ -43,9 +43,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Studios für dauerhafte Haarentfernung | Wie gewinnen Studios für dauerhafte Haarentfernung neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR26 | /medien/ratgeber/haarentfernung-beratung-studio.webp |
 | Massagestudios | Wie gewinnen Massagestudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR26 | /medien/ratgeber/wellnessmassage-liege-vorbereitung.webp |
 
+| Fitnessstudios | Wie gewinnen Fitnessstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fitnessstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fitnessstudio-trainer-erstbesuch.webp |
+| Tattoostudios | Wie gewinnen Tattoostudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/tattoostudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/tattooartist-motivberatung-studio.webp |
+| Restaurants | Wie gewinnen Restaurants neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/restaurants-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/restaurant-service-tisch-vorbereitung.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Fitnessstudios, Tattoostudios, Restaurants. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Physiotherapiepraxen, Hörakustiker, Optiker. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
