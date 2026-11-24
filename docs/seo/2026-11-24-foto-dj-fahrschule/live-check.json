@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/fotografen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fotografen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18037,
+    "sha256": "f65fde3c382e754d78f2d72fae18757549b1d32c6670819ce845b8a71e822623",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:16.338523+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17839,
+    "sha256": "9b918c31a406ff6bf2166905413911e7262a0662c81a702ac923a1be2d2e9d33",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:16.298572+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18577,
+    "sha256": "0638b0b5fb715768fe7a327fdb205c75902a338aaf18a093d2382cbd49fdaf24",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:16.010514+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fotografin-portraetstudio-shooting.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fotografin-portraetstudio-shooting.webp",
+    "status": 200,
+    "bytes": 88680,
+    "sha256": "2921d18738916116db76e74239eb128dd4e87040b70455a136688500fe57961e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:16.106692+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp",
+    "status": 200,
+    "bytes": 115402,
+    "sha256": "4801e2ad79838cfd3b7ea8555403c4f31a80489f15601915fd9c50327a442330",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:16.388095+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp",
+    "status": 200,
+    "bytes": 140770,
+    "sha256": "4d982351a656b249e65416f41e4c8b7f8646efa8ef7c11f488b65fed5123dbe9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:21.863281+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 20942,
+    "sha256": "2e48112840e83388597dc3f11e50f54a0b44aea8ffe9ba60a5c0ca67456a875b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:21.866416+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 25176,
+    "sha256": "31d20dae37ea2d592fb4ec940433d979718cb3b3f5dc967ca8d3d45a08071f03",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:21.846451+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 22883,
+    "sha256": "a5668634e97095701b23ed3177e0976c13460a91e41ef519130ce3410aa502d7",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:21.834579+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:21.863057+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 13983,
+    "sha256": "3947c45603b03eb0512743b68dbaebe22a98f12213491a681a480cd4abf3ef37",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T15:15:27.614814+00:00"
+  }
+]
