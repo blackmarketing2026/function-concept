@@ -13,9 +13,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Bodenleger | Wie gewinnen Bodenleger neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/bodenleger-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #10 | /medien/ratgeber/bodenleger-laminat-verlegung.webp |
 | Heizungsbauer | Wie gewinnen Heizungsbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/heizungsbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #10 | /medien/ratgeber/heizungsbauer-waermepumpe-bestandsaufnahme.webp |
 | Sanitärbetriebe | Wie gewinnen Sanitärbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/sanitaerbetriebe-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #10 | /medien/ratgeber/sanitaerbetrieb-waschtisch-montage.webp |
-| Maurer | Wie gewinnen Maurer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/maurer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/maurer-mauerwerk-ausrichten.webp |
-| Trockenbauer | Wie gewinnen Trockenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/trockenbauer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/trockenbauer-trennwand-aufmass.webp |
-| Garten- und Landschaftsbauer | Wie gewinnen Garten- und Landschaftsbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/garten-landschaftsbauer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/landschaftsgaertner-gartenweg-einfassung.webp |
+| Maurer | Wie gewinnen Maurer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/maurer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/maurer-mauerwerk-ausrichten.webp |
+| Trockenbauer | Wie gewinnen Trockenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/trockenbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/trockenbauer-trennwand-aufmass.webp |
+| Garten- und Landschaftsbauer | Wie gewinnen Garten- und Landschaftsbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/garten-landschaftsbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/landschaftsgaertner-gartenweg-einfassung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -24,3 +24,5 @@ Nächste Kandidaten: Fensterbauer, Metallbauer, Solarteure. Vor Erstellung Leist
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
 Bodenleger/Heizungsbauer/Sanitärbetriebe: [Live-Prüfung](2026-11-24-boden-shk/live-check.json), [Veröffentlichung](2026-11-24-boden-shk/veroeffentlichung.md).
+
+Live-Nachweis Bau/Garten: [HTTP-Protokoll](2026-11-24-bau-garten/live-check.json), [Veröffentlichung](2026-11-24-bau-garten/veroeffentlichung.md).

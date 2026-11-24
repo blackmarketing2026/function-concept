@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/maurer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/maurer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18743,
+    "sha256": "6cd9606cf9ced7b7cb3c44f4b427664bb37ed9303452baf9cc450af5bdb7806d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:34.730574+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/trockenbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/trockenbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19027,
+    "sha256": "13e0d29435a1cbad5d22a8a72e869343b115c4dad9107df7413f9b204b9ba326",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:34.474835+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/garten-landschaftsbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/garten-landschaftsbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19492,
+    "sha256": "f4a292f26ed2bf3694f22c6a8f1c11dde73852808094680ef08fc44464505f8b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:34.530007+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/maurer-mauerwerk-ausrichten.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/maurer-mauerwerk-ausrichten.webp",
+    "status": 200,
+    "bytes": 198532,
+    "sha256": "36f1ec48f0f5a16cd7205367f80e6a26dd0e0cb309b69189bdded95ad17f0879",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:34.770721+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/trockenbauer-trennwand-aufmass.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/trockenbauer-trennwand-aufmass.webp",
+    "status": 200,
+    "bytes": 94156,
+    "sha256": "3a4f1a0d57274c447ed5c20fa789a2682f01e349f538f8b18bcbf1a0da13ef68",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:34.443527+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/landschaftsgaertner-gartenweg-einfassung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/landschaftsgaertner-gartenweg-einfassung.webp",
+    "status": 200,
+    "bytes": 292330,
+    "sha256": "579cc8bce19b5c678726451525df09b7679286ca58ff71f81cf50a152dae8729",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:38.337036+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 11626,
+    "sha256": "2a756fe40a7b0eed590a06e40a9321fafd3d2c2cc3bd2b2c17b4e40684d5b355",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:38.290511+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 18892,
+    "sha256": "f86bdc43a3d97d172002585521450006712e793e37069b2f88888ba752101d45",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:38.303062+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 16599,
+    "sha256": "5e96944e2ac7c64b1b8e79eda21209785e05d36c22d91fc02ab24578d03975f1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:38.302832+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:38.248553+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 10727,
+    "sha256": "5d955f89b4d6689623cdb24e3d4e4d956271b13cd6c44a684dd440f9c8c425fd",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T10:13:42.118782+00:00"
+  }
+]

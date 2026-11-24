@@ -16,4 +16,4 @@ Ergebnis: **freigabefähig**. Drei neue eigenständige Ratgeber, keine überarbe
 Kein Build-Skript im statischen Projekt vorhanden. Keine visuelle Browser-/Screenshot-/Viewportprüfung laut Auftrag. Kein echtes Formular abgesendet, daher keine Ende-zu-Ende-Bestätigung des SMTP-Versands. Alte unveränderte /index#leistungen-Anker in bestehenden Blogübersichten bleiben dokumentierter Bestand; keine neuen solchen Links eingeführt, geschützte Startseite nicht geändert. Keine Blocker für die neuen Seiten.
 
 ## Veröffentlichungsstand
-Noch nicht als live bestätigt. GitHub-Checks, Merge und Produktion werden im Veröffentlichungsprotokoll nachgetragen. Ein Push allein gilt nicht als Deploymentnachweis.
+Bestätigt live: PR #12 nach erfolgreichem Vercel-Check und Preview-Check gemergt. Produktionscommit f75b90006596b700d311edaa826583cde703e0e1, Vercel success. live_check.py erfolgreich: elf öffentliche Ressourcen HTTP200, kanonisches Endziel, bytegleich zum geprüften Repository; neue Sitemap-URLs genau einmal. Details in live-check.json und veroeffentlichung.md. Kontaktseite separat HTTP200 mit kontaktForm bestätigt.
