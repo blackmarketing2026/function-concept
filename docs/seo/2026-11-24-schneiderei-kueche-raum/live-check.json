@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/aenderungsschneidereien-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/aenderungsschneidereien-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17845,
+    "sha256": "161004b4fd21b86aebd14ed7a3f521849e53ce869598889836631fe90a97b01f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:23.650578+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/kuechenstudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/kuechenstudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18788,
+    "sha256": "b25ca81336d98e931972eb32d1009f47e08e4357dc1ade311e0a7d523e881935",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:23.602680+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/raumausstatter-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/raumausstatter-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18998,
+    "sha256": "6d394765ee9e413cf43e9d40d905499c7321ee1bae35cbc1a1a5f3d389b05d94",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:23.622657+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/schneiderin-hosensaum-atelier.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/schneiderin-hosensaum-atelier.webp",
+    "status": 200,
+    "bytes": 138452,
+    "sha256": "676aaae83b856517d5fcec29f437bc99f2fe161827c4a362a077c861cc0439ab",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:23.642815+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/kuechenberater-materialmuster-ausstellung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/kuechenberater-materialmuster-ausstellung.webp",
+    "status": 200,
+    "bytes": 132692,
+    "sha256": "ba8f85d520c8160922a1546234388dbbf3f3eba9737b03f72bc6a3d093f36f2a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:23.654496+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/raumausstatterin-gardinen-stoffberatung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/raumausstatterin-gardinen-stoffberatung.webp",
+    "status": 200,
+    "bytes": 207418,
+    "sha256": "5b7cec657bc56bcda566d72405d2f4e978bc5070dc1f889e8a108f871679884d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:33.050803+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 34027,
+    "sha256": "f6375c77b9ad7d1ccf2a22e8323e74876dc9a125d278b34de5f806f6a7748aea",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:33.027154+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 34013,
+    "sha256": "e0369e7ffc1f7962bdb6ce4adb4705ed0e68b379841cb9443182a080d8d60348",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:33.070637+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 31720,
+    "sha256": "818ca2a2010ba122c90e8caaadfbca138d84032fca00cd6bca744e5c3e62a584",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:33.027508+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:33.034435+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 18535,
+    "sha256": "aad11f5593dc8b2ec5499fa1a81452cef46a042a7d3d971c473e46ae24d210ab",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T22:14:42.334691+00:00"
+  }
+]
