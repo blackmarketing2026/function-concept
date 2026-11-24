@@ -20,3 +20,6 @@ Keine visuelle Browser-, Screenshot- oder Viewport-Prüfung laut Auftrag. Kein e
 
 ## Veröffentlichung
 Bei Erstellung dieses Berichts: Dateien erstellt und geprüft, noch kein bestätigter Push/Merge oder Live-Nachweis. Deployment und öffentliche Inhalte/Sitemap werden nach Veröffentlichung separat geprüft und dokumentiert.
+
+## Veröffentlichungsprüfung abgeschlossen
+PR #10 nach erfolgreichen Checks gemergt. Produktionscommit a839565c79ddd383a23eb200e7c5a48f972d1952, Vercel success. Elf öffentliche Ressourcen HTTP 200, finale URLs korrekt und bytegleich zum Repository. Drei neue Ratgeber-URLs in Live-Sitemap jeweils einmal enthalten. Kontaktseite zusätzlich HTTP 200 mit vorhandenem kontaktForm; kein Versand ausgelöst. Drei neue Ratgeber bestätigt veröffentlicht. Details: live-check.json und veroeffentlichung.md.
