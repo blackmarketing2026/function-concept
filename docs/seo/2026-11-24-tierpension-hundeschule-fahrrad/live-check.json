@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/tierpensionen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/tierpensionen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18185,
+    "sha256": "3c452de1e587f415c7e2b9220cf459606a69ac205e78387f0ad774a723601013",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:30.098570+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/hundeschulen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/hundeschulen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18336,
+    "sha256": "bb20a923c766782d2647c7637fa73bbd1c51578121289fe932b546a684c440c2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:30.102372+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/fahrradwerkstaetten-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fahrradwerkstaetten-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18527,
+    "sha256": "ca7cef195e2be34fae9b93b28cff3d58b7deb6774bb1ebcf62a757d417fcfa8e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:30.106340+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/tierpension-betreuung-hund-auslauf.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/tierpension-betreuung-hund-auslauf.webp",
+    "status": 200,
+    "bytes": 242032,
+    "sha256": "17fd839b1b47efb21c2beaf82c874fb34add28e7a749283f0879f5d9afd71288",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:30.150803+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/hundeschule-trainerin-halter-beratung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/hundeschule-trainerin-halter-beratung.webp",
+    "status": 200,
+    "bytes": 186134,
+    "sha256": "ccf4169644c34f37223ee5fc0217277ce34c1b7e456d655443f0c4bc5998b5f2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:30.138679+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fahrradwerkstatt-reparaturannahme-beratung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fahrradwerkstatt-reparaturannahme-beratung.webp",
+    "status": 200,
+    "bytes": 157898,
+    "sha256": "87ffa78c93fbdb056b40bfe2100f874c107d3f2d77682e25e19c7d7b0aab79c2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:36.047567+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 30226,
+    "sha256": "2ba7f1de3662c1090e647dd87fd400b36dff4e7ec407a278d5432a9e8d67f42a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:36.054429+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 31456,
+    "sha256": "5dffd5ce85a2ab96be6ff108c33ead7cea85fe95cf4dad078170946acf71a0f2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:36.046740+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 29163,
+    "sha256": "7b03bb5b2f7475862a69b8296f0297e7eebe1a45410abe20c341d98e1f74db3f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:36.002765+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:35.993924+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 17217,
+    "sha256": "3ef765a997df1c84d7689ce7ef1a8bff5fc91c2469a9c26c9d7433d41985fbcc",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T20:11:41.742831+00:00"
+  }
+]

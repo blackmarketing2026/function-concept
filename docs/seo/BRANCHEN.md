@@ -51,9 +51,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Hörakustiker | Wie gewinnen Hörakustiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hoerakustiker-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR30 | /medien/ratgeber/hoerakustik-hoersystem-beratung.webp |
 | Optiker | Wie gewinnen Optiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/optiker-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR30 | /medien/ratgeber/optikerin-brillenfassung-beratung.webp |
 
-| Tierpensionen | Wie gewinnen Tierpensionen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/tierpensionen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/tierpension-betreuung-hund-auslauf.webp |
-| Hundeschulen | Wie gewinnen Hundeschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hundeschulen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/hundeschule-trainerin-halter-beratung.webp |
-| Fahrradwerkstätten | Wie gewinnen Fahrradwerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrradwerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fahrradwerkstatt-reparaturannahme-beratung.webp |
+| Tierpensionen | Wie gewinnen Tierpensionen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/tierpensionen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR32 | /medien/ratgeber/tierpension-betreuung-hund-auslauf.webp |
+| Hundeschulen | Wie gewinnen Hundeschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hundeschulen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR32 | /medien/ratgeber/hundeschule-trainerin-halter-beratung.webp |
+| Fahrradwerkstätten | Wie gewinnen Fahrradwerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrradwerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR32 | /medien/ratgeber/fahrradwerkstatt-reparaturannahme-beratung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 

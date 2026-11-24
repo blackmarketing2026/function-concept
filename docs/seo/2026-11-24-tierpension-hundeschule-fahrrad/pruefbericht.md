@@ -10,5 +10,5 @@ Basis: 4f27f9c62a9a992f2a0d708cd299022278f5bfb9. Recherchebriefing vor Umsetzung
 - node --check für script.js,page.js und api/*.js erfolgreich. Kein Build-/Testscript im package.json vorhanden. git diff --check erfolgreich. Keine visuelle Browser-/Screenshot-/Viewportprüfung.
 - /ratgeber und /kontakt öffentlich HTTP200 unter unveränderter .com-URL, Ratgeber-Canonical korrekt; kontaktForm-Anker vorhanden. Kein Versandtest und keine Nachricht an Dritte.
 - Bekannte bestehende Links /index#leistungen in drei Blogübersichten unverändert. Zielseite geschützt, keine neuen Ratgeber verwenden diesen Link.
-- Veröffentlichung/Deployment/Livetest noch ausstehend; kein Erfolg vor Bestätigung behauptet.
+- PR32 gemergt, Vercel-Produktion erfolgreich. live_check.py bestanden:11 öffentliche Ressourcen HTTP200, korrekte finale URLs, bytegleich zum Repository; neue Sitemap-URLs jeweils einmal. Nachweis in live-check.json/veroeffentlichung.md.
 - Keine OpenSEO-Nutzung, keine neuen Automationen oder Zeitplanänderung. Keine Indexierung/Google-Einreichung behauptet.
