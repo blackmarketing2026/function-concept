@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/friseure-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/friseure-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17918,
+    "sha256": "4fb9756cc5e5e860b4fdccb17d8baeb0a2fe765636452606de28e15b4d24aa00",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:45.650584+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17264,
+    "sha256": "7ff9eb0d0edaebd9ae71e56294146d4019cb4304abaa8b2d9912b5af84ecf7c1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:45.616048+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18484,
+    "sha256": "a7c3d34fe154b615db25a0a0dbf130794adaf7975293f7c7917428f5d21fd40a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:45.598698+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/friseurin-farbberatung-salon.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/friseurin-farbberatung-salon.webp",
+    "status": 200,
+    "bytes": 120336,
+    "sha256": "0a7315934536342008632fe9f726307e8190ab6f112fd01079b998cc30de1c56",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:45.646757+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/barber-bartberatung-kunde.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/barber-bartberatung-kunde.webp",
+    "status": 200,
+    "bytes": 129816,
+    "sha256": "fbed05183d51365fb24ef5667ef5987309f58d1515e30ddc68d08f8342a8ea12",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:45.691022+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp",
+    "status": 200,
+    "bytes": 115546,
+    "sha256": "c8f93a250e052156d651b6e567dc8aefb74bbb0b8f23236ad5fe45cbc16017a5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:50.886998+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 22762,
+    "sha256": "83f22e3db8bd8f74baf2c2a79c49a230ad61858aeeff0ffdde5ba4ad07be9e24",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:50.887609+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 26412,
+    "sha256": "e3d17d6439004690e3d31811df38640399b36bf56cba5f73be06fe14ad953fe1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:50.906725+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 24119,
+    "sha256": "e65fcdcf41a8c1e6698aa176151b382ab0a4dce5babae8993af262af84cd66dc",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:50.946643+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:50.850956+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 14623,
+    "sha256": "f4f8966555db041e7f8ff0cfb66dba38ee72cc482cd136a09b3b7c90d87b7e51",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T16:10:56.406683+00:00"
+  }
+]

@@ -35,9 +35,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | DJs | Wie gewinnen DJs neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp |
 | Fahrschulen | Wie gewinnen Fahrschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp |
 
-| Friseure | Wie gewinnen Friseure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/friseure-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/friseurin-farbberatung-salon.webp |
-| Barbershops | Wie gewinnen Barbershops neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/barber-bartberatung-kunde.webp |
-| Kosmetikstudios | Wie gewinnen Kosmetikstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp |
+| Friseure | Wie gewinnen Friseure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/friseure-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/friseurin-farbberatung-salon.webp |
+| Barbershops | Wie gewinnen Barbershops neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/barber-bartberatung-kunde.webp |
+| Kosmetikstudios | Wie gewinnen Kosmetikstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -61,3 +61,5 @@ Schlüsseldienste (geprüft 24.11.2026): kein regulärer Google-Ads-Anleitungsra
 Immobilien/Objekt: [Live-Prüfung](2026-11-24-immobilien-objekt/live-check.json), [Veröffentlichung](2026-11-24-immobilien-objekt/veroeffentlichung.md).
 
 Foto/DJ/Fahrschule: [Live-Prüfung](2026-11-24-foto-dj-fahrschule/live-check.json), [Veröffentlichung](2026-11-24-foto-dj-fahrschule/veroeffentlichung.md).
+
+Friseur/Barber/Kosmetik: [Live-Prüfung](2026-11-24-friseur-barber-kosmetik/live-check.json), [Veröffentlichung](2026-11-24-friseur-barber-kosmetik/veroeffentlichung.md).
