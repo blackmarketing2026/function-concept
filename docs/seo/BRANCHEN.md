@@ -27,9 +27,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Autowerkstätten | Wie gewinnen Autowerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #18 | /medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp |
 | Autoaufbereiter | Wie gewinnen Autoaufbereiter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #18 | /medien/ratgeber/autoaufbereitung-innenraum-polster.webp |
 
-| Immobilienmakler | Wie gewinnen Immobilienmakler neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/immobilienmakler-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/immobilienmaklerin-eigentuemer-objektgespraech.webp |
-| Schädlingsbekämpfer | Wie gewinnen Schädlingsbekämpfer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp |
-| Hausmeisterservices | Wie gewinnen Hausmeisterservices neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp |
+| Immobilienmakler | Wie gewinnen Immobilienmakler neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/immobilienmakler-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/immobilienmaklerin-eigentuemer-objektgespraech.webp |
+| Schädlingsbekämpfer | Wie gewinnen Schädlingsbekämpfer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp |
+| Hausmeisterservices | Wie gewinnen Hausmeisterservices neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -49,3 +49,5 @@ Kfz-Branchen: [Live-Prüfung](2026-11-24-kfz/live-check.json), [Veröffentlichun
 
 ## Zurückgestellte Branche
 Schlüsseldienste (geprüft 24.11.2026): kein regulärer Google-Ads-Anleitungsratgeber erstellt. Google lässt entsprechende Anzeigen in Deutschland nicht zu: https://support.google.com/adspolicy/answer/13527633?hl=en . Keine Umgehung über Hausmeisterangebote. Bei künftiger Neubewertung Richtlinie erneut prüfen.
+
+Immobilien/Objekt: [Live-Prüfung](2026-11-24-immobilien-objekt/live-check.json), [Veröffentlichung](2026-11-24-immobilien-objekt/veroeffentlichung.md).
