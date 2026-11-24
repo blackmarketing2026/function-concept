@@ -15,4 +15,4 @@ Ergebnis: **freigabefähig**. Drei neue eigenständige Ratgeber, null überarbei
 Kein Build-Skript vorhanden. Keine visuelle Browser-/Viewport-/Screenshotprüfung laut Auftrag. Kontaktziel und vorhandener Handler geprüft, echter Formular-/SMTP-Versand nicht ausgelöst. Alte /index#leistungen-Anker in unveränderten Teilen der Blogübersichten bleiben dokumentierter Bestand; keine neuen fehlerhaften Anker eingeführt. Keine kritischen Fehler im neuen Paket.
 
 ## Veröffentlichung
-Noch nicht als live bestätigt. Nach GitHub-Checks und Merge Produktionsstatus und öffentliche Bytes separat prüfen, Nachweis anschließend ergänzen. Push allein ist kein Deploymentnachweis.
+Bestätigt live: PR #14 nach erfolgreichen Vercel-/Preview-Checks gemergt. Produktionscommit b3b876cf3335f04cdbf899f7f5e1cd9609fba7ae, Vercel success. live_check.py prüfte elf öffentliche Ressourcen mit HTTP200, kanonischem Endziel und Bytegleichheit; Sitemap enthält alle drei neuen URLs genau einmal. Kontaktseite separat HTTP200/Formular vorhanden. .de und non-www leiteten bei /blog/kategorien auf www.function-concept.com weiter. Nachweis in live-check.json und veroeffentlichung.md.

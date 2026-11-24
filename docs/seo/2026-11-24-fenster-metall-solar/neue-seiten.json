@@ -6,7 +6,7 @@
     "path": "ratgeber/fensterbauer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/fensterbauer-aufmass-fenster.webp",
     "created": "2026-11-24",
-    "status": "geprüft und freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026, HTTP 200; PR #14"
   },
   {
     "branche": "Metallbauer",
@@ -15,7 +15,7 @@
     "path": "ratgeber/metallbauer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/metallbauer-gelaender-werkstatt.webp",
     "created": "2026-11-24",
-    "status": "geprüft und freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026, HTTP 200; PR #14"
   },
   {
     "branche": "Solarteure",
@@ -24,6 +24,6 @@
     "path": "ratgeber/solarteure-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/solarteur-pv-projektberatung.webp",
     "created": "2026-11-24",
-    "status": "geprüft und freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026, HTTP 200; PR #14"
   }
 ]

@@ -16,9 +16,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Maurer | Wie gewinnen Maurer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/maurer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/maurer-mauerwerk-ausrichten.webp |
 | Trockenbauer | Wie gewinnen Trockenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/trockenbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/trockenbauer-trennwand-aufmass.webp |
 | Garten- und Landschaftsbauer | Wie gewinnen Garten- und Landschaftsbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/garten-landschaftsbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #12 | /medien/ratgeber/landschaftsgaertner-gartenweg-einfassung.webp |
-| Fensterbauer | Wie gewinnen Fensterbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fensterbauer-aufmass-fenster.webp |
-| Metallbauer | Wie gewinnen Metallbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/metallbauer-gelaender-werkstatt.webp |
-| Solarteure | Wie gewinnen Solarteure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/solarteur-pv-projektberatung.webp |
+| Fensterbauer | Wie gewinnen Fensterbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/fensterbauer-aufmass-fenster.webp |
+| Metallbauer | Wie gewinnen Metallbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/metallbauer-gelaender-werkstatt.webp |
+| Solarteure | Wie gewinnen Solarteure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/solarteur-pv-projektberatung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -29,3 +29,5 @@ Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](
 Bodenleger/Heizungsbauer/Sanitärbetriebe: [Live-Prüfung](2026-11-24-boden-shk/live-check.json), [Veröffentlichung](2026-11-24-boden-shk/veroeffentlichung.md).
 
 Live-Nachweis Bau/Garten: [HTTP-Protokoll](2026-11-24-bau-garten/live-check.json), [Veröffentlichung](2026-11-24-bau-garten/veroeffentlichung.md).
+
+Fenster/Metall/Solar: [Live-Prüfung](2026-11-24-fenster-metall-solar/live-check.json), [Veröffentlichung](2026-11-24-fenster-metall-solar/veroeffentlichung.md).
