@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/daemmungsunternehmen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/daemmungsunternehmen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17446,
+    "sha256": "e214695cefe2af8b130420bf25125d365232ebb274680145d76039b47f64c312",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:38.195617+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18017,
+    "sha256": "19c2444abbc8891d86f41e674ba82a9a69c693e8c414cab1190fb45b8e4dc24b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:38.718659+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18076,
+    "sha256": "7b2e097389e7d315b4cb1f41746a174751564ea1d33cd48475757b3f5ba997d9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:38.750566+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/daemmung-bestandsaufnahme-dachboden.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/daemmung-bestandsaufnahme-dachboden.webp",
+    "status": 200,
+    "bytes": 120364,
+    "sha256": "c1c133aa23a0cdeae1cf1e43883033e71f1454de6b6a389dd13ced08fd952aec",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:38.251427+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/entruempelung-wohnung-sortierung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/entruempelung-wohnung-sortierung.webp",
+    "status": 200,
+    "bytes": 125568,
+    "sha256": "a1349c8a311bf5df46b3dce2cd4287dce37afc511fff1800264f16f2b13f17a5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:38.271229+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/umzug-moebel-transport-team.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/umzug-moebel-transport-team.webp",
+    "status": 200,
+    "bytes": 217976,
+    "sha256": "cdcde1f7b1cec965a392175a86b60f19b10a836154ca1f5bff90dfc379dffbe8",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:42.691314+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 15365,
+    "sha256": "dba37657746b34276104549f4c56079008eaa0a4bc92ddf114b56c53b93d7f36",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:42.638575+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 21409,
+    "sha256": "b4e053f63082c317743f7e3d725e5478c687d3644f4550afdad5fe9de6008945",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:42.670938+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 19116,
+    "sha256": "fe46dbca90355e5eb8528762ecc87d4a99ca30163696ea473ba9d6c0eebd5512",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:42.671228+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:42.623231+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 12034,
+    "sha256": "08e1e605179230ce726c072dcbe1c3ac0ad720d8515348e9fc00da7c199bd819",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T12:11:47.238837+00:00"
+  }
+]
