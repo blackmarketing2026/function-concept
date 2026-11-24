@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/nagelstudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/nagelstudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17667,
+    "sha256": "3ed9431492dc3e97a43f77bcf6d27de77bfafe1a7595eefc0218016bc6a222a4",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:31.234962+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19726,
+    "sha256": "f165769e32b2750befed42bf8a47059557dad80953b38da559d336b67847a364",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:30.682740+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19045,
+    "sha256": "48c552d1e50ae8b90e334abd5a5d3c53fdd35a9a94161ee67e52fa018836c571",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:30.624670+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/nageldesignerin-farbberatung-studio.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/nageldesignerin-farbberatung-studio.webp",
+    "status": 200,
+    "bytes": 155216,
+    "sha256": "5dae245206e266d8b52ca3d9f5e10d12a2b17bb599b3aeda93e059d57597fe6a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:30.719908+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/haarentfernung-beratung-studio.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/haarentfernung-beratung-studio.webp",
+    "status": 200,
+    "bytes": 118482,
+    "sha256": "8f4f7e9541aaa479909b37396ba9eba18ed283ff969f3b0a4db94faf4dd77c14",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:31.344600+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/wellnessmassage-liege-vorbereitung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/wellnessmassage-liege-vorbereitung.webp",
+    "status": 200,
+    "bytes": 114328,
+    "sha256": "ec5b5c4cb4020d949da1b5b27047bbae2006ff43c9b8277b497e49819efdf206",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:35.578491+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 24685,
+    "sha256": "07575032c823ceed36ca73548adcf68b0ee847f1f4171e5164c51b730253d5b6",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:35.618436+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 27707,
+    "sha256": "15b8290085c085b2a9bc023d755ee07d42bc54e41b6ceb5ff848e6c99cc6c4d0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:35.590532+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 25414,
+    "sha256": "f0e0ca2e7cf05788972f8ef8ba38511a7dcd7e837cdc94c0e90bd41e697be06c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:35.615180+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:35.580030+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 15277,
+    "sha256": "96b198509cb1e22e9e225a5cd17bd76d44e1dd1bd6d024ae88f88a434aaa826c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T17:12:40.558923+00:00"
+  }
+]

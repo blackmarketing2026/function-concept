@@ -39,9 +39,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Barbershops | Wie gewinnen Barbershops neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/barber-bartberatung-kunde.webp |
 | Kosmetikstudios | Wie gewinnen Kosmetikstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #24) | /medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp |
 
-| Nagelstudios | Wie gewinnen Nagelstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/nagelstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/nageldesignerin-farbberatung-studio.webp |
-| Studios für dauerhafte Haarentfernung | Wie gewinnen Studios für dauerhafte Haarentfernung neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/haarentfernung-beratung-studio.webp |
-| Massagestudios | Wie gewinnen Massagestudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/wellnessmassage-liege-vorbereitung.webp |
+| Nagelstudios | Wie gewinnen Nagelstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/nagelstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR26 | /medien/ratgeber/nageldesignerin-farbberatung-studio.webp |
+| Studios für dauerhafte Haarentfernung | Wie gewinnen Studios für dauerhafte Haarentfernung neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/haarentfernungsstudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR26 | /medien/ratgeber/haarentfernung-beratung-studio.webp |
+| Massagestudios | Wie gewinnen Massagestudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/massagestudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR26 | /medien/ratgeber/wellnessmassage-liege-vorbereitung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
