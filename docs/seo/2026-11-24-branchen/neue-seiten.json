@@ -6,7 +6,9 @@
     "path": "ratgeber/tischler-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/tischler-massmoebel-werkstatt.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung noch nicht bestätigt"
+    "status": "bestätigt live am 24.11.2026; HTTP 200, bytegleich zum Repository",
+    "publication_commit": "a85f661fcd9f2b102b381dd407e3b83f8a3242d5",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/8"
   },
   {
     "branche": "Zimmerer",
@@ -15,7 +17,9 @@
     "path": "ratgeber/zimmerer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/zimmerer-holzbau-planung.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung noch nicht bestätigt"
+    "status": "bestätigt live am 24.11.2026; HTTP 200, bytegleich zum Repository",
+    "publication_commit": "a85f661fcd9f2b102b381dd407e3b83f8a3242d5",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/8"
   },
   {
     "branche": "Fliesenleger",
@@ -24,6 +28,8 @@
     "path": "ratgeber/fliesenleger-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/fliesenleger-boden-verlegung.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung noch nicht bestätigt"
+    "status": "bestätigt live am 24.11.2026; HTTP 200, bytegleich zum Repository",
+    "publication_commit": "a85f661fcd9f2b102b381dd407e3b83f8a3242d5",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/8"
   }
 ]

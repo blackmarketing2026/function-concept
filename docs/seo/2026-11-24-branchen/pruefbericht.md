@@ -21,3 +21,6 @@ Keine vollständige externe HTML-Validator-/Barrierefreiheits-/Core-Web-Vitals-P
 
 ## Veröffentlichungsstand bei diesem Commit
 Arbeitsdateien erstellt und geprüft; Push/Merge, Deployment und öffentliche neuen Seiten noch nicht bestätigt. Der nachfolgende Veröffentlichungsnachweis dokumentiert Commit, Checks, Deployment und HTTP-Abgleich getrennt. Kein Erfolgsstatus aus einem bloßen Push abgeleitet.
+
+## Nachprüfung der Veröffentlichung
+PR #8 nach erfolgreichen Vercel-/Check-Ergebnissen gemergt, Produktionscommit a85f661fcd9f2b102b381dd407e3b83f8a3242d5. Vercel meldet success. Erster HTTP-Abruf direkt nach Merge noch 404 während des Deployments; nach erfolgreichem Deployment vollständig wiederholt. Alle elf Ressourcen HTTP 200 und bytegleich, vier neue URLs in Live-Sitemap jeweils einmal enthalten. Details in live-check.json und veroeffentlichung.md. Ergebnis weiterhin freigabefähig, drei neue Ratgeber bestätigt veröffentlicht.

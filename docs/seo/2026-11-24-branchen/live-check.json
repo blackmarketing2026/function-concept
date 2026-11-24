@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/tischler-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/tischler-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19432,
+    "sha256": "25f6eccb27bef88e7e63c7e17fb55d4dc006473881a94d2360bd8fdb61a09b6c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:48.591557+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/zimmerer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/zimmerer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19923,
+    "sha256": "b0dbd1c5f7965624b6444687f86958d555e3e31b30662e9d7a7ad3ef0a951be5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:48.590778+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/fliesenleger-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fliesenleger-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 20115,
+    "sha256": "7e323f5c2615b51517cb02dcf51a5735c402fc7834f1ab99fbeddffbf771239f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:48.618804+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/tischler-massmoebel-werkstatt.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/tischler-massmoebel-werkstatt.webp",
+    "status": 200,
+    "bytes": 156326,
+    "sha256": "2b68e2127e3f3578e2730fdfb381dc6e64669f6343367e4df8ec2379f7bdd022",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:48.611539+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/zimmerer-holzbau-planung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/zimmerer-holzbau-planung.webp",
+    "status": 200,
+    "bytes": 199478,
+    "sha256": "580d2fab4f3e89c29ffa98daf4ba2bd71bbacbf96e1f0cf8d6073b71c3ab2777",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:48.823160+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fliesenleger-boden-verlegung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fliesenleger-boden-verlegung.webp",
+    "status": 200,
+    "bytes": 114408,
+    "sha256": "f90d9663b8d28f181168200812260f8f9cab2f570dce52095f5e4447ee0371fc",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:52.202773+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 7936,
+    "sha256": "40b2845f51850e91a5c48434fbfceef71e285c2b29ab183b0d1eac2c441d0c5d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:52.235712+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 16398,
+    "sha256": "7cceb9b31b5297436f84784490706729f6b579631a4474828c3d52b3a0399bed",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:52.235419+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 14105,
+    "sha256": "7eb2fd9f878acf29dcf353b19e4d6197a9548651b1c816b0b78978683c7f8ad7",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:52.235571+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:52.189303+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 9435,
+    "sha256": "2b1efeaaa4c5f09a834a07097af098645f3904f39cad70decb4f3101a88e55b9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T08:14:57.403370+00:00"
+  }
+]
