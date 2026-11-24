@@ -31,9 +31,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Schädlingsbekämpfer | Wie gewinnen Schädlingsbekämpfer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp |
 | Hausmeisterservices | Wie gewinnen Hausmeisterservices neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp |
 
-| Fotografen | Wie gewinnen Fotografen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fotografen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fotografin-portraetstudio-shooting.webp |
-| DJs | Wie gewinnen DJs neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp |
-| Fahrschulen | Wie gewinnen Fahrschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp |
+| Fotografen | Wie gewinnen Fotografen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fotografen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/fotografin-portraetstudio-shooting.webp |
+| DJs | Wie gewinnen DJs neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp |
+| Fahrschulen | Wie gewinnen Fahrschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -55,3 +55,5 @@ Kfz-Branchen: [Live-Prüfung](2026-11-24-kfz/live-check.json), [Veröffentlichun
 Schlüsseldienste (geprüft 24.11.2026): kein regulärer Google-Ads-Anleitungsratgeber erstellt. Google lässt entsprechende Anzeigen in Deutschland nicht zu: https://support.google.com/adspolicy/answer/13527633?hl=en . Keine Umgehung über Hausmeisterangebote. Bei künftiger Neubewertung Richtlinie erneut prüfen.
 
 Immobilien/Objekt: [Live-Prüfung](2026-11-24-immobilien-objekt/live-check.json), [Veröffentlichung](2026-11-24-immobilien-objekt/veroeffentlichung.md).
+
+Foto/DJ/Fahrschule: [Live-Prüfung](2026-11-24-foto-dj-fahrschule/live-check.json), [Veröffentlichung](2026-11-24-foto-dj-fahrschule/veroeffentlichung.md).

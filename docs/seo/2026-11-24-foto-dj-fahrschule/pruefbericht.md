@@ -1,6 +1,6 @@
 # Qualitätsprüfung – 24.11.2026
 
-Status: **freigabefähig** für drei neue Ratgeber, drei Bilder, drei ergänzte redaktionelle Übersichten und drei Sitemap-URLs. Veröffentlichung noch ausstehend.
+Status: **freigabefähig** für drei neue Ratgeber, drei Bilder, drei ergänzte redaktionelle Übersichten und drei Sitemap-URLs. Veröffentlichung nach Merge von PR #22 bestätigt.
 
 ## Tatsächlich ausgeführt
 - Recherche vor Umsetzung gespeichert; aktueller main ee16b95ad6b844fa3d25895a4516146c4691196b, keine offenen PRs; neue Branchen gegen tatsächlichen Bestand geprüft.
@@ -19,3 +19,6 @@ Keine visuelle Website-/Browser-/Viewport-Prüfung gemäß Auftrag. Kein echter 
 
 ## Zählung
 3 neue Ratgeber, 0 überarbeitete bestehende Ratgeber, 3 neue Bilder. Separat 3 ergänzte Übersichten. Keine geschützten URLs entfernt. Nächste Kandidaten: Friseure, Barbershops, Kosmetikstudios – vor nächster Umsetzung auf Überschneidungen prüfen.
+
+## Produktionsnachweis
+Vercel meldet success für Merge 47cfa40c0d27ba5fbf0b860f18e415e2c1358a8c. live_check.py erfolgreich: 11 öffentliche Ressourcen mit HTTP 200, erwarteter finaler URL und bytegleichem Inhalt zum Repository. Neue Sitemap-URLs jeweils genau einmal. Alle drei Titel zusätzlich gegen sämtliche Repository-HTML-Titel geprüft: keine Duplikate. Keine Google-Einreichung oder Indexierung behauptet. Vollständige Ergebnisse in live-check.json und veroeffentlichung.md.
