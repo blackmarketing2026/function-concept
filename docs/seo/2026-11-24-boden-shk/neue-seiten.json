@@ -6,7 +6,9 @@
     "path": "ratgeber/bodenleger-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/bodenleger-laminat-verlegung.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026; HTTP 200, bytegleich",
+    "publication_commit": "a839565c79ddd383a23eb200e7c5a48f972d1952",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/10"
   },
   {
     "branche": "Heizungsbauer",
@@ -15,7 +17,9 @@
     "path": "ratgeber/heizungsbauer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/heizungsbauer-waermepumpe-bestandsaufnahme.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026; HTTP 200, bytegleich",
+    "publication_commit": "a839565c79ddd383a23eb200e7c5a48f972d1952",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/10"
   },
   {
     "branche": "Sanitärbetriebe",
@@ -24,6 +28,8 @@
     "path": "ratgeber/sanitaerbetriebe-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/sanitaerbetrieb-waschtisch-montage.webp",
     "created": "2026-11-24",
-    "status": "freigabefähig; Veröffentlichung ausstehend"
+    "status": "bestätigt live 24.11.2026; HTTP 200, bytegleich",
+    "publication_commit": "a839565c79ddd383a23eb200e7c5a48f972d1952",
+    "pr": "https://github.com/blackmarketing2026/function-concept/pull/10"
   }
 ]

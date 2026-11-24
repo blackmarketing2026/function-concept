@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/bodenleger-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/bodenleger-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19433,
+    "sha256": "99a95f7ec4cbfb8b95b15e0bb4c0d160adc1023c321768784c5fd142e238c645",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:47.998523+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/heizungsbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/heizungsbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19767,
+    "sha256": "877e119cf1bf233b698af5539cbacf9dbb1c46f4a6b9dd2bec9234803613b8eb",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:47.703605+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/sanitaerbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/sanitaerbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 20277,
+    "sha256": "1b0c655ea45a0514c25e873e64382a3cdf6a58058e199385ac44db76f4d597bd",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:47.995179+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/bodenleger-laminat-verlegung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/bodenleger-laminat-verlegung.webp",
+    "status": 200,
+    "bytes": 135444,
+    "sha256": "5efcc92c912d4a6d4753e23451fd0b33efd69e4c794c7918ea44ed608d59ea5a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:48.034175+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/heizungsbauer-waermepumpe-bestandsaufnahme.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/heizungsbauer-waermepumpe-bestandsaufnahme.webp",
+    "status": 200,
+    "bytes": 176476,
+    "sha256": "8a36448009358c42e75baa646404947e5c9c0f4e39663284f16a472d645f5eb9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:48.222946+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/sanitaerbetrieb-waschtisch-montage.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/sanitaerbetrieb-waschtisch-montage.webp",
+    "status": 200,
+    "bytes": 94348,
+    "sha256": "990d40b0618af18db6c4b76b4b5c6ee23e0e86b8eb88e2ad4403769add2170bd",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:56.598590+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 9781,
+    "sha256": "6a09943f541dcd97cc3201c5cb351017c9098a4c3419916c43181fc1af8fb1f5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:56.570830+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 17650,
+    "sha256": "667952193dbff98510d5d276ecb6bfaabcb62be25cbc2f9567bbf48d081928c5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:56.526598+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 15357,
+    "sha256": "73e6ab5f7aeb3b3fceac5d487e387fac127885c01f3009753fc7092668133818",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:56.578464+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:14:56.570727+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 10080,
+    "sha256": "989f77d40ac2e7864e9ef3b6b3442869e5d4fdde176f3f9984d095bb8e785051",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T09:15:05.582814+00:00"
+  }
+]
