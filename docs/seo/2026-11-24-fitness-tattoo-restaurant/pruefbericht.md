@@ -18,4 +18,4 @@ Basis ddbc833d98a45503ef7f2b5a2da7eb6083161f16. Briefing vor Erstellung gespeich
 Unveränderte Blogübersichten enthalten bereits /index#leistungen ohne passenden Anker auf der geschützten Startseite. Keine neuen Artikel verwenden diesen Link; Schutz eingehalten. Keine GSC/OpenSEO-Daten, keine Kausalitäts- oder Indexierungsbehauptung. Zeitplan/Automationen unverändert.
 
 ## Veröffentlichung
-Noch ausstehend; nach Merge Deploymentstatus und elf öffentliche Ressourcen prüfen und Nachweis sichern.
+PR28 gemergt, Vercel-Produktion erfolgreich. Elf öffentliche Ressourcen liefern HTTP200 mit korrekter finaler URL und bytegleichem Inhalt. Alle neuen Sitemap-URLs genau einmal. Siehe live-check.json und veroeffentlichung.md.

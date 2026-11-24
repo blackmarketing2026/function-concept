@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/fitnessstudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fitnessstudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17476,
+    "sha256": "08d4a0320ee8c3957b0680c80cd836e1598d47fb292af9a77baa9b70bce4cb94",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:29.438672+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/tattoostudios-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/tattoostudios-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17529,
+    "sha256": "c9a4004dc54c49d6351e7c4962678410d032c7593c8a32046a6237737ba9e36f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:29.019351+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/restaurants-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/restaurants-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18091,
+    "sha256": "e956f95fc9961fdd13aa56a7cf746263bd5f7e7c28aaa92e24b9b488e1f4d014",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:29.478845+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fitnessstudio-trainer-erstbesuch.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fitnessstudio-trainer-erstbesuch.webp",
+    "status": 200,
+    "bytes": 120300,
+    "sha256": "e88b41b32cbaededa6ac72dac8303cee8516c7b8b233a3ff91cc96938e481552",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:29.231921+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/tattooartist-motivberatung-studio.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/tattooartist-motivberatung-studio.webp",
+    "status": 200,
+    "bytes": 122648,
+    "sha256": "f2c8ceadd86c1293db428820349d7169ae79c43d8f5239b0473955390647df33",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:29.278920+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/restaurant-service-tisch-vorbereitung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/restaurant-service-tisch-vorbereitung.webp",
+    "status": 200,
+    "bytes": 123688,
+    "sha256": "7dbd824085e8abbfcda3769070c4c6bb5849c0ce29b0889477c6e2617cd1860d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:34.899421+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 26520,
+    "sha256": "5dd029f981ab91e37117e05cf471c26bcff175cf87653322ae8e373b31811552",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:34.806410+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 28950,
+    "sha256": "2d8bf7b527de958767a26ff51d2d54807f28533e27b2b73d8a36084c442f4776",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:34.798603+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 26657,
+    "sha256": "769ed35290e64f9ed15c3d2f571a58e1354020dc0268f6c1b7747310578fee0c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:34.846698+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:34.809518+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 15921,
+    "sha256": "b8ce5692ae2ae22ff76c01580cab36e98e06d420e8a2fea47ade134d0d28a8da",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T18:10:40.515103+00:00"
+  }
+]
