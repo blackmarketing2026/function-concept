@@ -59,9 +59,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Cateringbetriebe | Wie gewinnen Cateringbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/cateringbetriebe-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR34 | /medien/ratgeber/catering-service-buffet-vorbereitung.webp |
 | Textilreinigungen | Wie gewinnen Textilreinigungen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/textilreinigungen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR34 | /medien/ratgeber/textilreinigung-jackett-annahme-pruefung.webp |
 
+| Änderungsschneidereien | Wie gewinnen Änderungsschneidereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/aenderungsschneidereien-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/schneiderin-hosensaum-atelier.webp |
+| Küchenstudios | Wie gewinnen Küchenstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kuechenstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/kuechenberater-materialmuster-ausstellung.webp |
+| Raumausstatter | Wie gewinnen Raumausstatter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/raumausstatter-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/raumausstatterin-gardinen-stoffberatung.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Änderungsschneidereien, Küchenstudios, Raumausstatter. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Teppichreinigungen, Steinmetzbetriebe, Rollladen- und Sonnenschutzbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
