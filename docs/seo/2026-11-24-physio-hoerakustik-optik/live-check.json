@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/physiotherapiepraxen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/physiotherapiepraxen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18017,
+    "sha256": "b10f5daa57ce4be89d488f89dc69e16a085dec817001ccaba4965bab5b6146e0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:53.614560+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/hoerakustiker-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/hoerakustiker-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17890,
+    "sha256": "aa691fa8d394aa7ddeb7474291ac4117952028df08895e29f8839590a51985f0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:53.606713+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/optiker-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/optiker-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17960,
+    "sha256": "1afe703825a54c7274d07027aee82902c366046538c1455d5a5e0498ba805fcd",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:53.586803+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/physiotherapie-erstgespraech-praxis.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/physiotherapie-erstgespraech-praxis.webp",
+    "status": 200,
+    "bytes": 144334,
+    "sha256": "21d8cbdd1a753071c009241793bd13ce8d63fa599df0745e015ffdc8f524798e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:53.594740+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/hoerakustik-hoersystem-beratung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/hoerakustik-hoersystem-beratung.webp",
+    "status": 200,
+    "bytes": 99370,
+    "sha256": "17dfa073bec7c7874ef935a5836bd121e98f3f4a894cfd896d74eaf425c0590f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:53.571212+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/optikerin-brillenfassung-beratung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/optikerin-brillenfassung-beratung.webp",
+    "status": 200,
+    "bytes": 99500,
+    "sha256": "a882ee24f28558a816adb392ed08eb8fe16ec396c2e9539eeb6936d0e9c20684",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:58.550912+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 28377,
+    "sha256": "4af371e6867b56d7dc7a6b80842206c05130b3715a85e037d4b1fc7d6f8d67a1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:58.522762+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 30211,
+    "sha256": "333d1729d2942a3e802e88596256f8ce6fbecbae5e1ea8dc1583df6c8b3cf65d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:58.506619+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 27918,
+    "sha256": "72687e2c02a74d7d40c7bc4e5ee85dc753cc749e76610587ea48730c96efa6e0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:58.491100+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:09:58.442683+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 16567,
+    "sha256": "afe3efe30aed132f3163a8845f50910eb60e998420100bf5359bdb267a39dbe7",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T19:10:03.542897+00:00"
+  }
+]

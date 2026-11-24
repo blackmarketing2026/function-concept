@@ -18,4 +18,4 @@ Basis6cc3f0947cbfa5ea426467033fdc11a3d69cb1c5. Vollständiges Briefing vor Umset
 Unveränderte /index#leistungen-Links in drei bestehenden Blogübersichten haben keinen Zielanker auf der geschützten Startseite. Nicht verändert und in neuen Artikeln nicht ergänzt. Kein OpenSEO/GSC, keine Wirkung/Indexierung behauptet. Zeitplan unverändert.
 
 ## Veröffentlichung
-Noch ausstehend. Nach Merge Deploymentstatus und elf öffentliche Ressourcen prüfen; tatsächliche Ergebnisse separat sichern.
+PR30 gemergt, Vercel-Produktion erfolgreich. Elf öffentliche Ressourcen HTTP200, korrekte finale URLs und bytegleiche Inhalte. Drei neue Sitemap-URLs genau einmal. Siehe live-check.json und veroeffentlichung.md.

@@ -47,9 +47,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Tattoostudios | Wie gewinnen Tattoostudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/tattoostudios-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR28 | /medien/ratgeber/tattooartist-motivberatung-studio.webp |
 | Restaurants | Wie gewinnen Restaurants neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/restaurants-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR28 | /medien/ratgeber/restaurant-service-tisch-vorbereitung.webp |
 
-| Physiotherapiepraxen | Wie gewinnen Physiotherapiepraxen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/physiotherapiepraxen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/physiotherapie-erstgespraech-praxis.webp |
-| Hörakustiker | Wie gewinnen Hörakustiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hoerakustiker-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/hoerakustik-hoersystem-beratung.webp |
-| Optiker | Wie gewinnen Optiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/optiker-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/optikerin-brillenfassung-beratung.webp |
+| Physiotherapiepraxen | Wie gewinnen Physiotherapiepraxen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/physiotherapiepraxen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR30 | /medien/ratgeber/physiotherapie-erstgespraech-praxis.webp |
+| Hörakustiker | Wie gewinnen Hörakustiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hoerakustiker-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR30 | /medien/ratgeber/hoerakustik-hoersystem-beratung.webp |
+| Optiker | Wie gewinnen Optiker neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/optiker-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR30 | /medien/ratgeber/optikerin-brillenfassung-beratung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
