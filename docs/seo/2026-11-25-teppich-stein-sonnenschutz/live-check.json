@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/teppichreinigungen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/teppichreinigungen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18053,
+    "sha256": "8646c33217961e9bd751abb02e4195b2a098759143ce6265806755be620d862f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:00.918605+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/steinmetzbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/steinmetzbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18475,
+    "sha256": "e57a14d82fc174dc3cef9aae1f1aa49689661e33d1e93377b19a40b43317cab2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:00.910532+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/rollladen-sonnenschutzbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/rollladen-sonnenschutzbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18741,
+    "sha256": "da641286199fce69277867d5cae08b53622115c10bb2874aae8fcc007a81605e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:00.822797+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/teppichreinigung-annahme-materialpruefung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/teppichreinigung-annahme-materialpruefung.webp",
+    "status": 200,
+    "bytes": 227298,
+    "sha256": "f27f86177192e1837c784bdd807b9080751714d4c6bdb694ebfe8b23e60911e5",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:00.923127+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/steinmetz-naturstein-muster-werkbank.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/steinmetz-naturstein-muster-werkbank.webp",
+    "status": 200,
+    "bytes": 203190,
+    "sha256": "e10d1796e26d77408c009d464ec52c5b6d5eb67e4449ffd8e0b2c2712741c09f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:00.902880+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/sonnenschutzberaterin-rollladen-ausstellung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/sonnenschutzberaterin-rollladen-ausstellung.webp",
+    "status": 200,
+    "bytes": 125046,
+    "sha256": "b69fd58206a0e05ad358ce513cce0694a96f0ed07db046063c3644f60e21269f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:05.874956+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 35994,
+    "sha256": "8b21f1de5ae0f6fd77faf2ad9502cf07fe421f371316e7b855db1b5e7fe3a089",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:05.882885+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 35329,
+    "sha256": "109f06927e6f75ac0e0f6eb1eb4ae3d9bfe37d3aa19f00eca43c0e9e529281de",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:05.862722+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 33036,
+    "sha256": "d13d194a5380b24ab1ee0cffb2f2094898fca4eff5f5d1901f6f9b9bb662d6c8",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:05.875895+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:05.870632+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 19206,
+    "sha256": "4dedbe22d2f1a81e75d102fd8fa5f198ccf0f225658129ee278f70f352db5347",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T23:13:10.963422+00:00"
+  }
+]
