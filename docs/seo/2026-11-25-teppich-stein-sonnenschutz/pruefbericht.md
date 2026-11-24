@@ -1,6 +1,6 @@
 # Qualitätsprüfung – 25.11.2026
 
-Ergebnis: freigabefähig; öffentliche Veröffentlichung noch ausstehend.
+Ergebnis: bestanden und bestätigt veröffentlicht.
 
 Drei neue Ratgeber, null bestehende Ratgeber überarbeitet, drei redaktionelle Übersichten ergänzt. Teppich1231, Stein1301, Sonnenschutz1320 Wörter im Hauptbereich einschließlich Quellen/Navigation. Je12Keyword-Vorschläge und6FAQs. Eigenständige Schwerpunkte: Annahme/Abholung/Material, Natursteinbauteile/Aufmaß, Reparatur/Nachrüstung/Montage. Fachquellen im Briefing und Artikel verlinkt; keine Zahlen zu Nachfrage/Klickpreisen/Erfolg erfunden. Fachliche Aussagen und Sprache redaktionell geprüft; keine Montage-/Reinigungsanleitung oder Garantie.
 
@@ -16,4 +16,4 @@ Tatsächlich ausgeführt:
 
 Bekannte unveränderte Einschränkung: /index#leistungen in drei Blogübersichten verweist auf fehlenden Anker der geschützten Zielseite. Nicht durch dieses Paket verursacht, nicht verändert. Alle neuen Inhalts-/CTA-Links gültig.
 
-VorPush/Merge aktuellesmain prüfen; anschließend Deployment und11öffentliche Ressourcen perHTTP/Bytevergleich validieren. Keine OpenSEO-/Automationsänderungen.
+Aktueller main vor Push/Merge unverändert geprüft. Vercel-Produktion erfolgreich für d354c59de681d9bce10a336ddeed3345db9f6c04. live_check.py erfolgreich: elf öffentliche Ressourcen HTTP200, finaleURLs korrekt und bytegleich; Sitemap enthält alle drei neuen URLs genau einmal. Rohprotokoll live-check.json. Keine OpenSEO-/Automationsänderungen.
