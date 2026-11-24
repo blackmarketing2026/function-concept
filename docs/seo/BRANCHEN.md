@@ -19,9 +19,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Fensterbauer | Wie gewinnen Fensterbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/fensterbauer-aufmass-fenster.webp |
 | Metallbauer | Wie gewinnen Metallbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/metallbauer-gelaender-werkstatt.webp |
 | Solarteure | Wie gewinnen Solarteure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/solarteur-pv-projektberatung.webp |
-| Dämmungsunternehmen | Wie gewinnen Dämmungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/daemmungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/daemmung-bestandsaufnahme-dachboden.webp |
-| Entrümpelungsunternehmen | Wie gewinnen Entrümpelungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/entruempelung-wohnung-sortierung.webp |
-| Umzugsunternehmen | Wie gewinnen Umzugsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/umzug-moebel-transport-team.webp |
+| Dämmungsunternehmen | Wie gewinnen Dämmungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/daemmungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/daemmung-bestandsaufnahme-dachboden.webp |
+| Entrümpelungsunternehmen | Wie gewinnen Entrümpelungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/entruempelung-wohnung-sortierung.webp |
+| Umzugsunternehmen | Wie gewinnen Umzugsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/umzug-moebel-transport-team.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -34,3 +34,5 @@ Bodenleger/Heizungsbauer/Sanitärbetriebe: [Live-Prüfung](2026-11-24-boden-shk/
 Live-Nachweis Bau/Garten: [HTTP-Protokoll](2026-11-24-bau-garten/live-check.json), [Veröffentlichung](2026-11-24-bau-garten/veroeffentlichung.md).
 
 Fenster/Metall/Solar: [Live-Prüfung](2026-11-24-fenster-metall-solar/live-check.json), [Veröffentlichung](2026-11-24-fenster-metall-solar/veroeffentlichung.md).
+
+Dämmung/Räumung/Umzug: [Live-Prüfung](2026-11-24-daemmung-raeumung-umzug/live-check.json), [Veröffentlichung](2026-11-24-daemmung-raeumung-umzug/veroeffentlichung.md).
