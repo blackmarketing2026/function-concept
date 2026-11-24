@@ -1,6 +1,6 @@
 # Qualitätsprüfung – 24.11.2026
 
-Ergebnis: freigabefähig für Veröffentlichung; Live-Nachweis noch ausstehend.
+Ergebnis: bestanden und bestätigt veröffentlicht.
 
 - Drei neue eigenständige Ratgeber, null bestehende Ratgeber überarbeitet; drei redaktionelle Übersichten ergänzt.
 - Fakten anhand im Briefing dokumentierter Primärquellen geprüft. Fachleistungen knapp eingeordnet, Kampagnenempfehlungen als redaktionelle Ableitungen. Keine erfundenen Volumina/Erfolge. Schneiderei-Rechnung ausdrücklich hypothetisch.
@@ -14,4 +14,4 @@ Ergebnis: freigabefähig für Veröffentlichung; Live-Nachweis noch ausstehend.
 - Kontaktseite öffentlich HTTP200, Formular-ID kontaktForm vorhanden; keine Testnachricht und kein Nachweis des Mailversands.
 - Bekannter unveränderter /index#leistungen-Anker in drei Blogübersichten verweist auf fehlenden Anker der geschützten Zielseite. Nicht durch dieses Paket eingeführt, nicht geändert; neue CTA- und Inhaltslinks gültig.
 
-Deployment und öffentliche Byte-/Sitemapprüfung folgen nach Merge. Keine OpenSEO-Nutzung; keine Automationen/Schedules geändert.
+Vercel-Produktion erfolgreich für Merge aa299f692661476830298dec5968359041e3a4e1. live_check.py erfolgreich: elf öffentliche Ressourcen HTTP200, exakt erwartete finale URLs und bytegleich; Sitemap enthält alle drei neuen URLs genau einmal. Rohprotokoll in live-check.json. Keine OpenSEO-Nutzung; keine Automationen/Schedules geändert.
