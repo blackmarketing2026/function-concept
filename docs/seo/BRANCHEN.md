@@ -31,9 +31,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Schädlingsbekämpfer | Wie gewinnen Schädlingsbekämpfer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp |
 | Hausmeisterservices | Wie gewinnen Hausmeisterservices neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #20 | /medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp |
 
+| Fotografen | Wie gewinnen Fotografen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fotografen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fotografin-portraetstudio-shooting.webp |
+| DJs | Wie gewinnen DJs neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp |
+| Fahrschulen | Wie gewinnen Fahrschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Fotografen, DJs, Fahrschulen. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Friseure, Barbershops, Kosmetikstudios. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
