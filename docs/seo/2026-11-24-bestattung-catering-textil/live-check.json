@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/bestattungsunternehmen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/bestattungsunternehmen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18900,
+    "sha256": "73c98237cf70a9416129727474069fe494a0eda1d13981d9c596757a5175b6d0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:10:59.762546+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/cateringbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/cateringbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18144,
+    "sha256": "39afb0f767db4c8d64f96c3827f03262b1e500d933c52d3894a32cfc3c4bab38",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:10:59.810325+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/textilreinigungen-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/textilreinigungen-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18086,
+    "sha256": "4d870d7e5422f5d50fc61477f19a4e8afa8c1d9bd266af354d1192a971fabea6",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:10:59.717196+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/bestattungshaus-berater-gespraechsraum.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/bestattungshaus-berater-gespraechsraum.webp",
+    "status": 200,
+    "bytes": 105616,
+    "sha256": "af9eea2da7665d9af0d908c732bf58d9efa783bf20b1baa8f75813bc04ceba74",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:10:59.990386+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/catering-service-buffet-vorbereitung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/catering-service-buffet-vorbereitung.webp",
+    "status": 200,
+    "bytes": 158384,
+    "sha256": "da0aca2fc82f35fb13ceb9ba20dcb7d61b72991fc4cf2d7faed996d5e725ed10",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:00.259976+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/textilreinigung-jackett-annahme-pruefung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/textilreinigung-jackett-annahme-pruefung.webp",
+    "status": 200,
+    "bytes": 95946,
+    "sha256": "1b06888430444a7c22b0262b7fa8fc38d3eb3f3d2303a1883329e4fed900f533",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:05.370791+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 32132,
+    "sha256": "43708f0ef225686b9282315b4c94a10037a08b02f9fd46412d3fe5ff3bdd30ab",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:05.302585+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 32736,
+    "sha256": "3b7e9e319cbe3e3b3067ec3259d837e82c77d096208c93ece1b72de2ae7e4e02",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:05.403357+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 30443,
+    "sha256": "33d337ba9670ac541f22ca42daa76d6ff268335e9a310ff180f3f27d48997bdb",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:05.315198+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:05.358822+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 17878,
+    "sha256": "dfbf6df37f2619d97139f82fcfb46fcfa5696a9840b0fcdcd4fe300e61107f0c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T21:11:10.194701+00:00"
+  }
+]

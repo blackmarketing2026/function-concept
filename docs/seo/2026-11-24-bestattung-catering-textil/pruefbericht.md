@@ -10,5 +10,5 @@ Basis a55ed718705f4ac5b7e279c49a92692393b23146. Vollständiges Briefing vor Erst
 - node --check für script.js,page.js,api/kontakt.js,api/_email-template.js bestanden. package.json enthält kein Build-/Testscript. git diff --check bestanden.
 - /ratgeber und /kontakt öffentlichHTTP200 unter erwarteter .com-URL; Ratgeber-Canonical korrekt, kontaktForm-Anker vorhanden. Kein Versandtest, keine Nachrichten an Dritte.
 - Bekannter bestehender /index#leistungen-Anker in drei Blogübersichten unverändert; geschütztes Ziel nicht geändert. Neue Ratgeber verwenden ihn nicht.
-- Veröffentlichung/Deployment/Livetest ausstehend. Keine OpenSEO-Nutzung, keine Automations-/Zeitplanänderung; keine Indexierungsbehauptung.
+- PR34 gemergt, Vercel-Produktion erfolgreich. live_check.py bestanden:11 öffentliche Ressourcen HTTP200, korrekte finale URLs und bytegleich zum Repository; drei neue Sitemap-URLs jeweils einmal. Nachweise in live-check.json/veroeffentlichung.md. Keine OpenSEO-Nutzung, keine Automations-/Zeitplanänderung; keine Indexierungsbehauptung.
 - Nächste Kandidaten Änderungsschneidereien/Küchenstudios/Raumausstatter: aktuelle Volltextsuche ohne eigene Ratgeber, nächstes Mal erneut prüfen.

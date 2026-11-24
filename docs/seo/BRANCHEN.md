@@ -55,9 +55,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Hundeschulen | Wie gewinnen Hundeschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/hundeschulen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR32 | /medien/ratgeber/hundeschule-trainerin-halter-beratung.webp |
 | Fahrradwerkstätten | Wie gewinnen Fahrradwerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrradwerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR32 | /medien/ratgeber/fahrradwerkstatt-reparaturannahme-beratung.webp |
 
-| Bestattungsunternehmen | Wie gewinnen Bestattungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/bestattungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/bestattungshaus-berater-gespraechsraum.webp |
-| Cateringbetriebe | Wie gewinnen Cateringbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/cateringbetriebe-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/catering-service-buffet-vorbereitung.webp |
-| Textilreinigungen | Wie gewinnen Textilreinigungen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/textilreinigungen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/textilreinigung-jackett-annahme-pruefung.webp |
+| Bestattungsunternehmen | Wie gewinnen Bestattungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/bestattungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR34 | /medien/ratgeber/bestattungshaus-berater-gespraechsraum.webp |
+| Cateringbetriebe | Wie gewinnen Cateringbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/cateringbetriebe-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR34 | /medien/ratgeber/catering-service-buffet-vorbereitung.webp |
+| Textilreinigungen | Wie gewinnen Textilreinigungen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/textilreinigungen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026; PR34 | /medien/ratgeber/textilreinigung-jackett-annahme-pruefung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
