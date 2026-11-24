@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18197,
+    "sha256": "1d6b2da3dd0157d773daac99fefbe5259ec9de60916ec6dd48f37dad5a89bffa",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:45.679459+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18577,
+    "sha256": "f2fa84d6992088a7373c1068dbb524eaab7cd7b14412a26a0d09ae03ef28f9ae",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:45.678977+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19635,
+    "sha256": "7c555d44a1c5bb34f32e3de060e874ad0977984b01aa116cfcd9aa337a07daf4",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:46.183833+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fensterbauer-aufmass-fenster.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fensterbauer-aufmass-fenster.webp",
+    "status": 200,
+    "bytes": 79268,
+    "sha256": "6c619bcb71880c69e03061886f1814f212f41b0ace7dadc76a68dc9937a2f4d2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:46.141722+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/metallbauer-gelaender-werkstatt.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/metallbauer-gelaender-werkstatt.webp",
+    "status": 200,
+    "bytes": 120154,
+    "sha256": "1d7f6cf4b80c35309b10219ca10d661ef801f2c8e0bdd7e4780edc5ca6ea1134",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:45.671543+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/solarteur-pv-projektberatung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/solarteur-pv-projektberatung.webp",
+    "status": 200,
+    "bytes": 212838,
+    "sha256": "aeb4aad2a5531bb8f9ff6d272a2e6442c2e32d5f6138b6929de42ea7abfc3684",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:51.123075+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 13444,
+    "sha256": "7568729ac49ae2bed87e26fd8cdce3046d57f63ae33d00c325626cd697df01af",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:50.770722+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 20128,
+    "sha256": "bd55099aad966b6bba1f1de623a07be90a9b704d1acefd365e8e74c6240b2d9c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:50.786602+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 17835,
+    "sha256": "705065f824978b110d225eb30859f3a0194822572e1466af9f4eed23d91aacd3",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:50.790469+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:50.742691+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 11366,
+    "sha256": "bd6926b0db2745b15fd6c6853d79f7ae76314100975b876a9695bcfeeaef157d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T11:10:55.635232+00:00"
+  }
+]
