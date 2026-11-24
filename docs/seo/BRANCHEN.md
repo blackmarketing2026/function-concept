@@ -35,9 +35,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | DJs | Wie gewinnen DJs neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/djs-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/dj-eventtechnik-hochzeitslocation.webp |
 | Fahrschulen | Wie gewinnen Fahrschulen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrschulen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live am 24.11.2026 (PR #22) | /medien/ratgeber/fahrlehrerin-fahrschueler-vorgespraech.webp |
 
+| Friseure | Wie gewinnen Friseure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/friseure-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/friseurin-farbberatung-salon.webp |
+| Barbershops | Wie gewinnen Barbershops neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/barbershops-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/barber-bartberatung-kunde.webp |
+| Kosmetikstudios | Wie gewinnen Kosmetikstudios neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kosmetikstudios-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/kosmetikerin-pflegeberatung-studio.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Friseure, Barbershops, Kosmetikstudios. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Nagelstudios, Studios für dauerhafte Haarentfernung, Massagestudios. Beauty-Salons vorab auf Überschneidung mit Kosmetikstudios prüfen. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
