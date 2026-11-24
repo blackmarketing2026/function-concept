@@ -16,4 +16,4 @@ Ergebnis: **freigabefähig**. Drei neue Ratgeber, keine Bestandsratgeber überar
 Statisches Projekt ohne Buildskript. Keine visuelle Webseiten-/Screenshot-/Viewportprüfung laut Auftrag. Kein tatsächlicher Formular-/SMTP-Versand. Alte unveränderte /index#leistungen-Anker in Blognavigationen dokumentiert; keine neuen Links dieser Art. UBA-Direktabruf403, deshalb DSV als gelesene Branchenquelle genutzt.
 
 ## Veröffentlichung
-Noch nicht bestätigt. GitHub-Checks, Produktionsdeployment und HTTP-Inhalt/Sitemap werden gesondert nachgewiesen. Push allein ist kein Live-Nachweis.
+Bestätigt live am 24.11.2026. PR #20 nach erfolgreichen Vercel-Checks gemergt. Produktionsdeployment erfolgreich. Elf öffentliche Ressourcen HTTP200, finale URLs korrekt und bytegleich zum Repository; drei neue Sitemap-URLs jeweils genau einmal. Kontaktseite HTTP200 und kontaktForm vorhanden. Details in live-check.json und veroeffentlichung.md.

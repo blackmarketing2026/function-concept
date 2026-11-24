@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/immobilienmakler-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/immobilienmakler-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18692,
+    "sha256": "1c35069fd34ffcafdaf27951cf8dedefc80127ed781632e31cbf3ee85bd28802",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:24.921722+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/schaedlingsbekaempfer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18541,
+    "sha256": "b8a0a0a131e2e14926400395fdb53ed52561dbcf5a38648e276e4b0af1a6455e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:24.864167+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/hausmeisterservices-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19361,
+    "sha256": "a980b7838a70ce751ea0bd6b1f9f373f74caf80d6de0cf44d02afd1f13032a49",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:24.323536+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/immobilienmaklerin-eigentuemer-objektgespraech.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/immobilienmaklerin-eigentuemer-objektgespraech.webp",
+    "status": 200,
+    "bytes": 137762,
+    "sha256": "698af34d6a06f5f0fc3e7c8e4289ebb154245c908b6274674fc7aea5a9edf98c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:24.434751+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/schaedlingsfachkraft-objektinspektion.webp",
+    "status": 200,
+    "bytes": 105230,
+    "sha256": "04df3b640c56c1d302341ac645dd6eea04f334cc9b7048e71ff6d49b379a2448",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:24.431364+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/hausmeister-objektkontrolle-treppenhaus.webp",
+    "status": 200,
+    "bytes": 110820,
+    "sha256": "53bc550296f4bf9dad196258dad3d5c096de6c2a8c87f69f7b4599bf9cb4fbcf",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:30.076120+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 19169,
+    "sha256": "1122af7dcab1550b38ccad424ab8a823027df24fb5d4816267aa84b6c00b9aa0",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:29.686746+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 23967,
+    "sha256": "46e1fe1800e0e6660e4c44d1e40b8b1d1c08df87462f45f006330fd079d20e30",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:29.795044+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 21674,
+    "sha256": "9c1de76a5671f32a64bd3617431887c4dbd61df5686cd802f179dfcc8d95c66d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:29.730677+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:29.696011+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 13353,
+    "sha256": "64777d66b975b4447208f79ba3485ca969398e8a201b18937cb68f7d1d5bfcbe",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T14:11:34.714766+00:00"
+  }
+]
