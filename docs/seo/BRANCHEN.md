@@ -19,10 +19,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Fensterbauer | Wie gewinnen Fensterbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fensterbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/fensterbauer-aufmass-fenster.webp |
 | Metallbauer | Wie gewinnen Metallbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/metallbauer-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/metallbauer-gelaender-werkstatt.webp |
 | Solarteure | Wie gewinnen Solarteure neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/solarteure-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 24.11.2026, HTTP 200; PR #14 | /medien/ratgeber/solarteur-pv-projektberatung.webp |
+| Dämmungsunternehmen | Wie gewinnen Dämmungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/daemmungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/daemmung-bestandsaufnahme-dachboden.webp |
+| Entrümpelungsunternehmen | Wie gewinnen Entrümpelungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/entruempelung-wohnung-sortierung.webp |
+| Umzugsunternehmen | Wie gewinnen Umzugsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/umzug-moebel-transport-team.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Dämmungsunternehmen, Entrümpelungsunternehmen, Umzugsunternehmen. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Kfz-Sachverständige, Autowerkstätten, Autoaufbereiter. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
