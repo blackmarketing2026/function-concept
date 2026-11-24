@@ -23,9 +23,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Entrümpelungsunternehmen | Wie gewinnen Entrümpelungsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/entruempelungsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/entruempelung-wohnung-sortierung.webp |
 | Umzugsunternehmen | Wie gewinnen Umzugsunternehmen neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsunternehmen-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #16 | /medien/ratgeber/umzug-moebel-transport-team.webp |
 
-| Kfz-Sachverständige | Wie gewinnen Kfz-Sachverständige neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kfz-sachverstaendige-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/kfz-gutachter-fahrzeugbesichtigung.webp |
-| Autowerkstätten | Wie gewinnen Autowerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp |
-| Autoaufbereiter | Wie gewinnen Autoaufbereiter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads | 2026-11-24 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/autoaufbereitung-innenraum-polster.webp |
+| Kfz-Sachverständige | Wie gewinnen Kfz-Sachverständige neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/kfz-sachverstaendige-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #18 | /medien/ratgeber/kfz-gutachter-fahrzeugbesichtigung.webp |
+| Autowerkstätten | Wie gewinnen Autowerkstätten neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #18 | /medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp |
+| Autoaufbereiter | Wie gewinnen Autoaufbereiter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads | 2026-11-24 | bestätigt live 2026-11-24, PR #18 | /medien/ratgeber/autoaufbereitung-innenraum-polster.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
@@ -40,3 +40,5 @@ Live-Nachweis Bau/Garten: [HTTP-Protokoll](2026-11-24-bau-garten/live-check.json
 Fenster/Metall/Solar: [Live-Prüfung](2026-11-24-fenster-metall-solar/live-check.json), [Veröffentlichung](2026-11-24-fenster-metall-solar/veroeffentlichung.md).
 
 Dämmung/Räumung/Umzug: [Live-Prüfung](2026-11-24-daemmung-raeumung-umzug/live-check.json), [Veröffentlichung](2026-11-24-daemmung-raeumung-umzug/veroeffentlichung.md).
+
+Kfz-Branchen: [Live-Prüfung](2026-11-24-kfz/live-check.json), [Veröffentlichung](2026-11-24-kfz/veroeffentlichung.md).

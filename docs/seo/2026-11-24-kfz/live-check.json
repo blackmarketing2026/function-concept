@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/kfz-sachverstaendige-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/kfz-sachverstaendige-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18471,
+    "sha256": "08d2f6c7aa987a3d49cc2c70d98a4a7e750a20b8838b20408db93ec24baddba3",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:48.242755+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/autowerkstaetten-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18766,
+    "sha256": "0f38467650e64e6bdca88a08d632a79df63593878f9a54ca9c64a80f33cbfb03",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:48.626875+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/autoaufbereiter-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19278,
+    "sha256": "1b18ed1524a981d42e46bc1a0d452b70c3f3bc0953a756f1577c267adf23a579",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:48.226915+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/kfz-gutachter-fahrzeugbesichtigung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/kfz-gutachter-fahrzeugbesichtigung.webp",
+    "status": 200,
+    "bytes": 96290,
+    "sha256": "ba882b52e8d050816a9c4613a82de63843db2cdec00da32288d22716c0d41406",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:48.642688+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/autowerkstatt-fahrzeugdiagnose.webp",
+    "status": 200,
+    "bytes": 123684,
+    "sha256": "9dbffdf382436781e9c9889708ef620a1a290fd0ab87e499dc006306c3ec8543",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:48.154457+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/autoaufbereitung-innenraum-polster.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/autoaufbereitung-innenraum-polster.webp",
+    "status": 200,
+    "bytes": 148892,
+    "sha256": "48cc2854614291d680105aa8dad69174731415631b48737c5878a9ee468bfc0f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:58.463253+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 17261,
+    "sha256": "f9459129aa166bd56efea920b8a04844ee2c383b6d1dd0bbc020964bcbfc7a92",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:58.458694+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 22687,
+    "sha256": "f50b09f9d4e5c88ad3bcdfb3f7fe5e6be34aae69c835261f58b712911ac05242",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:58.509452+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 20394,
+    "sha256": "3d4e951313e5694e6bb07e91808ef35a2abe1052a7f6da6b933fe7b19173300b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:58.466502+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:12:58.413513+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 12691,
+    "sha256": "7fa5235d7d2ea92e659f3c8e79ad8f8b49a316001a6883f3d2e4cc6801f96fad",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-24T13:13:08.538931+00:00"
+  }
+]
