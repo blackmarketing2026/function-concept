@@ -17,4 +17,4 @@ Ergebnis: **freigabefähig**. 3 neue Ratgeber, 0 überarbeitete Ratgeber, 3 neue
 Statisches Projekt ohne Buildskript. Keine visuelle Browser-/Screenshot-/Viewportprüfung laut Auftrag. Kein echter Formular-/SMTP-Versand, um keine Nachricht auszulösen. Bestehende unveränderte /index#leistungen-Anker in alten Blognavigationen als Bestandshinweis protokolliert. Neue Inhalte haben keine solchen Links. Keine kritischen offenen Fehler.
 
 ## Veröffentlichung
-Noch nicht bestätigt. GitHub-Checks, Merge, Produktionsstatus und HTTP-Abgleich werden nach Veröffentlichung ergänzt. Push allein ist kein Live-Nachweis.
+Bestätigt live am 24.11.2026. PR #18 nach erfolgreichen Vercel-Checks gemergt. Produktionsdeployment erfolgreich. 11 öffentliche Ressourcen HTTP200, finale URLs korrekt und bytegleich zum Repository; neue Sitemap-URLs jeweils genau einmal. Kontaktseite HTTP200 und kontaktForm vorhanden. .de und non-www .com für /blog/kategorien auf www.function-concept.com weitergeleitet. Details in live-check.json und veroeffentlichung.md.
