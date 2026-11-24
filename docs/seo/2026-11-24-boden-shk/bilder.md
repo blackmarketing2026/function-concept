@@ -1,0 +1,8 @@
+# Bilder – 24.11.2026
+Drei neue Einzelbilder mit eingebauter Bildgenerierung erstellt, keine CLI/API-Nutzung. Realistische KI-Symbolbilder, keine Kundenreferenzen. Auf 1440×960 verkleinert und WebP Qualität 82 gespeichert; Originalbilder nicht überschrieben. Sichtprüfung der Bildinhalte: passendes Gewerk, plausible Arbeitssituationen, keine Logos/Wasserzeichen/Erfolgszahlen. Keine visuelle Websiteprüfung.
+
+| Repository-Datei | Größe | Finaler Promptinhalt |
+|---|---|---|
+| medien/ratgeber/bodenleger-laminat-verlegung.webp | 135444 Bytes | Photorealistic-natural, landscape 3:2 editorial photo: professional floor layer in navy workwear and knee pads aligning a wood-look plank on prepared underlay in a bright empty residential living room, realistic hands, daylight, matching planks and measuring square. No operating power tools, tiles, furniture workshop, logos, text, watermarks or claims. |
+| medien/ratgeber/heizungsbauer-waermepumpe-bestandsaufnahme.webp | 176476 Bytes | Photorealistic-natural, landscape 3:2: female heating technician in navy workwear checking a clipboard beside a modern unbranded air-source heat pump at a German detached house. Natural daylight, closed casing, tidy pipes, calm inspection, credible hands/proportions. No text, logos, watermark, numbers or energy-saving claims. |
+| medien/ratgeber/sanitaerbetrieb-waschtisch-montage.webp | 94348 Bytes | Photorealistic-natural, landscape 3:2: professional plumber in navy workwear measuring a bathroom fixture beside a white washbasin and chrome faucet, bright partly renovated bathroom, closed cabinet, small unbranded toolkit, natural window light and realistic hands. Distinct from floor/heating scenes; no logos, text, watermarks or claims. |
