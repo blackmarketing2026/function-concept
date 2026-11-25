@@ -1,0 +1,15 @@
+# Veröffentlichung – 25.11.2026
+- Basis: c801c045b3f76caff688efeee8217bb3e83a1b8e
+- Lokaler und GitHub-Tree identisch: e89462855a60f97c36e946c9c355056ecb1e0070
+- Content-Commit: https://github.com/blackmarketing2026/function-concept/commit/c9c52eada2b91c8a3ed098be8e71a748c3201ecd
+- Content-PR: https://github.com/blackmarketing2026/function-concept/pull/52 (gemergt)
+- Merge: 22ea0b042b2d1a9c8005d294b42b5000e88f8113
+- Preview erfolgreich: https://vercel.com/stefve/function-concept/6iAdDwSaBj2krY2HBxjW6F1WUqt4
+- Vercel Preview Comments completed/success; PR mergeable/clean.
+- Produktion erfolgreich: https://vercel.com/stefve/function-concept/BWEigXpgHFWc98e3oQxhk4EPkHNp
+- Öffentlicher Abgleich 11/11 Ressourcen erfolgreich, siehe live-check.json. Alle drei neuen URLs in veröffentlichter Sitemap je einmal.
+- 3 neue Ratgeber, 0 überarbeitete Ratgeber, 3 ergänzte Übersichten, 3 neue individuelle WebP-Bilder.
+- Alle 469 sonstigen Basisdateien bytegleich. Keine geschützten Seiten, gemeinsamen Komponenten oder Formulare/Tracking verändert; kein Force-Push.
+- Bekannter Altbefund /index#leistungen unverändert. Kein Formularversand/SMTP-End-to-End-Test, keine visuelle Websiteprüfung. Kein Nachweis einer Google-Indexierung behauptet.
+- Zeitplan unverändert; keine zusätzlichen Automationen, kein OpenSEO oder Kampagnen-/Social-Media-Arbeit.
+- Nächste Kandidaten: Druckereien, Werbetechnikbetriebe, Buchbindereien. Bestand und Suchintention vor Umsetzung erneut prüfen.
