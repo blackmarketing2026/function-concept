@@ -1,0 +1,6 @@
+# Bilder – 25.11.2026
+Drei individuelle realistische Branchenbilder erzeugt und Motive geprüft. Keine Logos/Wasserzeichen oder Ergebnisbehauptungen. Keine visuelle Websiteprüfung. WebP1440x960 Qualität82; sichtbare KI-Symbolbildkennzeichnung und Alt-Texte. Originale erhalten.
+Prompts: realistische professionelle Branchenfotografie, Landschaft3:2, Tageslicht, natürliche Hände. Parkett-Zustandsprüfung mit Leuchte in leerem Raum; Stoffberatung in Polsterwerkstatt an geöffnetem Sessel; Reinigungsfachkraft mit Checkliste in leerer Wohnung.
+- medien/ratgeber/parkettleger-zustandspruefung-holzboden.webp; Original exec-af6d2854-f644-4b33-b0cc-eb103afca21a.png; Alt: Parkettleger prüft einen vorhandenen Holzboden mit einer kleinen Leuchte
+- medien/ratgeber/polsterei-stoffberatung-sessel.webp; Original exec-10b47838-875d-41c1-9441-458461105049.png; Alt: Polsterfachkraft und Kundin vergleichen Stoffmuster neben einem geöffneten Sessel
+- medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp; Original exec-8c1e9cfb-135f-4ddc-811a-9f053dbe59e3.png; Alt: Reinigungsfachkraft prüft eine leere Wohnung mit einer Checkliste
