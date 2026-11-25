@@ -6,7 +6,7 @@
     "path": "ratgeber/geruestbauer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/geruestbau-projektplanung-fassade.webp",
     "created": "2026-11-25",
-    "status": "erstellt; Prüfung und Veröffentlichung ausstehend"
+    "status": "bestätigt live 25.11.2026; HTTP200 und Bytevergleich bestanden"
   },
   {
     "branche": "Bauwerksabdichter",
@@ -15,7 +15,7 @@
     "path": "ratgeber/bauwerksabdichter-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/bauwerksabdichtung-feuchtemessung-keller.webp",
     "created": "2026-11-25",
-    "status": "erstellt; Prüfung und Veröffentlichung ausstehend"
+    "status": "bestätigt live 25.11.2026; HTTP200 und Bytevergleich bestanden"
   },
   {
     "branche": "Brunnenbauer",
@@ -24,6 +24,6 @@
     "path": "ratgeber/brunnenbauer-kunden-gewinnen-google-ads.html",
     "image": "/medien/ratgeber/brunnenbau-projektberatung-garten.webp",
     "created": "2026-11-25",
-    "status": "erstellt; Prüfung und Veröffentlichung ausstehend"
+    "status": "bestätigt live 25.11.2026; HTTP200 und Bytevergleich bestanden"
   }
 ]

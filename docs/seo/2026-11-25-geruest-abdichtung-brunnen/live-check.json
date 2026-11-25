@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/geruestbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/geruestbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16524,
+    "sha256": "9f441c60b7a91ee0e519d284ab79a013fa3d48e72744369ea147a37a6e5c3385",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:50.214545+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/bauwerksabdichter-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/bauwerksabdichter-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16919,
+    "sha256": "566b7c92cc949e5babd70eead54b3e8e46dd893286abe6077490f3ce8e91ee52",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:50.218440+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/brunnenbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/brunnenbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17186,
+    "sha256": "6fc57aff8acadebd4404d086e4a6fd7451cfff2acbd7576bad53cfac4a84e7bc",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:50.538589+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/geruestbau-projektplanung-fassade.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/geruestbau-projektplanung-fassade.webp",
+    "status": 200,
+    "bytes": 237990,
+    "sha256": "64468dadf9e3ed6942e630704c960586c791a7b0dd14a3cb11351c0c17ceeed9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:50.247712+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/bauwerksabdichtung-feuchtemessung-keller.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/bauwerksabdichtung-feuchtemessung-keller.webp",
+    "status": 200,
+    "bytes": 96960,
+    "sha256": "1f89f4090793c81681514b8d891465924fafb6120bd6a3b8bc142b9c10f93cb8",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:50.481026+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/brunnenbau-projektberatung-garten.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/brunnenbau-projektberatung-garten.webp",
+    "status": 200,
+    "bytes": 225578,
+    "sha256": "030c1cb5b6ed19880fd0f2a792d5209f3bb449b91cca8bc4de3d5489c6d2f69a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:55.206717+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 39652,
+    "sha256": "1c22025eddb4e14ae37f333b2cb27ff6e2aba4d1ce06142eae4697db42f21038",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:55.190792+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 37799,
+    "sha256": "f1a51f7b12e2ce493cb82019d4d47e1705ba8e5278e8a86bea5bbda89fe44bb8",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:55.198738+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 35506,
+    "sha256": "7426dd9e0356041ead4922c5bceabe8fd5d69053a78d3d540db656c829b6e4ac",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:55.254455+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:55.264393+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 20496,
+    "sha256": "2ab0133e72965417760754f9595820db8afc23a1d9af9feefee5221fb98fbc12",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T01:09:59.875045+00:00"
+  }
+]
