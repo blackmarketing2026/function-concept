@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/pflasterbaubetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/pflasterbaubetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16456,
+    "sha256": "c09d7b7573b1238462d893748e5459acbab74ace64f4b34958d4cab63d64b6ed",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:38.094954+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/baumpflegebetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/baumpflegebetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16401,
+    "sha256": "dbc07dde25553873393027e20e96fbcf4d186b0edeadda5386a287f3045b977a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:37.783100+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/wasserschadensanierer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/wasserschadensanierer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17010,
+    "sha256": "54bed4e1cff09caea287c0f3a7e26aed7969d5cfa38ae8c19a8763dcf3c7b520",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:37.763644+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/pflasterbau-aufmass-einfahrt.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/pflasterbau-aufmass-einfahrt.webp",
+    "status": 200,
+    "bytes": 251006,
+    "sha256": "0d008041108b4747cfdb636bc2428605afcf69ddfc24d5f65ed3e08558ee7f7f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:37.839188+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp",
+    "status": 200,
+    "bytes": 327850,
+    "sha256": "b6fe487a699b026a24a842eeb93db1c8d3b18c9b80dbf30964b527b08d1eec83",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:38.096196+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp",
+    "status": 200,
+    "bytes": 86184,
+    "sha256": "91143aa2276d83a78c955bccc4a73ca9ed481d1b2ae1adfa5eacc3f3f648e9cf",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:42.067200+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 45377,
+    "sha256": "fb4394262ab173b2909d410f0918f606e28b4b6e3278983e9431d8315dd5664c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:42.067880+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 41628,
+    "sha256": "ee9efbcc9e780bd6b99fe9f61858cf359f3f360bb11340f2e2c6b1b112a5271e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:42.067624+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 39335,
+    "sha256": "192cc6a17e3c0ae2e903de06b1b2c6e62274e5cbe741a2b7b7c4d833cdeda0d3",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:42.014626+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:41.965657+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 22488,
+    "sha256": "1a5ce173796084371dcc3014d6a960c338d04b2034ae40fca8d77facc407c22d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T04:06:45.958634+00:00"
+  }
+]

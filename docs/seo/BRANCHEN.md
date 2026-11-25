@@ -83,9 +83,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Aufzugservicebetriebe | Wie gewinnen Aufzugservicebetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/aufzugservicebetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/aufzugservice-technikerin-verwaltungsberatung.webp |
 | Schornsteinfegerbetriebe | Wie gewinnen Schornsteinfegerbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schornsteinfegerbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/schornsteinfeger-beratung-heizraum.webp |
 
-| Pflasterbaubetriebe | Wie gewinnen Pflasterbaubetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/pflasterbaubetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/pflasterbau-aufmass-einfahrt.webp |
-| Baumpflegebetriebe | Wie gewinnen Baumpflegebetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/baumpflegebetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp |
-| Wasserschadensanierer | Wie gewinnen Wasserschadensanierer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/wasserschadensanierer-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp |
+| Pflasterbaubetriebe | Wie gewinnen Pflasterbaubetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/pflasterbaubetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/pflasterbau-aufmass-einfahrt.webp |
+| Baumpflegebetriebe | Wie gewinnen Baumpflegebetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/baumpflegebetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp |
+| Wasserschadensanierer | Wie gewinnen Wasserschadensanierer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/wasserschadensanierer-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
