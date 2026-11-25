@@ -1,6 +1,6 @@
 # Qualitätsprüfung – 25.11.2026
 
-Ergebnis: lokale Prüfung bestanden; Veröffentlichung noch ausstehend.
+Ergebnis: bestanden und bestätigt veröffentlicht.
 
 Drei neue Ratgeber, null bestehende Ratgeber überarbeitet, drei redaktionelle Übersichten ergänzt. Glasereien 1207, Zaunbauer 1228, Garagentorbetriebe 1289 Wörter im Hauptbereich einschließlich Quellen/Navigation. Je zwölf Keyword-Vorschläge und sechs FAQs. Eigenständige Schwerpunkte: Glasschaden vs. Maßanfertigung, Grundstückseinfriedung mit Montage, Toraustausch vs. Antriebs- und Reparaturservice. Fachquellen im Briefing und Artikel verlinkt. Keine erfundenen Nachfrage-, Klickpreis- oder Erfolgsdaten. Aussagen, Sprache, Suchintention und Abgrenzung redaktionell geprüft; keine gefährlichen Arbeitsanleitungen, Normbehauptungen oder Garantien.
 
@@ -17,4 +17,4 @@ Tatsächlich ausgeführt:
 
 Bekannte unveränderte Einschränkung: /index#leistungen in drei Blogübersichten verweist auf fehlenden Anker der geschützten Zielseite. Nicht durch dieses Paket verursacht, nicht verändert. Alle neuen Inhalts-/CTA-Links gültig.
 
-Frischer main vor Veröffentlichung: 5ba3e36cdd4b53fa36c520dc4a4c74e018d755a2; offene PRs: keine. Deployment und öffentlicher Bytevergleich werden nach Merge protokolliert. Keine OpenSEO-/Automationsänderungen.
+Frischer main vor Veröffentlichung: 5ba3e36cdd4b53fa36c520dc4a4c74e018d755a2; offene PRs: keine. Vercel-Produktion erfolgreich für 3956b3f0cfbdd2a01073a94880b517b0c0792e57. Die ersten zwei HTTP-Prüfungen kurz nach Merge lieferten noch 404; Einzelabruf und anschließende vollständige Wiederholung bestanden. live_check.py bestätigt elf öffentliche Ressourcen mit HTTP200, korrekten finalen URLs und Bytegleichheit. Sitemap enthält die drei neuen URLs genau einmal. Rohprotokoll: live-check.json. Keine OpenSEO-/Automationsänderungen.
