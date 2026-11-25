@@ -71,9 +71,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Zaunbauer | Wie gewinnen Zaunbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/zaunbauer-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 | /medien/ratgeber/zaunbauer-gitterzaun-hoehe-pruefen.webp |
 | Garagentorbetriebe | Wie gewinnen Garagentorbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/garagentorbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 | /medien/ratgeber/garagentor-beratung-geschlossenes-sektionaltor.webp |
 
+| Gerüstbauer | Wie gewinnen Gerüstbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/geruestbauer-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/geruestbau-projektplanung-fassade.webp |
+| Bauwerksabdichter | Wie gewinnen Bauwerksabdichter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/bauwerksabdichter-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/bauwerksabdichtung-feuchtemessung-keller.webp |
+| Brunnenbauer | Wie gewinnen Brunnenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/brunnenbauer-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/brunnenbau-projektberatung-garten.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Gerüstbauer, Bauwerksabdichter, Brunnenbauer. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Estrichleger, Betonbohrbetriebe, Klimatechnikbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
