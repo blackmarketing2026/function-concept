@@ -1,5 +1,5 @@
 # Qualitätsprüfung – 25.11.2026
-Ergebnis: lokal bestanden; Veröffentlichung ausstehend.
+Ergebnis: bestanden; drei neue Seiten bestätigt live.
 Drei neue Ratgeber, null bestehende Ratgeber überarbeitet, drei redaktionelle Übersichten ergänzt. Hauptbereich inklusive Quellen/Navigation: Pflaster1078, Baumpflege1074, Wasserschaden1099 Wörter. Je12Keywordvorschläge und6individuelleFAQs. Fachquellen, Sprache, Suchintention und eigenständiger Mehrwert geprüft: Verkehrsflächen statt allgemeiner Gartenplanung, spezialisierte Baumleistungen, akute Schadensphasen statt chronischer Abdichtung. Keine erfundenen Nachfrage-/Ergebnisdaten oder technischen Arbeitsanleitungen.
 
 Ausgeführt und bestanden:
@@ -13,4 +13,4 @@ Ausgeführt und bestanden:
 - Frischer Kontaktabruf HTTP200, kontaktForm vorhanden. Kein Formularversand/SMTP-Test.
 
 Bekannter unveränderter Altfehler: /index#leistungen in drei Blogübersichten, fehlender Anker an geschützter Zielseite. Neue Links gültig.
-Basis d9123f2705c7cd00db600dce54078aebd547f597, offene PRs beim Start keine. Öffentlicher Deployment-/HTTP-Nachweis folgt. Kein OpenSEO oder Automationsänderung.
+Basis d9123f2705c7cd00db600dce54078aebd547f597, offene PRs beim Start keine. Produktionsdeployment erfolgreich. Elf öffentliche Ressourcen HTTP200, exakte finale URL und bytegleich; neue Sitemap-URLs jeweils einmal, siehe live-check.json. Kein OpenSEO oder Automationsänderung.
