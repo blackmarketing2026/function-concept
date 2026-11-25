@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/rohrreinigungsbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/rohrreinigungsbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16661,
+    "sha256": "f3d757bc92cc175ab4296e84befe99a2a080c115d68765e38a1974637f5a1c6d",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:31.582673+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/aufzugservicebetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/aufzugservicebetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17210,
+    "sha256": "a513cbe2df506f934aedec19761adbe8d33b1ca4b8223af8289a4ae70609e24c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:31.622703+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/schornsteinfegerbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/schornsteinfegerbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18196,
+    "sha256": "9be006c8e67d7a091cb7f974ad185050fd84d30cbee402828de2329311ec9088",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:31.527214+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/rohrreinigung-kamera-objektbesprechung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/rohrreinigung-kamera-objektbesprechung.webp",
+    "status": 200,
+    "bytes": 120440,
+    "sha256": "4bf964af5092404bc982376bc36c22392adddf7bd901d1d99ce56b145a624266",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:31.527852+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/aufzugservice-technikerin-verwaltungsberatung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/aufzugservice-technikerin-verwaltungsberatung.webp",
+    "status": 200,
+    "bytes": 101472,
+    "sha256": "75c4ee3e55f532fe9ffb43011029eacda900754214dba0497ce08ee98eff7f78",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:31.530550+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/schornsteinfeger-beratung-heizraum.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/schornsteinfeger-beratung-heizraum.webp",
+    "status": 200,
+    "bytes": 132000,
+    "sha256": "26d274a3ec28691f7b7c6a26ec93f986a16232d4494fee4eb08dbde889e09f6c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:36.123352+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 43468,
+    "sha256": "00f6cd6f53cc34f867085119b2826b2a7c79d30770f4349503c9ccacae464047",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:36.126736+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 40351,
+    "sha256": "49ac5988dabdec39d024c2d96481f6f470f6bae4c7c4465db23e4c629fbe8c97",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:36.103328+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 38058,
+    "sha256": "bb575f96b267ba906be07241dcf15fc61bc4aebd6607295794584647f9afbd6b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:36.103078+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:36.095719+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 21824,
+    "sha256": "ae53590cfb06e6b9a7df0508bfbb09ebbcf1204b58b761cf848af7b207b4920b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T03:10:41.062990+00:00"
+  }
+]
