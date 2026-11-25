@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/glasereien-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/glasereien-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17474,
+    "sha256": "70ce59a1593f679734f8ca03a6ba7bd72a1641dc6371139ffbd0a4b45fd44c8b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:01.806830+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/zaunbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/zaunbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 17842,
+    "sha256": "d3ca78af7ef9c2281c7f55aa7e4b40377e7709009c3ddbcf7ab70983e8db05f4",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:01.808318+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/garagentorbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/garagentorbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18253,
+    "sha256": "6cf20248e38e46c6a817b49fe38a0502ed37637029b605104948aad237925004",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:01.783131+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/glaser-glasplatte-aufmass-werkstatt.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/glaser-glasplatte-aufmass-werkstatt.webp",
+    "status": 200,
+    "bytes": 154528,
+    "sha256": "3a9be7ed8021605908f4bdfa4ee88a3a7126e14326c6be61d393d4406a05903a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:01.758946+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/zaunbauer-gitterzaun-hoehe-pruefen.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/zaunbauer-gitterzaun-hoehe-pruefen.webp",
+    "status": 200,
+    "bytes": 350676,
+    "sha256": "8f8b235c9378e6ec769a9c4980ba9b8156456e94803964db2242ef983a2ca6fe",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:01.843265+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/garagentor-beratung-geschlossenes-sektionaltor.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/garagentor-beratung-geschlossenes-sektionaltor.webp",
+    "status": 200,
+    "bytes": 101192,
+    "sha256": "1aa85ad3cf715a6e2a3133b8ed24a327899f959d1582578993ff3acbf6f03754",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:04.910748+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 37813,
+    "sha256": "b25f74a08c9a6b27110dd0c5586a0f0191b034b849f40cf235c3a0694a2ec7ad",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:04.811014+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 36558,
+    "sha256": "9005f06e8185d5a8c2ef2316211ecb6a29a8bb60e171a709e8c4d5df5954d360",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:04.858650+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 34265,
+    "sha256": "152d7724b48cffaaf3a299532e63dbcb38dd25b6aaf866915359f4b373740d89",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:04.850903+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:04.870322+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 19849,
+    "sha256": "72117ea0937cfc66db21c6232c2989aa7f1305b633764df707c2ef5495d8ffc6",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T00:14:07.962648+00:00"
+  }
+]
