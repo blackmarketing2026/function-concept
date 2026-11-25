@@ -1,0 +1,13 @@
+# Veröffentlichung – 25.11.2026
+- Basis:0fe09ba5cee7de59328240cd31d012c073aca8a1
+- Lokaler/GitHub-Tree identisch:65e9033988308e93845ba03c893ce32b91e8474a
+- Inhaltscommit:9cf5303740f91c400d2e5821f68c9bc794bde44e
+- PR42:https://github.com/blackmarketing2026/function-concept/pull/42 nach erfolgreichen Vercel-Checks und sauberem Mergezustand gemergt; aktueller main geprüft.
+- Merge:e59cd1b93f8b5283a507709cd49eda63caf167c9
+- Preview erfolgreich:https://vercel.com/stefve/function-concept/H45RMRSCL4AjxpY3nZ85VFh8QaFP
+- Produktion erfolgreich:https://vercel.com/stefve/function-concept/76ijBmHssSVUbN7uFJvceC6eRPfk
+- Live-Nachweis:live-check.json, elf Ressourcen (drei Seiten, drei Bilder, vier Übersichten, Sitemap), HTTP200, finale URLs korrekt, Bytegleichheit. Neue Sitemap-URLs jeweils einmal.
+- Drei neue Ratgeber, null überarbeitete Ratgeber, drei neue Bilder, drei ergänzte Übersichten. Alle drei Ratgeber bestätigt live.
+- Dokumentationsnachtrag aktualisiert nur Nachweise und Branchenregister.
+- Kein SMTP-Test, kein Nachweis von Google-Einreichung oder Indexierung. Unveränderter Altanker /index#leistungen dokumentiert.
+- Kein OpenSEO, Benutzer-PC, visuelle Websiteprüfung oder Automations-/Zeitplanänderung.
