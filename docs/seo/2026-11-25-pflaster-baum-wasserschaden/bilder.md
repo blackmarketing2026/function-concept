@@ -1,0 +1,6 @@
+# Bilder – 25.11.2026
+Drei individuelle realistische Branchenbilder erzeugt und Motive geprüft. Keine Logos/Wasserzeichen oder Ergebnisbehauptungen. Keine visuelle Websiteprüfung. WebP1440x960 Qualität82; sichtbare KI-Symbolbildkennzeichnung und Alt-Texte. Originale erhalten.
+Prompts: professionelle realistische Branchenfotografie, Landschaft3:2, Tageslicht, natürliche Hände, keine aktiven Gefahrenarbeiten. Pflasteraufmaß einer Einfahrt; Baumpflegerin bei bodennaher Kontrolle; Schadensdokumentation neben Trocknungsgerät.
+- medien/ratgeber/pflasterbau-aufmass-einfahrt.webp; Original exec-2ab4bb87-165c-4fe8-ab3f-9a24893e1513.png; Alt: Pflasterfachkraft misst eine gepflasterte Einfahrt im Beisein einer Eigentümerin
+- medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp; Original exec-4e2a06c6-f0b4-48fc-81b3-4f10da83a56e.png; Alt: Baumpflegerin dokumentiert den Zustand eines Baums vom Boden aus
+- medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp; Original exec-d2af6e68-0c2e-4789-8c51-e65de60eeddc.png; Alt: Trocknungsfachkraft dokumentiert einen Wasserschaden neben einem Trocknungsgerät
