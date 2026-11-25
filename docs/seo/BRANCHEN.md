@@ -79,9 +79,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Betonbohrbetriebe | Wie gewinnen Betonbohrbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/betonbohrbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/betonbohren-planung-kernbohrgeraet.webp |
 | Klimatechnikbetriebe | Wie gewinnen Klimatechnikbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/klimatechnikbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/klimatechnik-beratung-raumkuehlung.webp |
 
+| Rohrreinigungsbetriebe | Wie gewinnen Rohrreinigungsbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/rohrreinigungsbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/rohrreinigung-kamera-objektbesprechung.webp |
+| Aufzugservicebetriebe | Wie gewinnen Aufzugservicebetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/aufzugservicebetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/aufzugservice-technikerin-verwaltungsberatung.webp |
+| Schornsteinfegerbetriebe | Wie gewinnen Schornsteinfegerbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schornsteinfegerbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/schornsteinfeger-beratung-heizraum.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Rohrreinigungsbetriebe, Aufzugservicebetriebe, Schornsteinfegerbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Pflasterbaubetriebe, Baumpflegebetriebe, Wasserschadensanierer. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 

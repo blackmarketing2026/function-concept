@@ -1,0 +1,6 @@
+# Bilder – 25.11.2026
+Drei eigene realistische KI-Symbolbilder erzeugt und Motive geprüft. Keine Logos/Wasserzeichen oder Ergebnisbehauptungen. Keine visuelle Websiteprüfung. WebP1440x960 Qualität82. Originale erhalten.
+Prompts: professionelle fotorealistische Branchenfotografie, Landschaft3:2, Tageslicht, natürliche Hände, keine aktiven gefährlichen Arbeiten. Rohrfachkraft mit Kamera/Objektbesprechung; Aufzugtechnikerin mit Verwalter vor geschlossenem Aufzug; Schornsteinfeger bei Beratung im Heizraum.
+- medien/ratgeber/rohrreinigung-kamera-objektbesprechung.webp; Original exec-a919e025-6e56-424c-9f28-0d74ff91570e.png; Alt: Rohrreinigungsfachkraft bespricht einen Auftrag neben einer Inspektionskamera
+- medien/ratgeber/aufzugservice-technikerin-verwaltungsberatung.webp; Original exec-c9321222-8fcb-4ffa-b879-e30268ad6ee1.png; Alt: Aufzugtechnikerin bespricht Wartung mit einem Verwalter vor geschlossenen Aufzugtüren
+- medien/ratgeber/schornsteinfeger-beratung-heizraum.webp; Original exec-ba94e93a-4a84-4bcf-a9de-581b9b2462ef.png; Alt: Schornsteinfeger bespricht Unterlagen mit einer Eigentümerin im Heizraum
