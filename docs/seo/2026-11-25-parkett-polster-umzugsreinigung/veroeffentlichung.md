@@ -1,0 +1,14 @@
+# Veröffentlichung – 25.11.2026
+- Basis: 1f8270f43f457ebac1cee28031b6a96e5fce08be
+- Geprüfter lokaler und GitHub-Tree: 2f0225159382ed8225a9b978f37adf198e3e3c52
+- Content-Commit: https://github.com/blackmarketing2026/function-concept/commit/5b6f3ebcc2ae10f74e14f0bc52f6c6eddc4c82bb
+- Content-PR: https://github.com/blackmarketing2026/function-concept/pull/50 (gemergt)
+- Merge: f360cab1cc79d9f16f0557eaa3e8a46de9d3b8bb
+- Vercel-Preview erfolgreich: https://vercel.com/stefve/function-concept/E4p8rVTBYb7jgShBoWD1oPCStw77
+- Vercel Preview Comments: completed/success
+- Produktionsdeployment erfolgreich: https://vercel.com/stefve/function-concept/8KYbYGxQv8SHJXfUtz3Y4g7xa9oN
+- Öffentliche Prüfung: 11/11 Ressourcen HTTP200, finale URL korrekt, bytegleich. Neue Sitemap-URLs je einmal. Details in live-check.json.
+- 3 neue Ratgeber, 0 überarbeitete Ratgeber, 3 ergänzte bestehende Übersichten, 3 neue individuelle WebP-Bilder.
+- Schutz: 455 sonstige Basisdateien bytegleich; keine geschützten Seiten, Formulare, Tracking- oder gemeinsamen Komponenten verändert. Kein Force-Push. Zeitplan unverändert; keine zusätzliche Automation.
+- Offener Altbefund: /index#leistungen in vorhandenen Blogübersichten. Kein Formularversand/SMTP-End-to-End-Test. Keine visuelle Websiteprüfung, keine Behauptung einer Google-Indexierung.
+- Nächste Kandidaten: Sattlereien, Schweißfachbetriebe, Treppenbauer; vor Umsetzung Bestand und Suchintention erneut prüfen.
