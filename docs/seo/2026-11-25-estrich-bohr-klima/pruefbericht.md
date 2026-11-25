@@ -1,5 +1,5 @@
 # Qualitätsprüfung – 25.11.2026
-Ergebnis: lokal bestanden; Veröffentlichung ausstehend.
+Ergebnis: bestanden; drei neue Seiten bestätigt live.
 Drei neue Ratgeber, null bestehende Ratgeber überarbeitet, drei redaktionelle Übersichten ergänzt. Hauptbereich inklusive Quellen/Navigation: Estrich1049, Betonbohren1047, Klima1096 Wörter. Je zwölf Keyword-Vorschläge und sechs individuelle FAQs. Eigenständige Schwerpunkte: Bodenaufbau/Folgegewerke, Maße/Freigaben/Baustellenkoordination, Raumplanung/Montage/Service. Quellen und Sprache geprüft; keine erfundenen Nachfrage-/Ergebnisdaten, keine technischen Arbeitsanleitungen oder pauschalen Freigaben.
 
 Ausgeführt und bestanden:
@@ -13,4 +13,4 @@ Ausgeführt und bestanden:
 - Kontaktseite HTTP200, kontaktForm vorhanden. Kein Formularversand/SMTP-Test.
 
 Unveränderter Altfehler: /index#leistungen in drei Blogübersichten, fehlender Anker an geschützter Zielseite. Neue Links gültig.
-Frischer main vor Veröffentlichung:a795f8a3ca2510d52871947226938f284031c204; offene PRs beim Start keine. Öffentlicher Deployment-/HTTP-Nachweis folgt. Kein OpenSEO oder Automationsänderung.
+Frischer main vor Veröffentlichung:a795f8a3ca2510d52871947226938f284031c204; offene PRs beim Start keine. Produktionsdeployment erfolgreich; elf öffentliche Ressourcen HTTP 200 und bytegleich (live-check.json). Kein OpenSEO oder Automationsänderung.
