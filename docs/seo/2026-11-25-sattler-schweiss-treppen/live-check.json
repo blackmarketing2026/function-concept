@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/fahrzeugsattlereien-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/fahrzeugsattlereien-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18545,
+    "sha256": "b378ac2b51355e65eaa5c3a992b584ae1c1a2c3f19a5361f849f1a809a9fc15c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:13.106573+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/schweissfachbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/schweissfachbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19127,
+    "sha256": "050bd25b339ae5dc12b064f7da4d7d7d070077e1f53d51df33997d314334ef93",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:13.034643+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/treppenbauer-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/treppenbauer-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18600,
+    "sha256": "409dfe288d5b8f586f19b2297c215d1d98cf49162604a6e879b0a91ecd2f7d7a",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:13.102800+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/fahrzeugsattlerin-lederauswahl-autositz.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/fahrzeugsattlerin-lederauswahl-autositz.webp",
+    "status": 200,
+    "bytes": 138646,
+    "sha256": "aa85d5e53c42f9033a4ddda00d9818416fba641c8ca7f2fdf3d10e88018e587b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:13.111033+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/schweissfachkraft-pruefung-baugruppe.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/schweissfachkraft-pruefung-baugruppe.webp",
+    "status": 200,
+    "bytes": 148444,
+    "sha256": "b7cffdf4f72a6266960004ff0127f5ba1e6b21da4268d9c9b97fdc0516e10abf",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:13.130647+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/treppenbauer-bestandsaufnahme-innentreppe.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/treppenbauer-bestandsaufnahme-innentreppe.webp",
+    "status": 200,
+    "bytes": 157272,
+    "sha256": "a6605dce155a467c30a415d2f883f94d3903e8aa54d12f5fd357e6b0576adee1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:22.507679+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 49129,
+    "sha256": "7960b8aeb193310a908599933b24492676b0e8eb43d630d0c4fbe392b4fff25e",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:22.486608+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 44152,
+    "sha256": "32e5bf08f436e6d029702fc260facf37c900f7a0bdb7d8a29ceb769d74debff6",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:22.534872+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 41859,
+    "sha256": "178a9af87cd595a34c9c8ceda7a0aa9975881eaf9eb082ba3a16d0998c8d3978",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:22.454641+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:22.458397+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 23798,
+    "sha256": "7430ce22e299238cca625e98cb4a1ed9c0027b39db473b682c98e385f1fdc459",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T06:07:31.630655+00:00"
+  }
+]

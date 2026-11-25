@@ -91,9 +91,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Polstereien | Wie gewinnen Polstereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/polstereien-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #50 | /medien/ratgeber/polsterei-stoffberatung-sessel.webp |
 | Umzugsreinigungsbetriebe | Wie gewinnen Umzugsreinigungsbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsreinigungsbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #50 | /medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp |
 
-| Fahrzeugsattlereien | Wie gewinnen Fahrzeugsattlereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrzeugsattlereien-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/fahrzeugsattlerin-lederauswahl-autositz.webp |
-| Schweißfachbetriebe | Wie gewinnen Schweißfachbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schweissfachbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/schweissfachkraft-pruefung-baugruppe.webp |
-| Treppenbauer | Wie gewinnen Treppenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/treppenbauer-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/treppenbauer-bestandsaufnahme-innentreppe.webp |
+| Fahrzeugsattlereien | Wie gewinnen Fahrzeugsattlereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/fahrzeugsattlereien-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #52 | /medien/ratgeber/fahrzeugsattlerin-lederauswahl-autositz.webp |
+| Schweißfachbetriebe | Wie gewinnen Schweißfachbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/schweissfachbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #52 | /medien/ratgeber/schweissfachkraft-pruefung-baugruppe.webp |
+| Treppenbauer | Wie gewinnen Treppenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/treppenbauer-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #52 | /medien/ratgeber/treppenbauer-bestandsaufnahme-innentreppe.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
