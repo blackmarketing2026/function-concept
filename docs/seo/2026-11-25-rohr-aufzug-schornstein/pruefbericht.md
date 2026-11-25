@@ -1,5 +1,5 @@
 # Qualitätsprüfung – 25.11.2026
-Ergebnis: lokal bestanden; Veröffentlichung ausstehend.
+Ergebnis: bestanden; drei neue Seiten bestätigt live.
 Drei neue Ratgeber, null bestehende Ratgeber überarbeitet, drei redaktionelle Übersichten ergänzt. Hauptbereich inklusive Quellen/Navigation: Rohrreinigung1107, Aufzug1120, Schornsteinfeger1256 Wörter. Je zwölf Keyword-Vorschläge und sechs individuelle FAQs. Eigenständige Schwerpunkte: Akuteinsatz/Inspektion, Anlagen-/Vertragsqualifizierung, freie versus hoheitliche Aufgaben. Quellen, Sprache, Suchintention und Nutzwert geprüft; keine erfundenen Nachfrage-/Ergebnisdaten.
 
 Ausgeführt und bestanden:
@@ -13,4 +13,4 @@ Ausgeführt und bestanden:
 - Kontaktseite HTTP200, kontaktForm vorhanden. Kein Formularversand/SMTP-Test.
 
 Unveränderter Altfehler: /index#leistungen in drei Blogübersichten, fehlender Anker an geschützter Zielseite. Neue Links gültig.
-Basis35302e17d52c164fad058c35e31fc4f8f5e3aa0c; offene PRs beim Start keine. Öffentlicher Deployment-/HTTP-Nachweis folgt. Kein OpenSEO oder Automationsänderung.
+Basis35302e17d52c164fad058c35e31fc4f8f5e3aa0c; offene PRs beim Start keine. Produktionsdeployment erfolgreich. Elf öffentliche Ressourcen HTTP200, exakte finale URL und bytegleich; drei Sitemap-URLs jeweils einmal, siehe live-check.json. Kein OpenSEO oder Automationsänderung.
