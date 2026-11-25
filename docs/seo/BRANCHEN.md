@@ -87,9 +87,9 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Baumpflegebetriebe | Wie gewinnen Baumpflegebetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/baumpflegebetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/baumpflegerin-baumkontrolle-garten.webp |
 | Wasserschadensanierer | Wie gewinnen Wasserschadensanierer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/wasserschadensanierer-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live am 25.11.2026 | /medien/ratgeber/wasserschaden-dokumentation-trocknungsgeraet.webp |
 
-| Parkettleger | Wie gewinnen Parkettleger neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/parkettleger-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/parkettleger-zustandspruefung-holzboden.webp |
-| Polstereien | Wie gewinnen Polstereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/polstereien-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/polsterei-stoffberatung-sessel.webp |
-| Umzugsreinigungsbetriebe | Wie gewinnen Umzugsreinigungsbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsreinigungsbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp |
+| Parkettleger | Wie gewinnen Parkettleger neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/parkettleger-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #50 | /medien/ratgeber/parkettleger-zustandspruefung-holzboden.webp |
+| Polstereien | Wie gewinnen Polstereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/polstereien-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #50 | /medien/ratgeber/polsterei-stoffberatung-sessel.webp |
+| Umzugsreinigungsbetriebe | Wie gewinnen Umzugsreinigungsbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/umzugsreinigungsbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 2026-11-25, PR #50 | /medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp |
 
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 

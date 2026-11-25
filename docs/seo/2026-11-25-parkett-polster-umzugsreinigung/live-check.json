@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/parkettleger-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/parkettleger-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18055,
+    "sha256": "636eeeab64389846e940989009dfb7d70bb48085009ed8aa7d922064d6060ab1",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:39.570443+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/polstereien-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/polstereien-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 18651,
+    "sha256": "4578033fcc6a50a7449102d4822889c43590612afd13c1e3ff6c897d8a6adf07",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:39.634381+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/umzugsreinigungsbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/umzugsreinigungsbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 19009,
+    "sha256": "4fa350d04f3309d97bc03d25326879d7490bf76699c55321e76dae921c965f89",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:39.578539+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/parkettleger-zustandspruefung-holzboden.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/parkettleger-zustandspruefung-holzboden.webp",
+    "status": 200,
+    "bytes": 168486,
+    "sha256": "3b877d6d692a1bf7331bbdff3ef561f117f604cccf856d59f896bb37ffa1b222",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:39.627908+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/polsterei-stoffberatung-sessel.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/polsterei-stoffberatung-sessel.webp",
+    "status": 200,
+    "bytes": 221302,
+    "sha256": "9524de695d2c8973856cde8e2dae2a75ca7504fecfacb1bac6b5aafa49f9db63",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:39.563647+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/umzugsreinigung-checkliste-leere-wohnung.webp",
+    "status": 200,
+    "bytes": 73674,
+    "sha256": "9b5ebffc98e84f674f0e6008c6fb8750074d7ea4a9238c07943a86496c95fe48",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:44.798598+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 47242,
+    "sha256": "e3998438589db2e417c63f42c0817f166251131b63f0ecf22de012e600d9334f",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:44.742700+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 42883,
+    "sha256": "e149db4a0c42ec9aed813014df45e6ca78f53a3c1d1e7038b35d67e52cda2a54",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:44.750421+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 40590,
+    "sha256": "362b9c54d6a0ae86f753fb5a88e4bf21654d04fa35cd53d111c31ccb362f66f7",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:44.762464+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:44.746672+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 23141,
+    "sha256": "96063c4cd0bb98913adead2a8d19d5c9eb9a412303055de0bb08c99f81a7d4f9",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T05:15:49.154681+00:00"
+  }
+]

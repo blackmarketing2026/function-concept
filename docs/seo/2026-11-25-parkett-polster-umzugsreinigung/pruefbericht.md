@@ -1,5 +1,5 @@
 # Qualitätsprüfung – 25.11.2026
-Basis: 1f8270f43f457ebac1cee28031b6a96e5fce08be. Ergebnis: freigabefähig, Veröffentlichung und Live-Prüfung noch ausstehend.
+Basis: 1f8270f43f457ebac1cee28031b6a96e5fce08be. Ergebnis: geprüft, via PR #50 gemergt und öffentlich bestätigt veröffentlicht.
 
 - Drei eigenständige Ratgeber: Parkettleger (1264 Wörter im Hauptbereich), Polstereien (1324), Umzugsreinigungsbetriebe (1357). Eigenständige Abläufe für Bodenprüfung, Werkstattannahme und Übergabetermin; kein bloßer Branchenworttausch. Bestehende Branchenbeiträge bleiben unverändert.
 - Fachliche Aussagen gegen dokumentierte Primärquellen geprüft, Empfehlungen als redaktionelle Ableitung gekennzeichnet. Keine erfundenen Suchvolumina, Klickpreise oder Ergebnisse. Anzeigen als fiktive Beispiele. Sprache und Leistungsgrenzen geprüft.
@@ -12,3 +12,6 @@ Basis: 1f8270f43f457ebac1cee28031b6a96e5fce08be. Ergebnis: freigabefähig, Verö
 - Kontaktziel live HTTP200 und vorhandener Formularanker bestätigt. Kein Formular abgesendet, kein SMTP-End-to-End-Test.
 - Bekannter Altbefund: /index#leistungen in drei vorhandenen Blogübersichten hat kein entsprechendes Ziel-ID. Unverändert belassen; geschützte Startseite nicht bearbeitet. Alle neu gesetzten Links sind auflösbar.
 - Keine visuelle Browser-, Screenshot- oder Viewport-Prüfung durchgeführt.
+
+## Veröffentlichung bestätigt
+Vercel-Preview und Preview-Check erfolgreich; main vor Merge unverändert, PR mergeable/clean. Produktionsdeployment für Merge f360cab1cc79d9f16f0557eaa3e8a46de9d3b8bb erfolgreich. live_check.py bestätigt 11 Ressourcen (3 Seiten, 3 Bilder, 4 Übersichten, Sitemap): HTTP200, exakte finale URLs und bytegleiche Inhalte. Alle drei neuen URLs genau einmal in öffentlicher Sitemap. Einzelbelege und UTC-Prüfzeiten in live-check.json. Kein Nachweis einer Google-Indexierung behauptet.
