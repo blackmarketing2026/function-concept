@@ -75,9 +75,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Bauwerksabdichter | Wie gewinnen Bauwerksabdichter neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/bauwerksabdichter-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 | /medien/ratgeber/bauwerksabdichtung-feuchtemessung-keller.webp |
 | Brunnenbauer | Wie gewinnen Brunnenbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/brunnenbauer-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 | /medien/ratgeber/brunnenbau-projektberatung-garten.webp |
 
+| Estrichleger | Wie gewinnen Estrichleger neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/estrichleger-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/estrichleger-bodenpruefung-rohbau.webp |
+| Betonbohrbetriebe | Wie gewinnen Betonbohrbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/betonbohrbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/betonbohren-planung-kernbohrgeraet.webp |
+| Klimatechnikbetriebe | Wie gewinnen Klimatechnikbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/klimatechnikbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/klimatechnik-beratung-raumkuehlung.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Estrichleger, Betonbohrbetriebe, Klimatechnikbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Rohrreinigungsbetriebe, Aufzugservicebetriebe, Schornsteinfegerbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
