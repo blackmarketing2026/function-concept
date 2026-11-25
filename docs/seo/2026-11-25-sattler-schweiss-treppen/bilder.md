@@ -1,0 +1,6 @@
+# Branchenbilder – 25.11.2026
+Drei individuelle realistische Bilder generiert und Motive geprüft. WebP1440x960, Qualität82. Keine Logos, Wasserzeichen oder Ergebnisbehauptungen. Alt-Texte und sichtbare KI-Symbolbildkennzeichnung. Keine visuelle Websiteprüfung.
+Prompts: professionelle realistische Branchenfotografie, Landschaft3:2, natürliches Licht, authentische Materialien und Anatomie. Fahrzeugsattlerin mit Lederproben und Autositz; Schweißfachkraft prüft kalte fertige Baugruppe ohne aktives Schweißen; Treppenbauer dokumentiert Bestand vom ebenen Boden aus.
+- /medien/ratgeber/fahrzeugsattlerin-lederauswahl-autositz.webp; Original exec-b32ade9e-3fa9-442d-89c3-63172b0421b2.png; Alt: Fahrzeugsattlerin vergleicht Lederproben neben einem ausgebauten Fahrzeugsitz
+- /medien/ratgeber/schweissfachkraft-pruefung-baugruppe.webp; Original exec-a85c32e3-060f-45fb-b28e-d2e7b645c6d0.png; Alt: Schweißfachkraft prüft eine fertige Metallbaugruppe neben einer Zeichnung
+- /medien/ratgeber/treppenbauer-bestandsaufnahme-innentreppe.webp; Original exec-9cc02cc6-6f55-4d0b-8f07-5a16341b530d.png; Alt: Treppenbauer dokumentiert die Einbausituation einer bestehenden Holzinnentreppe
