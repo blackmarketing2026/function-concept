@@ -67,9 +67,13 @@ Stand 24.11.2026. Maßgeblich ist zusätzlich der tatsächliche Repository-/PR-B
 | Steinmetzbetriebe | Wie gewinnen Steinmetzbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/steinmetzbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 (PR38; HTTP200, Inhalt/Bild/Sitemap geprüft) | /medien/ratgeber/steinmetz-naturstein-muster-werkbank.webp |
 | Rollladen- und Sonnenschutzbetriebe | Wie gewinnen Rollladen- und Sonnenschutzbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/rollladen-sonnenschutzbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | bestätigt live 25.11.2026 (PR38; HTTP200, Inhalt/Bild/Sitemap geprüft) | /medien/ratgeber/sonnenschutzberaterin-rollladen-ausstellung.webp |
 
+| Glasereien | Wie gewinnen Glasereien neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/glasereien-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/glaser-glasplatte-aufmass-werkstatt.webp |
+| Zaunbauer | Wie gewinnen Zaunbauer neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/zaunbauer-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/zaunbauer-gitterzaun-hoehe-pruefen.webp |
+| Garagentorbetriebe | Wie gewinnen Garagentorbetriebe neue Kunden mit Google Ads? | https://www.function-concept.com/ratgeber/garagentorbetriebe-kunden-gewinnen-google-ads | 2026-11-25 | erstellt; Veröffentlichung ausstehend | /medien/ratgeber/garagentor-beratung-geschlossenes-sektionaltor.webp |
+
 Neue redaktionelle Übersicht: https://www.function-concept.com/ratgeber (keine zusätzliche Inhaltsseite in der Ratgeberzählung).
 
-Nächste Kandidaten: Glaser, Zaunbauer, Tor- und Garagentorbetriebe. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
+Nächste Kandidaten: Gerüstbauer, Bauwerksabdichter, Brunnenbauer. Beauty-Salons wegen Überschneidung mit Kosmetikstudios zurückgestellt. Vor Erstellung Leistungsüberschneidungen, Bestand und offene PRs erneut prüfen.
 
 Live-Nachweis für die drei neuen Branchen und die Übersicht: [Prüfprotokoll](2026-11-24-branchen/live-check.json), [Veröffentlichung](2026-11-24-branchen/veroeffentlichung.md).
 
