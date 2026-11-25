@@ -1,0 +1,101 @@
+[
+  {
+    "url": "https://www.function-concept.com/ratgeber/estrichleger-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/estrichleger-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16042,
+    "sha256": "e25c960a83b854ee3f1e475acab7fc99cfa5061d8f540fb7e027500ce1e36260",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:37.730854+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/betonbohrbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/betonbohrbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16217,
+    "sha256": "2cfa2a82037f0f3fb5dadba5a36b7b093ea3390262c5f2ce1727b5d63d55da12",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:37.767057+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber/klimatechnikbetriebe-kunden-gewinnen-google-ads",
+    "final_url": "https://www.function-concept.com/ratgeber/klimatechnikbetriebe-kunden-gewinnen-google-ads",
+    "status": 200,
+    "bytes": 16593,
+    "sha256": "9fe6af95a209aeb77e4614ecde2dd8ce4b70bf719788127c5ff80fb7db905fa2",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:37.770420+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/estrichleger-bodenpruefung-rohbau.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/estrichleger-bodenpruefung-rohbau.webp",
+    "status": 200,
+    "bytes": 90320,
+    "sha256": "7c760f3118645dafa36c681826d612562e74484d75cd38c8e260dccc166efcec",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:37.794779+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/betonbohren-planung-kernbohrgeraet.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/betonbohren-planung-kernbohrgeraet.webp",
+    "status": 200,
+    "bytes": 131420,
+    "sha256": "8d88d3f321fd9c68562373ce10f9b49cf32ba8d783924af973b95d2d42c96d2b",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:37.835354+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/medien/ratgeber/klimatechnik-beratung-raumkuehlung.webp",
+    "final_url": "https://www.function-concept.com/medien/ratgeber/klimatechnik-beratung-raumkuehlung.webp",
+    "status": 200,
+    "bytes": 130002,
+    "sha256": "ab423263045e94ddd2f4852cf943c9c86e6dd8adce8d37acd23e3ce755f83040",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:43.650850+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/ratgeber",
+    "final_url": "https://www.function-concept.com/ratgeber",
+    "status": 200,
+    "bytes": 41512,
+    "sha256": "b2926489de34ab89b6218264dd9fa0cfd0bf96b2fc02e4892db074d1a06192c6",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:43.682603+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog",
+    "final_url": "https://www.function-concept.com/blog",
+    "status": 200,
+    "bytes": 39045,
+    "sha256": "2eaed0ccc59bfbbef6be83a6037bc7302237a261d10677229c7678b1f8a774ca",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:43.671175+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kundengewinnung",
+    "final_url": "https://www.function-concept.com/blog/kundengewinnung",
+    "status": 200,
+    "bytes": 36752,
+    "sha256": "c864c9aed3fe411c7a0eef798f41d088a55c0b859050fc5fb5d50fe90f4e4a18",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:44.322715+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/blog/kategorien",
+    "final_url": "https://www.function-concept.com/blog/kategorien",
+    "status": 200,
+    "bytes": 4022,
+    "sha256": "385bd0599adfa9fd581acfdc5fbd0f73bcea1b74c871617b96568142b746153c",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:43.638955+00:00"
+  },
+  {
+    "url": "https://www.function-concept.com/sitemap.xml",
+    "final_url": "https://www.function-concept.com/sitemap.xml",
+    "status": 200,
+    "bytes": 21151,
+    "sha256": "afb8d29ce906fa8fe0ac6ce8a1dfee6624e3644db4c3a576b2b69c4efaea9b41",
+    "repository_equal": true,
+    "checked_at_utc": "2026-11-25T02:08:49.434678+00:00"
+  }
+]
